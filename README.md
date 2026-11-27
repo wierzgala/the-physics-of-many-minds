@@ -32,7 +32,7 @@ https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
 | II | 4. A ruler and a clock for minds | Draft 1 |
 | II | 5. How much does a mind need to know? | Draft 1 |
 | II | 6. The glance | Draft 2 |
-| II | 7. How much can a mind do? | Planned |
+| II | 7. How much can a mind do? | Draft 1 |
 | III | 8. Two kinds of mind | Planned |
 | III | 9. How a mind divides | Draft 1 |
 | III | 10. The same thought at a different speed | Draft 2 |

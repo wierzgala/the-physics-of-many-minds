@@ -12,7 +12,7 @@ One tension runs through every chapter. A collective of agents must communicate 
 
 If the idea is right, some uncomfortable things follow. Each is a claim of the theory, argued in the chapter named, and each could be shown wrong.
 
-1. **You are not the only mind you are involved in.** You are built from agents, and you are an agent inside larger ones. Intelligence exists at several levels at once (Chapters 1, 3 and 8).
+1. **You are not the only mind you are involved in.** You are built from agents, and you are an agent inside larger ones. Intelligence exists at several levels at once, and minds are made of many small agents because that is the cheapest way to move information (Chapters 1, 3, 7 and 8).
 2. **Intelligence is not how much a mind knows. It is how little it needs.** Measured properly it has a maximum, and a superintelligence could not exceed it (Chapters 5 and 14).
 3. **Most of your intelligence was learned by someone else.** It was paid for by your ancestors and your culture and handed to you (Chapters 5 and 6).
 4. **Most of a message is sent before it is spoken.** A glance between old friends can carry more than a lecture between strangers, and the feeling of perfect understanding is the feeling of receiving almost no information (Chapter 6).

@@ -1,6 +1,6 @@
 # Plan of the book
 
-The book has four parts and sixteen chapters. Chapters 1 to 6, 9, 10 and 13 are drafted; the rest are planned.
+The book has four parts and sixteen chapters. Chapters 1 to 7, 9, 10 and 13 are drafted; the rest are planned.
 
 The argument runs in four moves. Part I says what a mind made of agents is. Part II gives it four measures: time and space, efficiency, meaning and capacity. Part III climbs the hierarchy: what kinds of mind there are, what holds a mind together, what stays the same from level to level, and how to find the levels. Part IV follows the theory to its edges: the self, the planet and the galaxy, the machines now joining us, and the quantum world.
 
@@ -17,7 +17,7 @@ Two threads tie the parts together. The first is a tension between integration a
 4. **A ruler and a clock for minds.** *(drafted)* Time and space. Dimensional analysis applied to thought: crossing times, the coherence number, bandwidth through a surface, and why catching a ball takes a brain of a particular size.
 5. **How much does a mind need to know?** *(drafted)* Efficiency. Intelligence as achievement per bit, a pure number with a ceiling of one. Twenty questions, children learning words, and machines that need ten thousand times more data. What a superintelligence could and could not be.
 6. **The glance.** *(drafted)* Meaning. What a message conveys depends on what sender and receiver already share. The context we are born with. A relationship as a compression algorithm, communication by exception, and why perfect understanding carries no news. The couple as a joint intelligence.
-7. **How much can a mind do?** Capacity, the other half of intelligence = capacity × efficiency. What energy, wiring and the cost of size allow a mind to process per second, and why bigger is not always faster.
+7. **How much can a mind do?** *(drafted)* Capacity, the other half of intelligence = capacity × efficiency. Nine hours of chewing, the one percent of the brain you can afford to use, and why thin channels are cheaper than fast ones. Why a mind's whole grows more slowly than its parts, what the machines spend, and the most intelligent kilogram physics allows.
 
 ## Part III. Minds inside minds
 
