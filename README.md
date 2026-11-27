@@ -36,7 +36,7 @@ https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
 | III | 8. Two kinds of mind | Draft 1 |
 | III | 9. How a mind divides | Draft 1 |
 | III | 10. The same thought at a different speed | Draft 2 |
-| III | 11. Fractals and breaks | Planned |
+| III | 11. Fractals and breaks | Draft 1 |
 | IV | 12. Where is the self? | Planned |
 | IV | 13. Minds the size of worlds | Draft 3 |
 | IV | 14. The new agents | Planned |
