@@ -27,6 +27,6 @@ The argument runs in four moves. Part I says what a mind made of agents is. Part
 ## Part IV. The edges
 
 12. **Where is the self?** Split brains, conjoined twins, and why a society can be intelligent without being anyone.
-13. **Minds the size of worlds.** *(drafted)* Humanity as a federated mind whose modules are languages. Why nations are not minds, why the Earth could be one, and what a galactic intelligence would have to be like.
+13. **Minds the size of worlds.** *(drafted)* Humanity as a federated mind whose modules are languages. Every species as a slow mind, and speciation as a mind dividing. Why nations are not minds, why the Earth could be one, and what a galactic intelligence would have to be like.
 14. **An intelligent Schrödinger's cat.** Facts that are actual for one agent and not yet for another, and an experiment that could tell.
 15. **How we could be wrong.** The predictions gathered in one place, with the observations that would refute them.

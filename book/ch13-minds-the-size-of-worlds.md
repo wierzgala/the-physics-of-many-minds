@@ -45,6 +45,44 @@ So the theory's verdict is that nations are modules, not minds. They are real an
 
 That something has no self either. Its sensory intake, eight billion pairs of eyes, vastly exceeds what flows between its members. By the measures of this book, humanity is intelligent in the way a swarm is intelligent, and conscious in the way a swarm is conscious, which is to say, as far as the theory can tell, not at all. There is thinking going on at the scale of the species. Nobody is doing it.
 
+## Every species is a mind
+
+So far this chapter has spoken as if humanity were the only candidate for a mind above the individual. It is not. By the definitions of this book, every species on Earth is one.
+
+Ask a biologist what a species is, and the standard answer is: a group of organisms that can interbreed. Look at that definition with this book's eyes. Breeding is an exchange of information. Each parent contributes a genome, and the offspring is a new combination of the two. A species is the set of organisms among whom that exchange can happen. In other words, a species is defined by a communication channel, and its boundary is where the channel closes. That is exactly how Chapter 3 defined a collective.
+
+It has the other ingredients too. Its agents are organisms. Its memory is the gene pool. And it learns. Natural selection writes information about the environment into that memory, generation after generation. The geneticist Motoo Kimura first tried to measure the rate in 1961 and arrived at a fraction of a bit per generation. Later arguments put the ceiling at around one bit per generation, and recent work has proved a general limit on how much information selection can accumulate each generation.
+
+So a species is a mind of the federated kind, and an almost unimaginably slow one. Its tick is a generation. Its learning rate is of the order of a bit per tick. A person behaves at ten bits per second. A species thinking through its genes takes years or decades to acquire what you acquire in a blink. But it never forgets, it is spread over a continent, and it can run for a million years. Like the swarm, it trades speed for reach, and like the swarm it has no self. This is a claim of the theory. The measurements of evolution's information rate are established science.
+
+### A second, faster channel
+
+Many species also talk in the ordinary sense, and that gives the species-mind a faster line.
+
+The best example is in the Pacific. Male humpback whales sing, and all the males in a population sing the current version of the same song. Researchers recording six neighbouring populations across the South Pacific over eleven years found that new songs appear in the west, off Australia, and sweep eastward from population to population, like cultural ripples, reaching French Polynesia about two years later. It is a conversation the width of an ocean, in which a single message takes two years to cross. Chapter 10 would call two years the crossing time of that mind, and nobody inside it hears more than a local stretch of the wave.
+
+### How a mind divides
+
+Darwin showed where species come from. A population is separated from the rest for long enough, it changes, and it becomes a species of its own. In this book's language, that is a mind dividing in two, and the theory says exactly why it happens.
+
+Chapter 6 argued that shared context is a store that has to be built by communication. It also has to be *maintained* by communication. Two groups that stop exchanging messages do not keep the same code for ever. Each drifts. When they have drifted far enough, they can no longer decode each other, and then the channel cannot be reopened even if the barrier between them disappears.
+
+There is a place where you can watch this happen along a line on a map. The greenish warbler is a small songbird of the Asian forests. Its populations form a ring around the treeless Tibetan plateau. Walk around the ring and the birds change gradually: each population sings a little differently from its neighbours, and neighbours still recognise each other and interbreed. But the two ends of the ring meet again in central Siberia, and there the two forms live side by side without interbreeding. When researchers played recordings of one form's song to the other, the birds did not respond. They no longer recognised it as the song of their own kind. The biologists who mapped this concluded that gradual divergence in a signal used for choosing mates had produced two species.
+
+Read that as a statement about communication. Nothing killed the channel between the two ends of the ring. The code drifted, one small step per population, until the message could no longer be read. The species boundary *is* a failure of decoding.
+
+Darwin himself noticed that the same thing happens to human languages. In *The Descent of Man* he wrote that the formation of different languages and of distinct species are "curiously parallel". The theory's claim is that this is not a parallel. It is one process seen twice. Latin, separated into regions that seldom spoke to each other, became French, Spanish and Romanian. An ancestral warbler, stretched around a plateau, became two birds. In both cases a collective held together by shared code split when traffic fell too low to keep the code shared.
+
+That suggests a pure number, to add to the list from Chapter 4: the rate at which a collective's parts exchange messages, divided by the rate at which their codes drift. While the ratio is high, the collective stays one. When it falls too low, it divides, and the division is permanent. Population geneticists have a famous rule of thumb of this kind: roughly one migrant per generation between two populations is enough to stop them drifting apart. The theory predicts that an equivalent threshold exists for every kind of collective: for dialects, for scientific fields that stop reading each other, for the divisions of a company.
+
+### The family tree of minds
+
+Put these pieces together and the living world looks different. The tree of life is a family tree of minds. Some four billion years ago there was one, sharing one code. It has been dividing ever since, each division a channel that closed and never reopened. Today there are millions of them on this planet, each slowly learning about its own corner of the world, almost none able to read another's signals. They are the purest case of Chapter 10's minds that cannot see each other, and we walk among them every day.
+
+They are not wholly cut off from one another, though. Chapter 6 pointed out that the deepest layer of shared context, the genetic code itself, is common to every living thing. That layer is the last trace of the time when all these minds were one. It is why a virus can read a human cell, and why a gene from a jellyfish works in a mouse.
+
+And it makes plain what is unusual about us. Every species has the slow channel of the genes. A few have a faster one in song or scent. Humans built a third, language, and a fourth, writing, each many orders of magnitude faster than the last. Our species-mind does not run at a bit per generation. It runs at the speed of speech, multiplied by eight billion. The human takeover of the planet, on this view, was not the victory of a clever animal over stupid ones. It was the victory of a fast collective mind over slow ones.
+
 ## The bottleneck has moved
 
 For nearly all of history, humanity's crossing time, the time for news to get from one side of the collective to the other, was months. A letter from Lisbon to Macau travelled by sail.
@@ -111,7 +149,9 @@ Put these together and you get a portrait: quiet, cold, slow, sparse, its rare s
 
 ## Could we become one?
 
-Humanity could seed such a thing. It could not become it and remain itself. Each expansion beyond the reach of light within a thought creates a new, separate mind that must be reconnected by context instead of by speed. A human galactic civilisation would be a family of minds that drift apart and are held together only by what they shared before they parted, and by rare, dense letters.
+Humanity could seed such a thing. It could not become it and remain itself.
+
+The reason is the one that split the warblers. A collective stays one only while its traffic outruns its drift. Human languages drift beyond mutual understanding in something like a thousand years (a rough figure). Two settlements whose messages take longer than that to cross between them cannot keep a common tongue, however hard they try. That puts the radius of a single human culture at a few hundred light-years at the very most, a small neighbourhood in a galaxy a hundred thousand light-years wide. Beyond it, colonies would become foreign to each other, and over longer spans, separated by more than gene flow can bridge, they would become different species. The galaxy would not be settled by humanity. It would be settled by humanity's descendants, who would be to one another what the two warblers of Siberia are: cousins who no longer know each other's song. Each expansion beyond the reach of light within a thought creates a new, separate mind that must be reconnected by context instead of by speed. A human galactic civilisation would be a family of minds that drift apart and are held together only by what they shared before they parted, and by rare, dense letters.
 
 There are, in the end, two kinds of greatness on offer, and physics does not let any mind have both. A mind can be unified, fast and present, and then it can be no bigger than a planet. Or it can be vast, and then it must be plural, slow and mostly silent. We are living, by coincidence or not, at the moment when a species first has to decide which of the two it is building.
 
@@ -119,6 +159,8 @@ There are, in the end, two kinds of greatness on offer, and physics does not let
 
 - Humanity has the ingredients of a collective mind: eight billion agents, shared codes, external memory. It is of the federated type, intelligent without being a self. Science is its clearest thought process.
 - Its modules follow shared language more than political borders, as phone-call networks and translation networks show. By the theory's test, nations are modules, not minds.
+- Every species is a collective mind by this book's definition: organisms exchanging information through genes, learning at about a bit per generation. Some have faster channels too, such as whale song crossing an ocean in two years.
+- Species form when communication falls too low to keep a code shared. The greenish warbler shows the code drifting until it cannot be read. Languages split the same way. A collective stays one only while its traffic outruns its drift.
 - Humanity's wiring is now fast. Its bottleneck is the human output of about ten bits per second and the thin junctions between languages. Machine translation and artificial agents act on exactly those two limits.
 - The speed of light caps a unified mind at the distance light travels in one of its thoughts. At human speed that is 90,000 km: enough for the Earth, not for the Moon.
 - Tighter integration risks the collective version of a seizure: uniform belief. The goal is shared code with diverse belief.
@@ -126,7 +168,7 @@ There are, in the end, two kinds of greatness on offer, and physics does not let
 
 ## How we could be wrong
 
-The claim that languages are humanity's modules predicts that boundaries in communication networks follow language more closely than they follow borders. Wider data could show the opposite. The claim that nations are not selves depends on a measure, the ratio of cross-border to internal information flow counted in meaning, that has not been computed. The claim that the human funnel, not latency, limits humanity's speed of thought predicts that faster networks alone will not shorten the time global questions take to settle, while better translation and machine participation will. The light-speed ceiling would fail only if relativity did. Everything said about galactic minds is extrapolation from laws tested at far smaller scales, and no observation currently distinguishes a galaxy with such a mind from one without.
+The claim that a species is a mind would be empty if it predicted nothing. It predicts that species boundaries should coincide with failures of signal recognition, as in the warbler, more often than with physical inability to breed, and that a threshold ratio of exchange to drift governs splitting in languages and organisations as it does in genes. If collectives routinely stay unified with almost no traffic, or split despite heavy traffic, the claim is wrong. The claim that languages are humanity's modules predicts that boundaries in communication networks follow language more closely than they follow borders. Wider data could show the opposite. The claim that nations are not selves depends on a measure, the ratio of cross-border to internal information flow counted in meaning, that has not been computed. The claim that the human funnel, not latency, limits humanity's speed of thought predicts that faster networks alone will not shorten the time global questions take to settle, while better translation and machine participation will. The light-speed ceiling would fail only if relativity did. Everything said about galactic minds is extrapolation from laws tested at far smaller scales, and no observation currently distinguishes a galaxy with such a mind from one without.
 
 ## Notes
 
@@ -136,6 +178,11 @@ The claim that languages are humanity's modules predicts that boundaries in comm
 - Sensory input of about a billion bits per second and behaviour at about ten: [Zheng & Meister 2024](https://arxiv.org/abs/2408.10234). Speech at about 39 bits per second: [Coupé et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6984970).
 - The global language network: [Ronen et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4284551).
 - Discrete hierarchy of human group sizes: [Zhou, Sornette, Hill & Dunbar 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC1634986/).
+- Information accumulated by natural selection: [Kimura 1961](https://www.cambridge.org/core/journals/genetics-research/article/natural-selection-as-the-process-of-accumulating-genetic-information-in-adaptive-evolution/0E0FA00558C5878B18C16800F58A24E5), with his figure of about 0.29 bits per generation given in [Kimura 1960](https://www.jstage.jst.go.jp/article/ggs1921/35/1/35_1_7/_article/-char/en); the "one bit per generation" speed limit as discussed in [this note](https://arxiv.org/pdf/2212.00430); a proved bound: [Hledík, Barton & Tkačik 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9457054).
+- Humpback whale song spreading across the South Pacific: [Garland et al. 2011](https://pubmed.ncbi.nlm.nih.gov/21497089/); the two-year crossing from Australia to French Polynesia: [Cell Press summary](https://www.sciencedaily.com/releases/2011/04/110414131444.htm).
+- The greenish warbler ring species and its songs: [Irwin, Bensch & Price 2001, "Speciation in a ring"](https://ideas.repec.org/a/nat/nature/v409y2001i6818d10.1038_35053059.html); [Irwin lab description](https://www.zoology.ubc.ca/~irwin/irwinlab/the-greenish-warbler-ring-species/).
+- Darwin on languages and species: quoted in [Whitfield 2008, PLoS Biology](https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.0060186).
+- The definition of a species by interbreeding and the one-migrant-per-generation rule are standard textbook biology. The age of life, the thousand-year figure for language drift, the radius of a single culture, and the comparison of genetic and cultural channel speeds are our own rough estimates. The reading of species as minds and of speciation as a failure of decoding is the theory's claim.
 - Social influence reducing the accuracy of crowds: [Lorenz et al. 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3107299).
 - Earth–Mars signal delay of about 3 to 22 minutes: [summary of NASA figures](https://spacedaily.com/t-earth-mars-radio-delay-44-minutes-solar-conjunction/).
 - Waiting for a colder universe (the aestivation hypothesis): [Sandberg, Armstrong & Ćirković 2017](https://arxiv.org/abs/1705.03394); the thermodynamic objection: [Bennett, Hanson & Riedel 2019](https://www.arxiv.org/abs/1902.06730).
