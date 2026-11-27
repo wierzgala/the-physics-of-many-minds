@@ -24,6 +24,20 @@ If the idea is right, some uncomfortable things follow. Each is a claim of the t
 10. **The Earth is small enough to be one mind thinking at human speed. The Moon is already too far.** A galaxy-wide mind is possible, but in the whole age of the galaxy it would have had time for only a few thousand decisions (Chapters 10 and 13).
 11. **What is real for you may not yet be real for the larger thing you are part of.** Facts become actual one agent, and one level, at a time (Chapter 15).
 
+## An integrated mind wrote this. A federated one must finish it.
+
+This book is itself a case of what it describes, and it is fair to say so at the start.
+
+Chapter 8 argues that there are two kinds of mind. A small, tightly coupled one can hold a whole problem at once and produce a new whole: a single picture in which every part depends on every other. A large, loosely coupled one cannot do that, but it can do something the small one cannot. It can look at the picture from thousands of positions at once, find the cases the picture does not cover, and improve it piece by piece. The evidence in that chapter is that small teams disrupt and large teams develop, and that science needs both.
+
+The theory in these pages is the work of the first kind of mind. It was put together by one person in close and continuous conversation with an AI system, Claude, which searched the literature, drafted, checked and argued back. That is about as integrated as a collaboration gets, and it shows in the result. The book has the strengths the theory predicts for such a mind: one idea followed everywhere, and connections drawn between fields that seldom meet. It must also be expected to have the weaknesses. An integrated mind has one stream of thought and one point of view. It is quick to see a pattern and slow to notice the exception, and when it is wrong, it is wrong all at once. Chapter 1 gives the reason: errors cancel only when the judgements are independent, and one mind's judgements are not independent of each other.
+
+So the next step cannot be taken by the mind that took the first. The theory now has to be worked on by the other kind: by many readers who know things the author does not, who inspect the site for themselves, as the scout bees do, and report honestly on what they find. The neuroscientist who knows where the brain chapters oversimplify, the biologist who knows the species that breaks the rule, the economist, the physicist, the sceptic: each sees an edge that could not be seen from the centre.
+
+The book's own rule applies to how that should be done. *Share code, not beliefs.* What readers are asked to share with the book is its language: the definitions, the measures and the predictions, stated plainly enough to be tested. What they are asked not to share is its conclusions. Every chapter ends with a section called *How we could be wrong*, and those sections are the invitation. A reader who shows that one of them has come true has contributed more than a reader who agrees.
+
+The book is kept in a public repository, with every change recorded, so that this can happen in the open. Corrections, counter-examples and better evidence are welcome there.
+
 ## How to read this book
 
 The book is the slow, descriptive companion to the technical foundations document. That document states the theory in compressed form: assumptions, variables, equations and predictions. Here the same ideas are built up from things you can see: a swarm hanging from a branch, a slime mould that redraws a railway map, a crowd guessing the weight of an ox.

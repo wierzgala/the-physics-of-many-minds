@@ -15,6 +15,10 @@ book/
   chNN-title.md      one file per chapter
 ```
 
+## Contributing
+
+The theory was drafted by a small, tightly coupled collaboration (one author working with an AI system). By its own argument (Chapter 8), it now needs the other kind of mind: many independent readers who test it against what they know. Corrections, counter-examples, edge cases and better evidence are welcome as issues or pull requests. The most useful contributions take one of the "How we could be wrong" sections and show that it has, or has not, come true.
+
 ## Companion document
 
 The compressed, technical statement of the theory (assumptions, variables, dimensionless groups, predictions) lives in the foundations document:
@@ -24,7 +28,7 @@ https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
 
 | Part | Chapter | Status |
 | --- | --- | --- |
-| — | Preface | Draft 5 |
+| — | Preface | Draft 6 |
 | — | Plan of the book | Draft 4 |
 | I | 1. The swarm that chooses a home | Draft 2 |
 | I | 2. Information is physical | Draft 2 |
