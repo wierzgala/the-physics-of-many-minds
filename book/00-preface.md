@@ -8,20 +8,21 @@ The intuition is not new. Writers have compared ant colonies to brains for decad
 
 One tension runs through every chapter. A collective of agents must communicate enough to act together, but not so much that its members stop judging for themselves. Crowds that copy each other lose their wisdom. A brain in which every neuron fires together is having a seizure. A couple who stop disagreeing stop being cleverer than either partner alone. The rule the theory keeps arriving at, in many forms, is short: **share code, not beliefs.** And one law keeps answering the question of what counts as a single mind at all: a collective is one for as long as the traffic inside it outruns some other rate, whether the pace of the world, the traffic across its boundary, or the drift of its shared code.
 
-## Ten provocations
+## Eleven provocations
 
 If the idea is right, some uncomfortable things follow. Each is a claim of the theory, argued in the chapter named, and each could be shown wrong.
 
 1. **You are not the only mind you are involved in.** You are built from agents, and you are an agent inside larger ones. Intelligence exists at several levels at once, and minds are made of many small agents because that is the cheapest way to move information (Chapters 1, 3, 7 and 8).
-2. **Intelligence is not how much a mind knows. It is how little it needs.** Measured properly it has a maximum, and a superintelligence could not exceed it (Chapters 5 and 14).
-3. **Most of your intelligence was learned by someone else.** It was paid for by your ancestors and your culture and handed to you (Chapters 5 and 6).
-4. **Most of a message is sent before it is spoken.** A glance between old friends can carry more than a lecture between strangers, and the feeling of perfect understanding is the feeling of receiving almost no information (Chapter 6).
-5. **The same thought can be thought at different speeds.** A brain does in half a second what a swarm does in sixteen hours, and it may be the very same thought (Chapter 10).
-6. **Every species is a mind, and the tree of life is its family tree.** A new species is a mind that divided because its halves could no longer read each other (Chapter 9).
-7. **A nation is not a mind, and humanity is not yet a self.** Both think, in a federated way, but nobody is home. What we feel of the larger mind is not its thoughts. It is belonging (Chapters 6, 12 and 13).
-8. **Humanity speaks a language no human speaks.** A price is one of its words. We can record it, and test our species the way a neurologist tests a brain (Chapter 13).
-9. **The Earth is small enough to be one mind thinking at human speed. The Moon is already too far.** A galaxy-wide mind is possible, but in the whole age of the galaxy it would have had time for only a few thousand decisions (Chapters 10 and 13).
-10. **What is real for you may not yet be real for the larger thing you are part of.** Facts become actual one agent, and one level, at a time (Chapter 15).
+2. **You can think only one thing at a time because you are one mind.** A mind of many agents acts as one by broadcasting, and a broadcast carries one programme. A swarm or a society can think many things at once, and for the same reason it is no one (Chapter 8).
+3. **Intelligence is not how much a mind knows. It is how little it needs.** Measured properly it has a maximum, and a superintelligence could not exceed it (Chapters 5 and 14).
+4. **Most of your intelligence was learned by someone else.** It was paid for by your ancestors and your culture and handed to you (Chapters 5 and 6).
+5. **Most of a message is sent before it is spoken.** A glance between old friends can carry more than a lecture between strangers, and the feeling of perfect understanding is the feeling of receiving almost no information (Chapter 6).
+6. **The same thought can be thought at different speeds.** A brain does in half a second what a swarm does in sixteen hours, and it may be the very same thought (Chapter 10).
+7. **Every species is a mind, and the tree of life is its family tree.** A new species is a mind that divided because its halves could no longer read each other (Chapter 9).
+8. **A nation is not a mind, and humanity is not yet a self.** Both think, in a federated way, but nobody is home. What we feel of the larger mind is not its thoughts. It is belonging (Chapters 6, 12 and 13).
+9. **Humanity speaks a language no human speaks.** A price is one of its words. We can record it, and test our species the way a neurologist tests a brain (Chapter 13).
+10. **The Earth is small enough to be one mind thinking at human speed. The Moon is already too far.** A galaxy-wide mind is possible, but in the whole age of the galaxy it would have had time for only a few thousand decisions (Chapters 10 and 13).
+11. **What is real for you may not yet be real for the larger thing you are part of.** Facts become actual one agent, and one level, at a time (Chapter 15).
 
 ## How to read this book
 

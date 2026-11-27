@@ -1,6 +1,6 @@
 # Plan of the book
 
-The book has four parts and sixteen chapters. Chapters 1 to 7, 9, 10 and 13 are drafted; the rest are planned.
+The book has four parts and sixteen chapters. Chapters 1 to 10 and 13 are drafted; the rest are planned.
 
 The argument runs in four moves. Part I says what a mind made of agents is. Part II gives it four measures: time and space, efficiency, meaning and capacity. Part III climbs the hierarchy: what kinds of mind there are, what holds a mind together, what stays the same from level to level, and how to find the levels. Part IV follows the theory to its edges: the self, the planet and the galaxy, the machines now joining us, and the quantum world.
 
@@ -21,7 +21,7 @@ Two threads tie the parts together. The first is a tension between integration a
 
 ## Part III. Minds inside minds
 
-8. **Two kinds of mind.** Integrated minds, like brains, whose agents talk as fast as they think, and federated minds, like swarms and societies, whose agents think far more than they say. The funnel as the mechanism that separates them, and what each kind is good at.
+8. **Two kinds of mind.** *(drafted)* Integrated minds, like brains, whose agents talk as fast as they think, and federated minds, like swarms and societies, whose agents think far more than they say. An octopus with eight semi-independent arms, why you can think only one thing at a time, ant colonies that cannot be overloaded, small teams that disrupt and large teams that develop, and why no mind can be large, fast and unified at once.
 9. **How a mind divides.** *(drafted)* Unity as a ratio of rates. Every species as a slow mind, a warbler that no longer recognises its own song, languages that split the way species do, and the tree of life as a family tree of minds.
 10. **The same thought at a different speed.** *(drafted)* Wind tunnels, scale models and cognitive time. A brain and a swarm decide in the same number of their own steps. How slow minds think about fast things. How many thoughts a mind gets in its lifetime, from a person to a galaxy.
 11. **Fractals and breaks.** Starling flocks, neuronal avalanches and the wiring of brains and chips. Finding where one agent ends and the next level begins.
