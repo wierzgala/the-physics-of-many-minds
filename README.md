@@ -41,8 +41,8 @@ https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
 | III | 9. How a mind divides | Draft 1 |
 | III | 10. The same thought at a different speed | Draft 2 |
 | III | 11. Fractals and breaks | Draft 1 |
-| IV | 12. Where is the self? | Planned |
+| IV | 12. Where is the self? | Draft 1 |
 | IV | 13. Minds the size of worlds | Draft 3 |
-| IV | 14. The new agents | Planned |
-| IV | 15. An intelligent Schrödinger's cat | Planned |
-| IV | 16. How we could be wrong | Planned |
+| IV | 14. The new agents | Draft 1 |
+| IV | 15. An intelligent Schrödinger's cat | Draft 1 |
+| IV | 16. How we could be wrong | Draft 1 |

@@ -1,6 +1,6 @@
 # Plan of the book
 
-The book has four parts and sixteen chapters. Chapters 1 to 11 and 13 are drafted; the rest are planned.
+The book has four parts and sixteen chapters. All sixteen chapters now exist in draft.
 
 The argument runs in four moves. Part I says what a mind made of agents is. Part II gives it four measures: time and space, efficiency, meaning and capacity. Part III climbs the hierarchy: what kinds of mind there are, what holds a mind together, what stays the same from level to level, and how to find the levels. Part IV follows the theory to its edges: the self, the planet and the galaxy, the machines now joining us, and the quantum world.
 
@@ -28,8 +28,8 @@ Two threads tie the parts together. The first is a tension between integration a
 
 ## Part IV. The edges
 
-12. **Where is the self?** Split brains, conjoined twins, couples and nations. Why a society can be intelligent without being anyone. The theory's position on consciousness, and belonging as what a larger mind feels like from inside.
+12. **Where is the self?** *(drafted)* Split brains, conjoined twins, couples and nations. Why a society can be intelligent without being anyone. The theory's position on consciousness, and belonging as what a larger mind feels like from inside.
 13. **Minds the size of worlds.** *(drafted)* Humanity as a federated mind whose modules are languages. The language a larger mind must speak, and an experiment for listening to humanity. Why nations are not minds, why the Earth could be one, and what a galactic intelligence would have to be like.
-14. **The new agents.** Machines joining the collective. Why a superintelligence cannot beat the ceiling on efficiency, why a machine shares our culture but not our genome, and what happens when agents that bypass the ten-bit funnel become a large part of humanity's conversation.
-15. **An intelligent Schrödinger's cat.** Facts that are actual for one agent and not yet for another, and an experiment that could tell.
-16. **How we could be wrong.** The predictions gathered in one place, with the observations that would refute them, and the design rule the theory leaves us with.
+14. **The new agents.** *(drafted)* Machines joining the collective. Why a superintelligence cannot beat the ceiling on efficiency, why a machine shares our culture but not our genome, and what happens when agents that bypass the ten-bit funnel become a large part of humanity's conversation.
+15. **An intelligent Schrödinger's cat.** *(drafted)* Facts that are actual for one agent and not yet for another, and an experiment that could tell.
+16. **How we could be wrong.** *(drafted)* The predictions gathered in one place, with the observations that would refute them, and the design rule the theory leaves us with.
