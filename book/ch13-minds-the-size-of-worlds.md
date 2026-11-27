@@ -99,7 +99,7 @@ Could humanity, or anything, become an intelligence on the scale of the galaxy? 
 
 **It would be slow beyond imagining.** Chapter 10 estimated a few million years per decision, and a few thousand decisions in the entire age of the galaxy. Its present moment would be a hundred thousand years wide.
 
-**It would care only about slow things.** A mind can think only about what changes more slowly than it does. A galactic mind could have no opinion about a war or a species. Its subjects would be the lives of stars and the chemistry of spiral arms.
+**It could act only on slow things.** A mind can keep pace only with what changes more slowly than it does. By the argument of Chapter 10, a galactic mind could still know about a war or a species, from the records its fast members keep. But it could do nothing about them in time. The only things it could steer would be the lives of stars and the chemistry of spiral arms.
 
 **It would speak almost never, and say almost nothing new.** With crossing times of millennia, bandwidth is nearly worthless and shared context is everything. By the argument of Chapter 6, its members would hold deep models of one another and communicate by exception: a message only when something departs from prediction. Silence would be its normal state, and silence would mean *all is as expected*.
 
