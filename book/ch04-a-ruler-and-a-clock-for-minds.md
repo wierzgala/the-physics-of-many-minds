@@ -52,7 +52,7 @@ When the number falls below one, something specific happens: the mind cannot act
 
 The swarm of Chapter 1 has a crossing time of tens of minutes, the round trip of a scout. It could never catch a ball. But its problem, a tree cavity that will stay where it is for years, changes far more slowly than the swarm ticks. Its coherence number is enormous. The swarm is a slow mind well matched to a slow problem.
 
-So the first pure number already yields a law in outline. **A collective can think as one only about things that change more slowly than signals cross it.** Chapter 13 applies this to planets and galaxies, where the signal is light and the law becomes a wall.
+So the first pure number already yields a law in outline. **A collective can act as one, in real time, only on things that change more slowly than signals cross it.** (It can still *think about* faster things, by means that Chapter 10 describes.) Chapter 13 applies this to planets and galaxies, where the signal is light and the law becomes a wall.
 
 It also explains a curious fact about experience. Perception does not come in instants. Experiments show that a sight and a sound are bound into one event if they arrive within a window of up to several hundred milliseconds of each other (13). The theory's reading is that this window is the brain's crossing time made visible: the shortest interval within which the brain can have agreed with itself about what happened. That reading is a hypothesis. The window is a measured fact.
 

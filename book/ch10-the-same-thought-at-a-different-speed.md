@@ -41,13 +41,34 @@ A melody is the same melody whether it is played in three minutes by a piccolo o
 
 Engineers know that similarity has limits, and the limits apply to minds too.
 
-**The world does not slow down for you.** A thought has to be about something, and the something has its own pace. The swarm's slow deliberation works because a hollow tree stays put for decades. A swarm could not use the same thought, at its speed, to catch a ball. A mind can only think thoughts about parts of the world that change more slowly than it ticks.
+**The world does not slow down for you.** A thought has to be about something, and the something has its own pace. The swarm's slow deliberation works because a hollow tree stays put for decades. A swarm could not use the same thought, at its speed, to catch a ball. A mind can only keep pace, in real time, with parts of the world that change more slowly than it ticks. Keeping pace is not the same as thinking about, and the difference matters enough to deserve its own section below.
 
 **You cannot match every number at once.** Ship designers face a famous version of this. A model hull in a towing tank should match two pure numbers, one for waves and one for friction, and with water as the fluid it is impossible to match both in a small model. They match the one that matters most and correct for the other. Minds face the same bind, because some quantities refuse to scale: the speed of light, the temperature of the surroundings, the energy cost of a bit. A galaxy-sized mind cannot be a brain enlarged. Some of its numbers must differ, and so some of its thoughts must differ in kind.
 
 **The thought has to fit.** The same thought needs the same information. A collective with a small memory or narrow channels can hold only a compressed version, the way a melody survives being whistled but a symphony does not.
 
 So the honest statement is that exact copies are rare and family resemblances are common. The theory's prediction is specific, though: where two systems differ, the mismatched number says in which direction their thoughts will differ.
+
+## How a slow mind thinks about fast things
+
+There is an obvious objection to the first of those limits. We think about things far faster than ourselves all the time. A physicist reasons about electrons, whose states change in a few tenths of an attosecond, and an attosecond is to one second roughly what one second is to the age of the universe. If a mind were limited to subjects slower than its own tick, physics would be impossible.
+
+The answer is that there are two different relations a mind can have with a part of the world, and the speed limit applies to only one of them.
+
+**Coupling** is following events as they happen and acting on them one by one. This is what the batter does with the ball, and it is strictly limited by the crossing time. No human will ever watch an electron move.
+
+**Modelling** is holding a description of something. A description does not have to change as fast as the thing it describes. Usually it does not change at all. That is how slow minds reach fast things, and they do it in four ways.
+
+1. **Turn time into space.** For years people argued about whether a galloping horse ever has all four hooves off the ground. The gallop is too fast for the eye. In June 1878 Eadweard Muybridge set a row of cameras along a racetrack in Palo Alto, each triggered as the horse passed, with shutters as fast as a thousandth of a second. The photographs showed the horse airborne. Nobody's perception got faster. The event was converted into a row of pictures that sit still on a table and can be studied for an hour. Every oscilloscope trace, every graph with time along one axis, is the same trick: a record is a fast thing made slow. The attosecond pulses that won the 2023 Nobel Prize in physics are Muybridge's cameras, a million billion times quicker.
+2. **Think about what does not change.** The path of one air molecule is hopelessly fast. The law that governs it is not fast at all; it is the same now as it was a billion years ago. A law of nature is the slowest object there is. When a physicist thinks about electrons she is thinking about the rule they follow, and the rule holds still.
+3. **Average.** Temperature is a summary of trillions of collisions per second. The summary changes slowly even though what it summarises does not. Chapter 3 said the air in your kitchen is not a mind, but you can still think about its temperature.
+4. **Delegate downward.** When your hand pulls back from the stove, a faster and smaller part of you has dealt with a problem the whole could not reach in time. We now build such parts on purpose. A camera, a particle detector and a computer are fast agents that couple to the fast world on our behalf and report back at ten bits per second.
+
+Notice that the first three all run through memory. A photograph, an equation and a statistic are stored things. So the speed limit on thought is really two limits with different remedies. What a mind can *react to* is set by its crossing time. What a mind can *think about* is set by its memory and its instruments. A mind with a good enough memory can think about anything, fast or slow, provided something else catches it first.
+
+The same trick works in the other direction, and this is easy to miss. We also think about things far *slower* than ourselves: the drift of continents, the evolution of species. No person lives long enough to watch them. We reach them through records too, laid down by rock strata and by generations of other people. Writing is to slow things what Muybridge's cameras are to fast ones.
+
+That has a consequence for the hierarchy of minds, and it is a claim of the theory. A small fast mind and a large slow mind are not sealed off from each other's subjects. The fast one can think about slow things by reading the records the slow one keeps. The slow one can think about fast things by reading the summaries the fast ones send up. That is exactly the traffic that flows between the levels of a collective: summaries going up, records coming down. What neither can do is *act* in the other's time. You can understand an ice age. You cannot do anything at the speed of one, and it is humanity, not you, that will have to respond to the next.
 
 ## How many thoughts does a mind get?
 
@@ -97,6 +118,7 @@ This technique is called data collapse. It is how physicists established that ve
 - The similarity principle: two minds with matching pure numbers think the same thought, each at its own speed.
 - A monkey's brain and a bee swarm use the same decision algorithm and take a similar number of their own steps, tens, although their durations differ about a hundred-thousand-fold. These counts are rough estimates.
 - Similarity is usually partial, because the environment has its own pace and some physical constants do not scale.
+- The speed limit applies to reacting, not to thinking about. Minds reach faster and slower things through records, unchanging laws, averages and delegated agents. All of these depend on memory.
 - Consequences: every mind has a finite budget of thoughts, about five billion for a person and a few thousand for a galaxy; every mind's "now" has a width; minds at very different speeds would be invisible to each other.
 
 ## How we could be wrong
@@ -108,4 +130,7 @@ The principle fails if the data-collapse test fails: if decisions of the same ty
 - Dynamical similarity and the Reynolds number are standard fluid mechanics; the impossibility of matching the Froude and Reynolds numbers together in ship-model tests is a textbook result.
 - The swarm's 16 hours of dancing and the shared decision algorithm: [Seeley, Visscher & Passino 2006](https://bees.ucr.edu/media/156/download); [Seeley et al. 2012 (Cornell summary)](https://news.cornell.edu/node/271186); [Marshall et al. 2009](https://ora.ox.ac.uk/objects/uuid:e1bddf33-2467-4a42-846c-0ba4a556b138).
 - Step counts for the monkey and the swarm, the fifty-ticks figure, and all thought budgets are our own rough estimates. The size and age of the Milky Way are approximate standard values.
+- Muybridge's photographs of the galloping horse, 19 June 1878: [IEEE Spectrum](https://spectrum.ieee.org/consumer-electronics/audiovideo/june-1878-muybridge-photographs-a-galloping-horse); the debate they settled: [Smithsonian Magazine](https://www.smithsonianmag.com/smithsonian-institution/how-19th-century-photographer-first-gif-galloping-horse-180970990/).
+- Attosecond pulses and the timescale of electrons: [Nobel Prize in Physics 2023, press release](https://nobelprize.org/prizes/physics/2023/press-release/).
+- The distinction between coupling and modelling, and the claim about traffic between levels, are the theory's own.
 - Scale-free behaviour near critical points in living systems: [Cavagna et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2900681); [Beggs & Plenz 2003](https://pmc.ncbi.nlm.nih.gov/articles/PMC6741045).
