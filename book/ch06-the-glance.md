@@ -32,7 +32,7 @@ This gives us a rule and a number.
 
 **The rule: meaning = bits sent now + bits shared before.** No message carries more new information than its bit count allows; Shannon's limits stand. But the meaning a message unlocks can be far larger than the message, because it draws on a store that sender and receiver built earlier.
 
-**The number: context amplification**, written κ (kappa). It is the size of the thought divided by the bits actually needed to send it, given the shared context. Between strangers κ is close to 1. Between the couple at the dinner table it may be in the hundreds.
+**The number: context amplification**, written κ (kappa). It is the size of the thought divided by the bits actually needed to send it, given the shared context. Between strangers κ is low, though never as low as 1, for a reason we will come to. Between the couple at the dinner table it may be in the hundreds.
 
 There is an old joke about this. A newcomer arrives in a prison and hears an inmate call out "forty-two!". Everyone roars with laughter. Another shouts "seventeen!", and they laugh again. His cellmate explains: we have all been here so long that we know every joke by heart, so we numbered them. That is κ. The joke about the joke is that the newcomer tries "twenty-nine" and nobody laughs, because some people just can't tell a joke. Even with a perfect code, delivery is a channel too.
 
@@ -41,6 +41,39 @@ There is an old joke about this. A newcomer arrives in a prison and hears an inm
 Now the waggle dance makes sense. Seven bits can direct a bee to a hollow tree three kilometres away because every bee is born with the codebook: angle means direction relative to the sun, duration means distance, vigour means quality. That codebook was written into the genome over millions of years of selection. Each dance is a tiny withdrawal from an enormous account.
 
 The same is true of every working collective. Neurons share a code fixed by development and tuned by learning. Scientists share mathematics. The members of a jazz quartet share thousands of hours of listening to the same records. In each case the wire between the agents is thin, and the collective works anyway, because the wire only has to carry the difference.
+
+## The context you were born with
+
+The bees' codebook is in their genes. So is a large part of ours, and it is easy to overlook because we never had to learn it.
+
+Before two people have exchanged a word, before either has a language or a culture, they already share an enormous store of context. A human genome is a text of about three billion letters, and any two people's copies are about 99.9% identical. At two bits per letter, that is some six billion bits held in common by every pair of humans who have ever met (that last figure is our arithmetic). No friendship, however long, adds shared context on that scale by talking.
+
+What is written there is not knowledge of the world. Six billion bits could not specify the 10¹⁵ bits a brain will eventually hold. It is something more useful for communication: the plans for the same sense organs, the same emotions, the same face, and the same expectations about other faces. It is a shared decoder.
+
+The evidence that this decoder is inherited, not learned, is striking.
+
+- **Newborns arrive expecting faces.** In a classic experiment, 24 babies were tested within their first hour of life. They turned their heads and eyes further to follow a simple face-like pattern than to follow the same features scrambled. They had never seen a face.
+- **The blind make the faces they have never seen.** Researchers photographed judo athletes at the 2004 Olympic and Paralympic Games at the moment they won or lost a medal match: 84 sighted athletes and 76 blind ones, some blind from birth. The expressions of the congenitally blind were the same as those of the sighted, down to the individual muscle movements. They could not have copied them from anyone.
+
+So the dinner-party glance works at two depths. The eyebrow means what it means to that couple because of forty years together. But an eyebrow means *anything at all*, to any human, because of a code written long before either of them was born. A smile from a stranger in a country whose language you do not speak is a message with a very high κ, and the context it draws on is the genome.
+
+This shows that shared context comes in layers, each built on a different clock.
+
+| Layer | Who shares it | Time taken to build |
+| --- | --- | --- |
+| The chemistry of life: the genetic code itself | every living thing, bees included | billions of years |
+| The human genome: senses, emotions, faces, the capacity for language | every human | hundreds of thousands of years |
+| A language and a culture | millions of people | centuries |
+| A profession, a field, a craft | thousands | decades |
+| A friendship, a marriage, a team | a few | years |
+
+Each layer is narrower than the one below it and quicker to write. And each rests on the ones beneath: a marriage is written in a language, a language runs on a human brain, and a human brain is built by a genome. When we count the bits a glance does not have to carry, most of them were paid for by ancestors.
+
+Two consequences follow, and both are claims of the theory.
+
+First, the deepest layers are also the safest. A couple's shared context dies with them. A language can die with its last speakers. The genomic layer is copied into eight billion bodies and is, for now, the most redundant store of shared context our species has. It is what makes humanity one collective at all, underneath its seven thousand languages.
+
+Second, the hardest communication problem is not a narrow channel. It is a partner with whom the lower layers are missing. A mind that did not share our evolutionary history, whether it grew on another planet or in a data centre, would lack the layer that makes a smile readable. A machine trained on human writing inherits much of the cultural layer, which is why we can talk to it at all. It does not inherit the layer beneath. The theory predicts that misunderstandings between humans and such minds will cluster exactly there: in everything we never say because no human has ever needed to be told.
 
 ## What the evidence says
 
@@ -68,7 +101,7 @@ It predicts something about loss as well. If part of your memory system is held 
 
 ### Context beats bandwidth, but nothing beats latency
 
-There are two ways to make a channel carry more meaning: widen it, or share more context. Widening has hard physical costs in energy and wiring, as Chapter 7 shows. Context has no such ceiling. So as collectives grow and their wires grow thinner relative to their size, they should lean more and more on context. The swarm does. Human civilisation does: a single equation on a blackboard can redirect a thousand careers, because of the decades of training its readers share.
+There are two ways to make a channel carry more meaning: widen it, or share more context. Widening has hard physical costs in energy and wiring, as Chapter 7 shows. Context has no such ceiling, and as we have seen, every human collective starts with billions of bits of it already in place, inherited. So as collectives grow and their wires grow thinner relative to their size, they should lean more and more on context. The swarm does. Human civilisation does: a single equation on a blackboard can redirect a thousand careers, because of the decades of training its readers share.
 
 But shared context cannot make a message arrive sooner. A signal still has to cross the distance. This asymmetry will decide the shape of very large minds in Chapter 13: they can be rich in meaning, and they cannot be fast.
 
@@ -118,6 +151,9 @@ The central claim fails if shared context turns out not to be measurable, even r
 - Shannon's exclusion of meaning and Weaver's three levels: [Weaver 1949, *The Mathematics of Communication*](https://Monoskop.org/images/b/b3/Weaver_Warren_1949_1973_The_Mathematics_of_Communication.pdf); Shannon quoted in [this technical report](https://apps.dtic.mil/sti/pdfs/ADA544137.pdf).
 - Coding with side information at the receiver: Slepian & Wolf 1973, summarised in [this overview](https://arxiv.org/pdf/2403.07409).
 - Information content of the waggle dance: [Schürch & Ratnieks 2015](https://www.frontiersin.org/articles/10.3389/fevo.2015.00022).
+- Human genomes of about three billion letters, about 99.9% identical between people: [NHGRI, Human Genomic Variation](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation). The six-billion-bit figure, the layer table and its timescales are our own estimates.
+- Newborns tracking face-like patterns in the first hour of life: [Johnson, Dziurawiec, Ellis & Morton 1991](https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Newborns-preferential-tracking-of-face-like-stimuli/991005543269907891); review: [this review of infant face perception](https://pmc.ncbi.nlm.nih.gov/articles/PMC3090162). Some studies have failed to replicate the effect, though most of the literature supports it.
+- Facial expressions of congenitally blind athletes: [Matsumoto & Willingham 2009](https://pubmed.ncbi.nlm.nih.gov/19210060/); numbers of athletes: [APA press release](https://www.apa.org/news/press/releases/2008/12/facial-expressions).
 - Transactive memory in close couples: [Wegner, Erber & Raymond 1991](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/dwegner/files/wegnererberraymond1991.pdf).
 - Team familiarity and performance in 1,015 software projects: [Huckman, Staats & Upton 2009](https://econpapers.repec.org/RePEc:inm:ormnsc:v:55:y:2009:i:1:p:85-100); summary: [strategy+business](https://strategy-business.com/article/re00013).
 - Collective intelligence factor in 192 groups: [Woolley et al. 2010](https://pubmed.ncbi.nlm.nih.gov/20929725/); the eyes test: [Harvard summary](https://www.gap.hks.harvard.edu/evidence-collective-intelligence-factor-performance-human-groups).
