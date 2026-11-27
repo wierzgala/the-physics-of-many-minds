@@ -83,6 +83,47 @@ They are not wholly cut off from one another, though. Chapter 6 pointed out that
 
 And it makes plain what is unusual about us. Every species has the slow channel of the genes. A few have a faster one in song or scent. Humans built a third, language, and a fourth, writing, each many orders of magnitude faster than the last. Our species-mind does not run at a bit per generation. It runs at the speed of speech, multiplied by eight billion. The human takeover of the planet, on this view, was not the victory of a clever animal over stupid ones. It was the victory of a fast collective mind over slow ones.
 
+## Listening to a larger mind
+
+If humanity thinks, it must be saying something to itself. Chapter 10 warned that minds running at very different speeds cannot perceive one another, so we should not expect to overhear it directly. But the theory constrains what a language at any level has to be like, and that tells us where to listen.
+
+### The grammar of a higher level
+
+Look again at the two languages we know from the inside out: the brain's, spoken by neurons, and the swarm's, spoken by bees. They share features that follow from the funnel, from shared context and from the crossing time. The theory predicts the same features at every level. These are hypotheses.
+
+1. **Its words are populations, not utterances.** In the brain, the signal is how many neurons in a group are firing. In the swarm, it is how many scouts are dancing for a site. No single neuron or bee says the word. Humanity's words should likewise be counts and flows: how many people are buying, moving, reading, citing.
+2. **A word lasts about as long as the mind's crossing time.** Milliseconds in a brain, hours in a swarm. As a collective's crossing time shrinks, its words should get shorter.
+3. **The vocabulary is tiny.** A message is a pointer and a magnitude: *this site, this good*.
+4. **Signals fade unless renewed**, as a scout's dance shortens with every return.
+5. **Rival messages suppress one another**, as the scouts' stop signals do.
+6. **It is unreadable without the shared context**, and so looks like noise from outside.
+7. **Those who speak it do not hear it.** Each agent knows only its own act.
+
+### Words we have already recorded
+
+Three of these have been measured in human society, by researchers who were not looking for a language.
+
+**The price.** In 1945 the economist Friedrich Hayek asked how a society makes use of knowledge that no single person possesses. His example was tin. Suppose that somewhere a new use for tin appears, or a mine fails. It does not matter which, he pointed out, and that it does not matter is the important thing. The price of tin rises. All over the world people who know nothing of the cause use a little less tin and look for substitutes. The whole acts as one market, he wrote, not because any of its members survey the whole field, but because their limited fields of vision overlap enough for the relevant information to reach everyone. A price is a single number, a magnitude attached to a pointer. It is set by a population and spoken by nobody. And those who respond to it do not know what it says. It is features 1, 3 and 7 exactly. A price is a word in the language of humanity.
+
+**The fading.** Researchers tracked how attention to cultural products declines over time: citations to papers and patents, and online attention to songs, films and biographies. In every case the decline followed the same curve, a fast decay followed by a slow one. They interpreted the two parts as two kinds of memory: one carried by people talking, which fades quickly, and one carried by records, which fades slowly. That is the bees' fading dance at human scale. Its two channels are the two that Chapter 10 distinguished: live coupling, and memory.
+
+**The shortening.** Another group measured how long topics hold collective attention, across Twitter, books, web searches, films and Wikipedia, over periods of years to decades. Bursts of attention are becoming steeper and shorter, and occurring more often. A model in which topics compete for a limited supply of attention reproduces the data. The theory predicts this from feature 2: humanity's crossing time has collapsed, so its words are getting shorter. And the competition for finite attention is feature 5, cross-inhibition, under another name.
+
+### An electroencephalogram for humanity
+
+These hints suggest an experiment, and it is one that could be started tomorrow with public data.
+
+A neurologist listens to a brain by placing electrodes over its regions and recording each one's activity. This chapter has argued that humanity's regions are its language communities. So place an electrode on each: record, hour by hour, the activity of each language edition of a large public resource, such as the page views of Wikipedia in each of its languages. Then ask of this recording what Chapter 3 asked of the cortex.
+
+- **Does activity spread in avalanches?** In brain tissue, cascades of activity have a characteristic range of sizes, the signature of a system balanced at a critical point. Do cascades of attention across languages show the same pattern?
+- **Does humanity decide the way swarms and brains do?** When rival alternatives compete for attention, does support for each build up toward a threshold while suppressing the other?
+- **Is it the same thought at a different speed?** Rescale time by humanity's crossing time. Do its curves fall on top of those from swarms and brains, as Chapter 10 predicts?
+- **How integrated is it, and how differentiated?** Doctors probe a brain by sending in a magnetic pulse and measuring the complexity of the echo: widespread *and* varied means awake, local or uniform means not. Humanity receives such pulses regularly, in the form of sudden world events. Measure the echo across languages in the same way.
+
+The last test would give a number to this chapter's warning. Tracked over the years, a rising score would mean a species becoming more integrated while staying diverse. A falling one, caused by every language community reacting to everything in the same way at the same moment, would be the signature of the civilisational seizure described below.
+
+Two cautions are needed. An event that reaches every community at once from outside is like a flash of light on the retina: it is input, not internal conversation, and the analysis has to separate the two. And the readers of any one website are not humanity. But nothing in this programme requires new instruments. For the first time, a larger mind has left its recordings lying about in public.
+
 ## The bottleneck has moved
 
 For nearly all of history, humanity's crossing time, the time for news to get from one side of the collective to the other, was months. A letter from Lisbon to Macau travelled by sail.
@@ -161,6 +202,7 @@ There are, in the end, two kinds of greatness on offer, and physics does not let
 - Its modules follow shared language more than political borders, as phone-call networks and translation networks show. By the theory's test, nations are modules, not minds.
 - Every species is a collective mind by this book's definition: organisms exchanging information through genes, learning at about a bit per generation. Some have faster channels too, such as whale song crossing an ocean in two years.
 - Species form when communication falls too low to keep a code shared. The greenish warbler shows the code drifting until it cannot be read. Languages split the same way. A collective stays one only while its traffic outruns its drift.
+- Any higher-level language should consist of population-level signals with a tiny vocabulary that fade, compete and go unheard by those who produce them. Prices, the decay of collective attention and its shortening bursts fit. Recording each language community's activity would allow humanity to be tested like a brain.
 - Humanity's wiring is now fast. Its bottleneck is the human output of about ten bits per second and the thin junctions between languages. Machine translation and artificial agents act on exactly those two limits.
 - The speed of light caps a unified mind at the distance light travels in one of its thoughts. At human speed that is 90,000 km: enough for the Earth, not for the Moon.
 - Tighter integration risks the collective version of a seizure: uniform belief. The goal is shared code with diverse belief.
@@ -169,6 +211,8 @@ There are, in the end, two kinds of greatness on offer, and physics does not let
 ## How we could be wrong
 
 The claim that a species is a mind would be empty if it predicted nothing. It predicts that species boundaries should coincide with failures of signal recognition, as in the warbler, more often than with physical inability to breed, and that a threshold ratio of exchange to drift governs splitting in languages and organisations as it does in genes. If collectives routinely stay unified with almost no traffic, or split despite heavy traffic, the claim is wrong. The claim that languages are humanity's modules predicts that boundaries in communication networks follow language more closely than they follow borders. Wider data could show the opposite. The claim that nations are not selves depends on a measure, the ratio of cross-border to internal information flow counted in meaning, that has not been computed. The claim that the human funnel, not latency, limits humanity's speed of thought predicts that faster networks alone will not shorten the time global questions take to settle, while better translation and machine participation will. The light-speed ceiling would fail only if relativity did. Everything said about galactic minds is extrapolation from laws tested at far smaller scales, and no observation currently distinguishes a galaxy with such a mind from one without.
+
+The account of humanity's language is also testable. If activity across language communities shows no avalanche pattern, if collective choices show no build-up and mutual suppression, or if the curves refuse to collapse onto those of swarms and brains when time is rescaled, then humanity does not think in the way this chapter claims, however much it talks.
 
 ## Notes
 
@@ -183,6 +227,11 @@ The claim that a species is a mind would be empty if it predicted nothing. It pr
 - The greenish warbler ring species and its songs: [Irwin, Bensch & Price 2001, "Speciation in a ring"](https://ideas.repec.org/a/nat/nature/v409y2001i6818d10.1038_35053059.html); [Irwin lab description](https://www.zoology.ubc.ca/~irwin/irwinlab/the-greenish-warbler-ring-species/).
 - Darwin on languages and species: quoted in [Whitfield 2008, PLoS Biology](https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.0060186).
 - The definition of a species by interbreeding and the one-migrant-per-generation rule are standard textbook biology. The age of life, the thousand-year figure for language drift, the radius of a single culture, and the comparison of genetic and cultural channel speeds are our own rough estimates. The reading of species as minds and of speciation as a failure of decoding is the theory's claim.
+- Prices as carriers of dispersed knowledge, and the tin example: [Hayek 1945, "The Use of Knowledge in Society"](https://www.econlib.org/library/Essays/hykKnw.html).
+- Universal two-stage decay of collective attention: [Candia et al. 2019, Nature Human Behaviour](https://research.ceu.edu/en/publications/the-universal-decay-of-collective-memory-and-attention/).
+- Shortening bursts of collective attention and the competition model: [Lorenz-Spreen et al. 2019, Nature Communications](https://pmc.ncbi.nlm.nih.gov/articles/PMC6465266).
+- Neuronal avalanches and the perturbational complexity index: see the notes to Chapter 3.
+- The seven features of higher-level languages, the reading of prices as words, and the proposed experiment are the theory's own.
 - Social influence reducing the accuracy of crowds: [Lorenz et al. 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3107299).
 - Earth–Mars signal delay of about 3 to 22 minutes: [summary of NASA figures](https://spacedaily.com/t-earth-mars-radio-delay-44-minutes-solar-conjunction/).
 - Waiting for a colder universe (the aestivation hypothesis): [Sandberg, Armstrong & Ćirković 2017](https://arxiv.org/abs/1705.03394); the thermodynamic objection: [Bennett, Hanson & Riedel 2019](https://www.arxiv.org/abs/1902.06730).

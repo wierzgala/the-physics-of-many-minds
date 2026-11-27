@@ -6,17 +6,20 @@ A brain is such a process, built from neurons. A honeybee swarm is another, buil
 
 The intuition is not new. Writers have compared ant colonies to brains for decades, and Marvin Minsky described the mind as a "society" of simpler agents. What this book adds is an insistence on physics. We will count information in bits, distances in metres, time in seconds and energy in joules. Then we will ask what those numbers allow and what they forbid.
 
-## Seven provocations
+## Ten provocations
 
 If the idea is right, some uncomfortable things follow. Each is a claim of the theory, argued in the chapter named, and each could be shown wrong.
 
 1. **You are not the only mind you are involved in.** You are built from agents, and you are an agent inside larger ones. Intelligence exists at several levels at once (Chapters 1, 3 and 8).
-2. **Intelligence is not how much a mind knows. It is how little it needs.** The right measure is achievement per bit (Chapter 5).
-3. **Most of a message is sent before it is spoken.** A glance between old friends can carry more than a lecture between strangers, and the feeling of perfect understanding is the feeling of receiving almost no information (Chapter 6).
-4. **The same thought can be thought at different speeds.** A brain does in half a second what a swarm does in sixteen hours, and it may be the very same thought (Chapter 10).
-5. **A nation is not a mind, and humanity is not yet a self.** Both think, in a federated way, but nobody is home (Chapters 12 and 13).
-6. **The Earth is small enough to be one mind thinking at human speed. The Moon is already too far.** A galaxy-wide mind is possible, but in the whole age of the galaxy it would have had time for only a few thousand decisions (Chapters 10 and 13).
-7. **What is real for you may not yet be real for the larger thing you are part of.** Facts become actual one agent, and one level, at a time (Chapter 14).
+2. **Intelligence is not how much a mind knows. It is how little it needs.** Measured properly it has a maximum, and a superintelligence could not exceed it (Chapter 5).
+3. **Most of your intelligence was learned by someone else.** It was paid for by your ancestors and your culture and handed to you (Chapters 5 and 6).
+4. **Most of a message is sent before it is spoken.** A glance between old friends can carry more than a lecture between strangers, and the feeling of perfect understanding is the feeling of receiving almost no information (Chapter 6).
+5. **The same thought can be thought at different speeds.** A brain does in half a second what a swarm does in sixteen hours, and it may be the very same thought (Chapter 10).
+6. **Every species is a mind, and the tree of life is its family tree.** A new species is a mind that divided because its halves could no longer read each other (Chapter 13).
+7. **A nation is not a mind, and humanity is not yet a self.** Both think, in a federated way, but nobody is home. What we feel of the larger mind is not its thoughts. It is belonging (Chapters 6, 12 and 13).
+8. **Humanity speaks a language no human speaks.** A price is one of its words. We can record it, and test our species the way a neurologist tests a brain (Chapter 13).
+9. **The Earth is small enough to be one mind thinking at human speed. The Moon is already too far.** A galaxy-wide mind is possible, but in the whole age of the galaxy it would have had time for only a few thousand decisions (Chapters 10 and 13).
+10. **What is real for you may not yet be real for the larger thing you are part of.** Facts become actual one agent, and one level, at a time (Chapter 14).
 
 ## How to read this book
 

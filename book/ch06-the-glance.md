@@ -132,7 +132,25 @@ Shared code raises κ without costing independence. Shared belief raises κ by d
 
 One more consequence, to be developed in Chapter 12. This book will propose that a self ends where communication with the outside becomes much thinner than communication within. Counted in raw bits, two people are hopelessly separate: speech carries about 39 bits per second, against perhaps a hundred million between the two halves of one brain.
 
-Counted in meaning, the gap narrows. For two people with decades of shared context, each spoken bit does the work of hundreds. They remain two selves, by many orders of magnitude. But they are measurably closer to being one system than two strangers are, and the theory says that "we" is, for them, a slightly more literal word.
+Counted in meaning, the gap narrows. For two people with decades of shared context, each spoken bit does the work of hundreds. They remain two selves, by many orders of magnitude. But they are measurably closer to being one system than two strangers are. That raises two questions: is the pair smarter than its members, and what is it like to be half of one?
+
+### Are two heads better than one?
+
+Sometimes, and the conditions have been measured. In a well-known experiment, pairs of volunteers looked for a faint target in a visual display, first deciding alone and then, when they disagreed, talking it over. When the two had similar eyesight, the pair did better than its better member. When their abilities were very different, the pair did *worse* than its better member would have done alone. And the benefit appeared only when they could talk freely; being told afterwards who had been right was not enough. The explanation that fitted the data was that partners were telling each other how confident they were, and a pair can combine two opinions well only if each can read the other's confidence accurately.
+
+A long-established couple is close to the ideal case for this. Their shared code is deep, so "I'm fairly sure" means the same thing to both. Each knows what the other is reliable about. By the argument of this chapter, their joint η should exceed either's alone.
+
+But the theory attaches the same condition it attaches to every collective. The gain comes from combining *independent* judgements. A couple who have come to believe all the same things are two copies of one opinion, and two copies are worth one. So the theory predicts that a couple's joint intelligence can rise and then fall over the years: understanding keeps improving, but if the two stop disagreeing, and stop bringing home different experiences, the advantage drains away. The most intelligent couples should be those who understand each other perfectly and still argue.
+
+### What it feels like
+
+Psychologists have measured the merging that couples describe. In one study, married people were shown a list of traits and asked to press a button for "me" or "not me". They were slower, and made more errors, on traits that were true of them but not of their spouse, or the reverse, as if they had to stop and work out which of the two the trait belonged to. The researchers called this including the other in the self. In another part of the same work, people sharing out money treated a close friend almost as they treated themselves.
+
+The cost of losing that other half is also on record. Combining studies of more than two million people, one analysis found that the risk of dying is raised by about 41 percent in the first six months after a spouse's death, and by about 14 percent after that. Bereavement harms people in many ways, so this is not proof of the idea. It is what the idea would lead one to expect.
+
+Here is the theory's reading, and it is a claim. The couple is not a self. By the measure above, there is no joint experience; the feeling of "us" occurs separately in each partner. What has changed is each partner's model of themselves. It has stretched to include things that are stored in the other: memories, judgements, the ability to predict what happens next. Your self no longer ends at your skin, because part of the machinery you rely on to be yourself is in someone else's head.
+
+If that is right, it answers a question that the hierarchy of minds keeps raising. What is it like to be part of a larger intelligence? It is not like thinking the larger mind's thoughts. Chapter 10 argues that those are out of reach: a neuron has no access to the thought it takes part in, and we have none to humanity's. What reaches us is something else. It is the experience of *belonging*: of a self whose boundary has moved outward to take in others. A marriage produces it at full strength. A team, a regiment, a congregation and a nation may produce the same thing more faintly, by the same mechanism. Loyalty, on this view, is what participation in a larger mind feels like from inside. That last step is speculation.
 
 ## In short
 
@@ -140,11 +158,14 @@ Counted in meaning, the gap narrows. For two people with decades of shared conte
 - A receiver who shares context with the sender needs only the bits it could not have guessed. Meaning = bits sent now + bits shared before.
 - Context amplification κ measures how much thought each transmitted bit unlocks. It is a property of a pair of agents, not of a channel.
 - Couples, experienced teams and socially sensitive groups outperform what their individual abilities predict, as the idea requires.
+- Two heads beat one when the pair can communicate confidence accurately and their judgements stay independent. Couples measurably include each other in their sense of self.
 - The theory's claims: relationships are compression algorithms whose cost is amortised; context can substitute for bandwidth but never for speed; mature collectives communicate by exception, and their silence is meaningful; perfect understanding carries no information, so collectives must share codes while keeping beliefs diverse.
 
 ## How we could be wrong
 
 The central claim fails if shared context turns out not to be measurable, even roughly, in real pairs of agents. It would also fail if long-established teams showed no advantage once individual skill is accounted for, or if groups with uniform beliefs turned out to solve hard, novel problems as well as groups with diverse ones. The claim about communication by exception predicts that message rates between partners should fall as their shared history grows while their coordination improves. If coordination in long-lived teams instead required ever more talk, the claim would be wrong.
+
+The account of couples predicts a rise and fall. If pairs who agree about everything decide as well as pairs who understand each other and still differ, the independence condition is wrong. If long-married partners turn out to be no better than strangers at reading each other's confidence, the shared-code argument fails for them.
 
 ## Notes
 
@@ -157,6 +178,10 @@ The central claim fails if shared context turns out not to be measurable, even r
 - Transactive memory in close couples: [Wegner, Erber & Raymond 1991](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/dwegner/files/wegnererberraymond1991.pdf).
 - Team familiarity and performance in 1,015 software projects: [Huckman, Staats & Upton 2009](https://econpapers.repec.org/RePEc:inm:ormnsc:v:55:y:2009:i:1:p:85-100); summary: [strategy+business](https://strategy-business.com/article/re00013).
 - Collective intelligence factor in 192 groups: [Woolley et al. 2010](https://pubmed.ncbi.nlm.nih.gov/20929725/); the eyes test: [Harvard summary](https://www.gap.hks.harvard.edu/evidence-collective-intelligence-factor-performance-human-groups).
+- Pairs outperforming or underperforming their better member: [Bahrami et al. 2010, "Optimally interacting minds", Science](https://pmc.ncbi.nlm.nih.gov/articles/3371582); the need for free discussion: [Wellcome Trust summary](https://wellcome.org/press-release/two-heads-are-better-one-right-partner).
+- Including the other in the self, the "me / not me" experiment and the money-allocation experiment: [Aron, Aron, Tudor & Nelson 1991](https://www.proquest.com/docview/614329106); review: [Branand, Mashek & Aron 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6821680).
+- Mortality after the death of a spouse: [Moon, Kondo, Glymour & Subramanian 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3157386).
+- The rise-and-fall prediction for couples and the account of belonging are the theory's claims.
 - Speech at about 39 bits per second: [Coupé et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6984970). The figure for traffic between brain hemispheres is a rough estimate of ours.
 - The ox-weighing crowd: see the notes to Chapter 1.
 - The dinner-table and café scenes are illustrations, not data. The values of κ quoted for them are guesses; measuring κ in real pairs is an open problem.
