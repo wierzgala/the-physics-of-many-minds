@@ -103,7 +103,7 @@ It predicts something about loss as well. If part of your memory system is held 
 
 There are two ways to make a channel carry more meaning: widen it, or share more context. Widening has hard physical costs in energy and wiring, as Chapter 7 shows. Context has no such ceiling, and as we have seen, every human collective starts with billions of bits of it already in place, inherited. So as collectives grow and their wires grow thinner relative to their size, they should lean more and more on context. The swarm does. Human civilisation does: a single equation on a blackboard can redirect a thousand careers, because of the decades of training its readers share.
 
-But shared context cannot make a message arrive sooner. A signal still has to cross the distance. This asymmetry will decide the shape of very large minds in Chapter 13: they can be rich in meaning, and they cannot be fast.
+But shared context cannot make a message arrive sooner. A signal still has to cross the distance. This asymmetry will decide the shape of very large minds in Chapter 15: they can be rich in meaning, and they cannot be fast.
 
 ### The perfect conversation is silent
 
@@ -130,7 +130,7 @@ Shared code raises κ without costing independence. Shared belief raises κ by d
 
 ## Two people, one system?
 
-One more consequence, to be developed in Chapter 12. This book will propose that a self ends where communication with the outside becomes much thinner than communication within. Counted in raw bits, two people are hopelessly separate: speech carries about 39 bits per second (16), against perhaps a hundred million between the two halves of one brain.
+One more consequence, to be developed in Chapter 14. This book will propose that a self ends where communication with the outside becomes much thinner than communication within. Counted in raw bits, two people are hopelessly separate: speech carries about 39 bits per second (16), against perhaps a hundred million between the two halves of one brain.
 
 Counted in meaning, the gap narrows. For two people with decades of shared context, each spoken bit does the work of hundreds. They remain two selves, by many orders of magnitude. But they are measurably closer to being one system than two strangers are. That raises two questions: is the pair smarter than its members, and what is it like to be half of one?
 

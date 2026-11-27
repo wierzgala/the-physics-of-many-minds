@@ -1,4 +1,4 @@
-# Chapter 13. Minds the size of worlds
+# Chapter 15. Minds the size of worlds
 
 ## A country with two colours
 
@@ -39,7 +39,7 @@ Here the theory has to disappoint a great many flags.
 
 A nation looks like a good candidate for an agent. It often has a language, and so high shared context. It has procedures for reaching decisions; an election is a quorum rule, like the fifteen bees at the nest box. It has a memory in its archives and laws.
 
-But Chapter 12 set the test for being a *self*, not just a region of a larger system: what crosses the boundary must be much thinner than what flows within. Nations fail it. Trade, migration, science, film and the internet carry enormous traffic across every border. And the Belgian map shows that the strongest boundaries in the flow of information do not even follow the borders. They follow the languages.
+But Chapter 14 set the test for being a *self*, not just a region of a larger system: what crosses the boundary must be much thinner than what flows within. Nations fail it. Trade, migration, science, film and the internet carry enormous traffic across every border. And the Belgian map shows that the strongest boundaries in the flow of information do not even follow the borders. They follow the languages.
 
 So the theory's verdict is that nations are modules, not minds. They are real and they matter, as the visual cortex is real and matters. But the visual cortex does not see. The brain sees. In the same sense a nation does not think. It is a region of something that thinks.
 

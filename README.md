@@ -10,8 +10,8 @@ This repository is the source of truth for the book. Each chapter is one Markdow
 README.md            this file
 CONVENTIONS.md       writing and versioning conventions
 book/
-  00-preface.md      includes the book's eleven provocations
-  01-plan.md         plan of the book: 4 parts, 16 chapters
+  00-preface.md      includes the book's twelve provocations
+  01-plan.md         plan of the book: 5 parts, 18 chapters
   chNN-title.md      one file per chapter
 ```
 
@@ -41,8 +41,10 @@ https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
 | III | 9. How a mind divides | Draft 1 |
 | III | 10. The same thought at a different speed | Draft 2 |
 | III | 11. Fractals and breaks | Draft 1 |
-| IV | 12. Where is the self? | Draft 1 |
-| IV | 13. Minds the size of worlds | Draft 3 |
-| IV | 14. The new agents | Draft 1 |
-| IV | 15. An intelligent Schrödinger's cat | Draft 1 |
-| IV | 16. How we could be wrong | Draft 1 |
+| IV | 12. The theory on one page | Draft 1 |
+| IV | 13. Designing a mind | Draft 1 |
+| V | 14. Where is the self? | Draft 1 |
+| V | 15. Minds the size of worlds | Draft 3 |
+| V | 16. The new agents | Draft 1 |
+| V | 17. An intelligent Schrödinger's cat | Draft 1 |
+| V | 18. How we could be wrong | Draft 1 |

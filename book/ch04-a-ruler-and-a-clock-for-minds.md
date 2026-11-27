@@ -52,7 +52,7 @@ When the number falls below one, something specific happens: the mind cannot act
 
 The swarm of Chapter 1 has a crossing time of tens of minutes, the round trip of a scout. It could never catch a ball. But its problem, a tree cavity that will stay where it is for years, changes far more slowly than the swarm ticks. Its coherence number is enormous. The swarm is a slow mind well matched to a slow problem.
 
-So the first pure number already yields a law in outline. **A collective can act as one, in real time, only on things that change more slowly than signals cross it.** (It can still *think about* faster things, by means that Chapter 10 describes.) Chapter 13 applies this to planets and galaxies, where the signal is light and the law becomes a wall.
+So the first pure number already yields a law in outline. **A collective can act as one, in real time, only on things that change more slowly than signals cross it.** (It can still *think about* faster things, by means that Chapter 10 describes.) Chapter 15 applies this to planets and galaxies, where the signal is light and the law becomes a wall.
 
 It also explains a curious fact about experience. Perception does not come in instants. Experiments show that a sight and a sound are bound into one event if they arrive within a window of up to several hundred milliseconds of each other (13). The theory's reading is that this window is the brain's crossing time made visible: the shortest interval within which the brain can have agreed with itself about what happened. That reading is a hypothesis. The window is a measured fact.
 
@@ -76,7 +76,7 @@ The list of quantities gives a few more pure numbers. Each is introduced here an
 
 **Memory against input.** Divide what an agent can store by what flows into it. A brain with some 10¹⁵ bits of storage (5) receives about ten million bits per second from the eyes alone (18). At that rate it would fill in a few years. So a brain cannot record. It must compress, keeping the statistics of its experience and throwing away nearly all of the experience itself. Forgetting is forced by arithmetic.
 
-**Outside against inside.** Divide the traffic across a collective's outer boundary by the traffic across a cut through its middle. Between the two halves of your brain run those 300 million fibres. Between you and another person runs speech, at about 39 bits per second (19). The ratio differs by many orders of magnitude, and Chapter 12 will argue that this number is where a self begins and ends. Chapter 6 adds a correction: bits are not meaning.
+**Outside against inside.** Divide the traffic across a collective's outer boundary by the traffic across a cut through its middle. Between the two halves of your brain run those 300 million fibres. Between you and another person runs speech, at about 39 bits per second (19). The ratio differs by many orders of magnitude, and Chapter 14 will argue that this number is where a self begins and ends. Chapter 6 adds a correction: bits are not meaning.
 
 ## The method, and its promise
 

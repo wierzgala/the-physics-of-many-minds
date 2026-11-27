@@ -47,7 +47,7 @@ The leading account of conscious access gives part of the answer. On the global 
 
 The theory of this book offers a reason why such a stage should exist at all, and why it should be single. An integrated mind is defined by its parts all taking part in one process. The way a mind of many agents acts as one is to put something in front of all of them at once. That *is* a broadcast, and a broadcast has one channel. **The single stream of thought is the price of being one mind.** The ten bits per second that Zheng and Meister measured would then be the bandwidth of that stage, not of the brain behind it. This is the theory's claim, offered as an answer to their question.
 
-The integrated mind buys a great deal with that price. It is fast: its agents can be coordinated within one crossing time. It can hold a single model of a situation and change the whole of it at once, which is what an insight feels like. And, if Chapter 12 is right, it can be someone: a self, with one point of view.
+The integrated mind buys a great deal with that price. It is fast: its agents can be coordinated within one crossing time. It can hold a single model of a situation and change the whole of it at once, which is what an insight feels like. And, if Chapter 14 is right, it can be someone: a self, with one point of view.
 
 ## The federated mind: many things at once
 
@@ -92,15 +92,15 @@ Gathering the argument, the theory predicts these contrasts. Each row is a hypot
 | A self? | possible | absent |
 | Best suited to | a fast, local world | a slow, wide world |
 
-The last row connects this chapter to the coherence number of Chapter 4. A mind must be integrated to act as one on a fast world, and it can only be integrated if it is small. A mind that must cover a wide world must be federated, and then it is slow. There is no design that is large, fast and unified at once. Chapter 13 found the same choice at the scale of planets: one can be unified and present, or vast and plural, but not both.
+The last row connects this chapter to the coherence number of Chapter 4. A mind must be integrated to act as one on a fast world, and it can only be integrated if it is small. A mind that must cover a wide world must be federated, and then it is slow. There is no design that is large, fast and unified at once. Chapter 15 found the same choice at the scale of planets: one can be unified and present, or vast and plural, but not both.
 
 ## The octopus answered
 
 So is the octopus one mind or nine? The theory's answer is that the question has a measurable answer, and the answer is "partly". Where the traffic between an arm and the brain is rich compared with what the arm does alone, the octopus is one integrated mind. Where an arm does a great deal and reports little, the octopus is a small federation. Real minds sit along the scale, not at its ends.
 
-Your own brain is not at the end either. Its two hemispheres are joined by hundreds of millions of fibres, but Chapter 7 showed that signals between them are slow, and some functions are divided between the sides. Chapter 12 will ask what happens when the fibres between the hemispheres are cut, and whether a person can become two.
+Your own brain is not at the end either. Its two hemispheres are joined by hundreds of millions of fibres, but Chapter 7 showed that signals between them are slow, and some functions are divided between the sides. Chapter 14 will ask what happens when the fibres between the hemispheres are cut, and whether a person can become two.
 
-And the scale can be travelled. A federated mind becomes more integrated if its channels widen relative to what its agents do inside, and an integrated mind becomes federated if its channels thin. Humanity's channels are widening for the first time in its history, through translation between languages and machines that talk at millions of bits per second. Chapter 14 asks where on the scale that could carry us.
+And the scale can be travelled. A federated mind becomes more integrated if its channels widen relative to what its agents do inside, and an integrated mind becomes federated if its channels thin. Humanity's channels are widening for the first time in its history, through translation between languages and machines that talk at millions of bits per second. Chapter 16 asks where on the scale that could carry us.
 
 ## In short
 

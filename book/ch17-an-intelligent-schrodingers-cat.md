@@ -1,4 +1,4 @@
-# Chapter 15. An intelligent Schrödinger's cat
+# Chapter 17. An intelligent Schrödinger's cat
 
 *This chapter is the most speculative in the book. It takes the theory's idea of an agent to the one part of physics where the role of the observer has never been settled. Readers who want only the well-supported parts of the theory can skip it without loss. Readers who enjoy the edge should stay.*
 
@@ -77,7 +77,7 @@ Either result would be among the most important in the history of physics. The f
 
 Return for a moment to the hierarchy of minds, and suppose that relative actuality holds.
 
-Then each agent lives in a world of facts that are facts for it. Your world is the set of events about which you hold usable information. Humanity's world is the much smaller set that has passed through the funnel into the common record. Most of what is actual for you, the exact shade of the sky this morning, is not actual for humanity and never will be. And if there are larger and slower minds of the kind Chapter 13 imagined, then most of what is actual for humanity, a century's worth of it, may not yet be actual for them.
+Then each agent lives in a world of facts that are facts for it. Your world is the set of events about which you hold usable information. Humanity's world is the much smaller set that has passed through the funnel into the common record. Most of what is actual for you, the exact shade of the sky this morning, is not actual for humanity and never will be. And if there are larger and slower minds of the kind Chapter 15 imagined, then most of what is actual for humanity, a century's worth of it, may not yet be actual for them.
 
 The last provocation in the preface said this: what is real for you may not yet be real for the larger thing you are part of. It can now be read exactly. In a hierarchy of minds there is no single moment at which a thing becomes true. Truth arrives level by level, as each agent in turn takes in the news.
 
