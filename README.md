@@ -29,7 +29,7 @@ https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
 | I | 1. The swarm that chooses a home | Draft 2 |
 | I | 2. Information is physical | Draft 2 |
 | I | 3. What is an agent? | Draft 1 |
-| II | 4. A ruler and a clock for minds | Planned |
+| II | 4. A ruler and a clock for minds | Draft 1 |
 | II | 5. How much does a mind need to know? | Planned |
 | II | 6. The glance | Draft 1 |
 | II | 7. The limits | Planned |

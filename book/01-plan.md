@@ -1,6 +1,6 @@
 # Plan of the book
 
-The book has four parts and fifteen chapters. Chapters 1, 2, 3, 6, 10 and 13 are drafted; the rest are planned.
+The book has four parts and fifteen chapters. Chapters 1, 2, 3, 4, 6, 10 and 13 are drafted; the rest are planned.
 
 The argument runs in four moves. Part I says what a mind made of agents is. Part II gives it measures: time, efficiency, meaning and limits. Part III climbs the hierarchy and asks what changes, and what stays the same, from level to level. Part IV follows the theory to its edges: the self, the planet, the galaxy and the quantum world.
 
@@ -12,7 +12,7 @@ The argument runs in four moves. Part I says what a mind made of agents is. Part
 
 ## Part II. The measures
 
-4. **A ruler and a clock for minds.** Dimensional analysis applied to thought: crossing times, bandwidth through a surface, and why catching a ball takes a brain of a particular size.
+4. **A ruler and a clock for minds.** *(drafted)* Dimensional analysis applied to thought: crossing times, bandwidth through a surface, and why catching a ball takes a brain of a particular size.
 5. **How much does a mind need to know?** Intelligence as efficiency, achievement per bit. Twenty questions, children learning words, and machines that need ten thousand times more data.
 6. **The glance.** *(drafted)* Bits are not meaning. What a message conveys depends on what sender and receiver already share. A relationship as a compression algorithm, communication by exception, and why perfect understanding carries no news.
 7. **The limits.** Energy, wiring and the speed of light set ceilings on any mind.
