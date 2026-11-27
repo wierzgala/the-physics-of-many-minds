@@ -91,7 +91,7 @@ Chapter 4 explained why pure numbers matter: a ratio with no units is the same w
 | Coherence number | T_w / t_x | whether the collective can act as one on its world; it must be well above 1 | 4 |
 | Thought to talk | r / (d × c) | integrated when near 1, federated when far above 1 | 4, 8 |
 | Memory horizon | N × m / (R_in × T_w) | how many world-times of experience it can hold | 4 |
-| Boundary number | traffic across the outer edge / B | whether it is a self; it must be far below 1 | 4, 14 |
+| Boundary number | traffic across the outer edge / B | whether it is a self; it must be far below 1 | 4, 15 |
 | Cost above the floor | energy per bit / Landauer's limit | how far from the thermodynamic minimum it runs | 2, 7 |
 | Correlation ratio | correlation length / L | whether it is one system; it must be near 1 | 11 |
 | Context amplification | κ | how much each bit conveys | 6 |
@@ -129,7 +129,7 @@ where k_B is Boltzmann's constant and Θ the temperature: about 3 × 10⁻²¹ j
 
 > L ≤ (speed of light) × t
 
-and in practice L ≤ v × t for whatever its signals are made of. This is the limit on size from Chapter 15.
+and in practice L ≤ v × t for whatever its signals are made of. This is the limit on size from Chapter 16.
 
 **The speed of change.** A system with energy E can pass through at most 2E / πħ distinguishable states per second, where ħ is Planck's constant (5). Applied to a kilogram of matter this gives the ceiling on capacity from Chapter 7 (6).
 

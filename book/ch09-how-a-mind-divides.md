@@ -16,7 +16,7 @@ The book has already met this question twice without naming it.
 
 Chapter 4 asked when a collective can *act* as one, and answered with the coherence number: signals must cross the collective faster than the world it is dealing with changes. A batter's brain can act as one on a fastball. A swarm cannot.
 
-Chapter 6 asked when two people are close to being *one system*, and pointed ahead to Chapter 14's answer: a self ends where the traffic across its boundary becomes much thinner than the traffic within. Chapter 4 called this ratio *outside against inside*.
+Chapter 6 asked when two people are close to being *one system*, and pointed ahead to Chapter 15's answer: a self ends where the traffic across its boundary becomes much thinner than the traffic within. Chapter 4 called this ratio *outside against inside*.
 
 The warblers raise a third version: when does a collective stay *one kind*, able to read its own members? The answer has the same form. Its parts must exchange messages faster than their codes drift apart.
 
@@ -58,7 +58,7 @@ Two features of the rule deserve attention.
 
 **It is asymmetric in time.** Drift is slow and quiet, and a divided pair can stay in contact for a long while after the critical point has passed. Reunion is not the reverse of separation. Once the codes have parted, renewed contact does not restore them, because the parties no longer share the context they would need to rebuild it. A collective can lose its unity through centuries of quiet and never get it back.
 
-**It sets a size limit that has nothing to do with the speed of light.** Chapter 15 will find that a mind which must act as one cannot be larger than light travels in one of its thoughts. The drift rule gives a second, gentler limit for minds that only need to stay one kind. Its radius is however far a message can travel before the code drifts. For genes that radius is set by how far organisms wander in a generation; for languages, by how far words travel in a few centuries. Chapter 15 applies it to a species spreading between the stars.
+**It sets a size limit that has nothing to do with the speed of light.** Chapter 16 will find that a mind which must act as one cannot be larger than light travels in one of its thoughts. The drift rule gives a second, gentler limit for minds that only need to stay one kind. Its radius is however far a message can travel before the code drifts. For genes that radius is set by how far organisms wander in a generation; for languages, by how far words travel in a few centuries. Chapter 16 applies it to a species spreading between the stars.
 
 ## The family tree of minds
 
@@ -68,7 +68,7 @@ They are not wholly cut off from one another, though. Chapter 6 pointed out that
 
 And it makes plain what is unusual about us. Every species has the slow channel of the genes. A few have a faster one in song or scent. Humans built a third, language, and a fourth, writing, each many orders of magnitude faster than the last. Our species-mind does not run at a bit per generation. It runs at the speed of speech, multiplied by eight billion. The human takeover of the planet, on this view, was not the victory of a clever animal over stupid ones. It was the victory of a fast collective mind over slow ones.
 
-The faster channels did not abolish drift, however. They moved it. Our genes are still one code, but our languages number in the thousands, because speech drifts far faster than DNA. Humanity is one species and many conversations. Chapter 15 shows that those conversations are the organs of whatever mind humanity is.
+The faster channels did not abolish drift, however. They moved it. Our genes are still one code, but our languages number in the thousands, because speech drifts far faster than DNA. Humanity is one species and many conversations. Chapter 16 shows that those conversations are the organs of whatever mind humanity is.
 
 ## In short
 

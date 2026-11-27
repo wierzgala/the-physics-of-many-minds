@@ -174,7 +174,7 @@ If these rules hold, they apply to the minds we build as well as to those we fin
 - How large is the repertoire? That sets how much must be stored and trained in advance, which is most of the cost.
 - Is one stream of decisions needed? If so, there must be a single stage, and it will be a bottleneck. If not, do not build one.
 
-None of this is new to a good manager or a good systems engineer. What the theory adds, if it is right, is the claim that these are not rules of thumb. They are consequences of the physics of information, and they could be calculated.
+None of this is new to a good manager or a good systems engineer. What the theory adds, if it is right, is the claim that these are not rules of thumb. They are consequences of the physics of information, and they could be calculated. The next chapter applies them to the minds now being built.
 
 ## In short
 

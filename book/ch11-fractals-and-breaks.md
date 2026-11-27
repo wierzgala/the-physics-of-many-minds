@@ -71,7 +71,7 @@ That gives the theory its definition of a level, promised in Chapter 3. **An age
 - Within a level, a healthy collective should have correlations that reach across its whole extent, as the flock's do. A collective whose correlation length is shorter than its size has already come apart into several, whatever its name or its borders say. This gives Chapter 9's question, one mind or two, a measurement.
 - The roughly threefold ratio between layers of human groups should be explicable from the costs of communication, and similar constant ratios should appear between the levels of other federated minds.
 - Federated collectives should grow faster than their numbers in output, and integrated ones slower.
-- Chapter 15's proposal to record humanity like a brain acquires a first step: plot how correlations in activity fall off with distance, in space and in language. If they follow one line from villages to continents, humanity is one system. If the line bends at the scale of the language community, that is where its agents are.
+- Chapter 16's proposal to record humanity like a brain acquires a first step: plot how correlations in activity fall off with distance, in space and in language. If they follow one line from villages to continents, humanity is one system. If the line bends at the scale of the language community, that is where its agents are.
 
 ## In short
 

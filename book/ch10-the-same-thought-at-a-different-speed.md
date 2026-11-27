@@ -101,7 +101,7 @@ A neuron takes part in your thoughts and has no access to them. Your thought is 
 
 The same blindness should hold between any two levels whose clocks differ enough. A mind that ticks a hundred thousand times slower than we do would be invisible to us as a mind. We would see only its parts, doing what parts do. And we would be invisible to it: too small, too fast, a shimmer. It could no more notice an individual human life than you can notice one neuron firing once.
 
-So the question "are we part of a larger thought?" is not mystical in this theory. It is a question with a method. The larger thought, if it exists, would show up as a pattern in the slow, coarse variables of the collective: the things that take decades to change and that no individual controls. We would not perceive it. We could, in principle, measure it. Chapter 15 says what its language should look like, and proposes an experiment for listening to it.
+So the question "are we part of a larger thought?" is not mystical in this theory. It is a question with a method. The larger thought, if it exists, would show up as a pattern in the slow, coarse variables of the collective: the things that take decades to change and that no individual controls. We would not perceive it. We could, in principle, measure it. Chapter 16 says what its language should look like, and proposes an experiment for listening to it.
 
 ## A test
 

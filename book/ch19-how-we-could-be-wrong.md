@@ -1,4 +1,4 @@
-# Chapter 18. How we could be wrong
+# Chapter 19. How we could be wrong
 
 ## A theory's duty
 
@@ -34,6 +34,7 @@ Three kinds of statement have been kept apart throughout. It is worth seeing how
 - Levels of mind are marked by breaks in scaling laws, and an agent is a scale at which a summary is enough.
 - A collective should share code and keep beliefs diverse.
 - Every species is a mind; nations are not; humanity is one, and is no one.
+- Artificial neural networks are integrated minds with a finite stage, and artificial intelligence will develop as federations of them, not as one giant mind.
 - A task fixes the outline of the mind that can perform it: input rate sets width, compression sets depth, deadline sets size, repertoire sets bulk.
 
 **Speculation**, flagged as such where it appeared:
@@ -41,7 +42,7 @@ Three kinds of statement have been kept apart throughout. It is worth seeing how
 - That belonging is what participation in a larger mind feels like.
 - The portrait of a galactic mind.
 - An integrated core of machines with humanity as its periphery.
-- Relative actuality, and everything in Chapter 17.
+- Relative actuality, and everything in Chapter 18.
 
 A reader who rejects all the speculation loses the last third of the fun and none of the theory. A reader who rejects the claims is left with the established findings, which were worth assembling in any case.
 
@@ -52,20 +53,21 @@ Chapter 12 states the theory's quantities and relations in one place, and Chapte
 | Prediction | Where | What would refute it | Could be tested |
 | --- | --- | --- | --- |
 | Decision curves from brains, swarms, colonies and committees fall on one curve when time is counted in each system's own crossing times | Ch. 10 | The curves stay apart, or collapse only with a separate adjustment for each system | Now, from published data |
-| Groups whose members consult the same AI model make more correlated errors and worse collective judgements than unaided groups of equal individual accuracy | Ch. 16 | No loss of diversity or collective accuracy | Now, by experiment |
+| Groups whose members consult the same AI model make more correlated errors and worse collective judgements than unaided groups of equal individual accuracy | Ch. 17 | No loss of diversity or collective accuracy | Now, by experiment |
 | Collectives split when the ratio of exchange to drift falls below a threshold, and do not rejoin on renewed contact | Ch. 9 | Dialects, fields or firms that stay unified without traffic, or reunite easily after their codes part | Now, from language and citation data |
 | Across species, the number of optic nerve fibres follows the eye's information rate at a roughly constant rate per fibre, the number of processing stages follows the compression performed, and the amount of visual brain follows the animal's repertoire | Ch. 13 | Fibre counts unrelated to input rate; depth unrelated to compression; similar eyes and different repertoires with similar visual brains | Now, from comparative anatomy |
+| On wide problems, federations of artificial agents exchanging summaries outperform a single model with a larger context; identical copies of a model do not correct each other as different models do; discovery about nature stays paced by experiment | Ch. 14 | A single ever-larger model wins on wide problems at lower cost; copies correct each other as well as different models; reliable discoveries far faster than experiment allows | Now, and over the next few years |
 | Boundaries between levels show up as breaks in scaling laws | Ch. 11 | Known boundaries with no break in any scaling relation, or sharp breaks with no new kind of agent | Now, from existing data |
-| Activity across humanity's language communities shows avalanches, build-up to threshold with mutual suppression, and an echo to shocks that is both widespread and varied | Ch. 15 | No avalanche statistics; no competition dynamics; echoes that are purely local or purely uniform | Now, from public records |
+| Activity across humanity's language communities shows avalanches, build-up to threshold with mutual suppression, and an echo to shocks that is both widespread and varied | Ch. 16 | No avalanche statistics; no competition dynamics; echoes that are purely local or purely uniform | Now, from public records |
 | Shared context can be measured in pairs, grows with time together, and predicts performance beyond individual ability | Ch. 6 | No measurable gain from shared history once individual skill is accounted for | Now, by experiment |
 | A couple's joint performance rises and then falls as their beliefs converge | Ch. 6 | Pairs who agree on everything decide as well as pairs who still differ | Now, by experiment |
 | What matters for disruption is density of communication relative to individual work, not headcount | Ch. 8 | Disruption tracks team size regardless of how the team communicates | Now, from collaboration data |
 | Larger and slower brains have wider windows of perceptual simultaneity | Ch. 4 | No relation between brain size or conduction time and the binding window | Soon, across species |
 | Larger brains are more modular and more specialised between hemispheres | Ch. 7 | Large brains as uniformly integrated as small ones | Soon, across species |
 | Under rising energy costs, machine designs become sparser and more frugal with data | Ch. 7 | No such drift within a decade | Within ten years |
-| Any integrated mind shows a serial bottleneck where it acts as a whole; two brains that became one subject would show it between them | Ch. 8, 14 | An integrated system that makes several unified choices at once; joined brains sharing choice without interference | Partly now; fully only with new cases |
+| Any integrated mind shows a serial bottleneck where it acts as a whole; two brains that became one subject would show it between them | Ch. 8, 15 | An integrated system that makes several unified choices at once; joined brains sharing choice without interference | Partly now; fully only with new cases |
 | Federated collectives grow faster than their numbers in output and speed up with size; integrated ones do the reverse | Ch. 11 | The pattern fails outside cities and organisms, or the city result proves an artefact | Now, from scaling data |
-| Wigner's-friend experiments run with friends of increasing capability show no threshold | Ch. 17 | The violation vanishes above some level of capability | Decades |
+| Wigner's-friend experiments run with friends of increasing capability show no threshold | Ch. 18 | The violation vanishes above some level of capability | Decades |
 
 Several of these need nothing but data that already exist and a few months of someone's time. If the theory is worth anything, it should survive the first five rows. If it fails them, the later chapters are not worth arguing about.
 

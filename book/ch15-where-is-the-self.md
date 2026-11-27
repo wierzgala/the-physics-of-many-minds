@@ -1,4 +1,4 @@
-# Chapter 14. Where is the self?
+# Chapter 15. Where is the self?
 
 ## The taste of someone else's drink
 
@@ -85,7 +85,7 @@ That gives the theory one of its sharpest predictions. Chapter 8 described the s
 
 The test could in principle be run wherever brains are joined, by nature or, one day, by technology. It turns the question "one mind or two?" from a matter of philosophy into a matter of timing. On the evidence that is public, sharing sensations across a thalamic bridge while keeping separate wills and preferences is what the theory would expect of two subjects with an unusually wide channel between them, and not of one.
 
-The same reasoning applies to the largest scale. Chapter 15 will argue that the Earth is small enough for a mind that thinks at human speed. Whether such a mind would be a subject depends on these four conditions and on nothing else. Widening humanity's channels would not be enough. It would also need a stage, and a stage has room for one thing at a time. A planet that was truly someone would have to think one thought at a time. Whether that would be a gain is a question the theory can pose and cannot answer.
+The same reasoning applies to the largest scale. Chapter 16 will argue that the Earth is small enough for a mind that thinks at human speed. Whether such a mind would be a subject depends on these four conditions and on nothing else. Widening humanity's channels would not be enough. It would also need a stage, and a stage has room for one thing at a time. A planet that was truly someone would have to think one thought at a time. Whether that would be a gain is a question the theory can pose and cannot answer.
 
 ## In short
 
