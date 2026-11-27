@@ -31,7 +31,7 @@ In 2010, Atsushi Tero and colleagues at Hokkaido University placed oat flakes on
 
 The slime mould has no planner and no map. It lays down tubes everywhere, strengthens whatever works and cuts back whatever does not. It is, in a sense, a collective too: a vast network of tube segments, each responding to local flow, whose combined behaviour solves a problem none of them can see.
 
-This points to an important feature of agents: **they nest**. A molecule can be part of a cell, a cell part of a bee, a bee part of a swarm. Whether we call something "an agent" or "a collective of agents" depends on the level at which we look. Chapter 9 offers a way to find the natural levels in data rather than choosing them by hand.
+This points to an important feature of agents: **they nest**. A molecule can be part of a cell, a cell part of a bee, a bee part of a swarm. Whether we call something "an agent" or "a collective of agents" depends on the level at which we look. Chapter 11 offers a way to find the natural levels in data rather than choosing them by hand.
 
 ## Not every crowd is a mind
 

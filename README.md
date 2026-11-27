@@ -10,14 +10,10 @@ This repository is the source of truth for the book. Each chapter is one Markdow
 README.md            this file
 CONVENTIONS.md       writing and versioning conventions
 book/
-  00-preface.md
-  01-plan.md         plan of the book: 4 parts, 12 chapters
-  ch01-the-swarm-that-chooses-a-home.md
-  ch02-information-is-physical.md
-  ch03-what-is-an-agent.md
+  00-preface.md      includes the book's seven provocations
+  01-plan.md         plan of the book: 4 parts, 15 chapters
+  chNN-title.md      one file per chapter
 ```
-
-Chapters 4–12 are planned in `book/01-plan.md` and will be added as new files (`ch04-…`, `ch05-…`).
 
 ## Companion document
 
@@ -28,9 +24,20 @@ https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
 
 | Part | Chapter | Status |
 | --- | --- | --- |
-| — | Preface | Draft 1 |
-| — | Plan of the book | Draft 1 |
-| I | 1. The swarm that chooses a home | Draft 1 |
-| I | 2. Information is physical | Draft 1 |
+| — | Preface | Draft 2 |
+| — | Plan of the book | Draft 2 |
+| I | 1. The swarm that chooses a home | Draft 2 |
+| I | 2. Information is physical | Draft 2 |
 | I | 3. What is an agent? | Draft 1 |
-| I–IV | 4–12 | Planned |
+| II | 4. A ruler and a clock for minds | Planned |
+| II | 5. How much does a mind need to know? | Planned |
+| II | 6. The glance | Draft 1 |
+| II | 7. The limits | Planned |
+| III | 8. The funnel | Planned |
+| III | 9. The same algorithm everywhere | Planned |
+| III | 10. The same thought at a different speed | Draft 1 |
+| III | 11. Fractals and breaks | Planned |
+| IV | 12. Where is the self? | Planned |
+| IV | 13. Minds the size of worlds | Draft 1 |
+| IV | 14. An intelligent Schrödinger's cat | Planned |
+| IV | 15. How we could be wrong | Planned |

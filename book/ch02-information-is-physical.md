@@ -49,6 +49,8 @@ Our own senses show how much measuring a mind does, and how much it throws away.
 
 Now measure what comes out. Typing, speaking, solving a Rubik's cube blindfolded, playing a video game: in study after study, the rate at which human behaviour carries information is about 10 bits per second. Jieyu Zheng and Markus Meister, who gathered these measurements, point out that the ratio between input and output is about a hundred million.
 
+One caution. Ten bits per second is a count of raw bits, not of meaning. Between two people who know each other well, a few bits can select a large, precise thought, because most of the thought is already present in both heads. Chapter 6 shows how to count that.
+
 A mind, then, is a kind of demon that measures a flood and acts on a trickle. Most of what it learns is discarded or compressed into a few decisions. This funnel will turn out to matter enormously in Part III, because when minds are built from minds, the trickle is all that the higher level ever sees.
 
 ## In short

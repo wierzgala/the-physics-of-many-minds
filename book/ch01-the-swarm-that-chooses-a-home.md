@@ -52,13 +52,17 @@ In 2012, Seeley and his colleagues showed that swarms share one more feature wit
 
 So a swarm and a brain are not just loosely similar. They seem to run the same algorithm, on completely different hardware: neurons in one case, bees in the other. If that is true, the algorithm is the important thing, and the hardware is a detail. This is the first piece of evidence that intelligence might be described by physics that does not care what the agents are made of.
 
+It also raises a stranger possibility, which Chapter 10 takes seriously: that the swarm's sixteen hours of dancing and the monkey's half-second of neural firing are the same thought, played at two different speeds.
+
 ## A very thin conversation
 
 Here is the puzzle that will occupy several later chapters. A waggle dance carries surprisingly little information. A careful analysis of dance accuracy estimates about 2.9 bits for direction and 4.5 bits for distance: roughly 7 bits per location, about as much as one letter of text.
 
 Each bee, meanwhile, carries a brain whose neurons exchange signals far faster than any dance. The swarm's "conversation" is many orders of magnitude thinner than the thinking inside any one of its members. And yet the swarm solves a problem that no single bee can solve.
 
-The resolution is that the swarm does not win by thinking harder than a bee. It wins by reaching further. Hundreds of scouts sample kilometres of countryside in parallel, and each compresses what she found into a few bits. The swarm trades depth for breadth. We will see in Part III that this trade is not a quirk of bees, but something that happens every time minds are built out of minds.
+Part of the resolution is that seven bits are not as little as they look. A dance means something only because every bee is born knowing the code: that the angle of the run stands for a direction relative to the sun, and its length for a distance. That shared code was paid for over millions of years of evolution, and each dance draws on it. A message is never just the bits it contains. It is those bits plus everything sender and receiver already share. Chapter 6 turns this into a measurable quantity.
+
+The other part is that the swarm does not win by thinking harder than a bee. It wins by reaching further. Hundreds of scouts sample kilometres of countryside in parallel, and each compresses what she found into a few bits. The swarm trades depth for breadth. We will see in Part III that this trade is not a quirk of bees, but something that happens every time minds are built out of minds.
 
 ## The wisdom of crowds, and its fragility
 
@@ -66,7 +70,9 @@ The idea that many modest judgements can add up to a good one has a famous human
 
 No individual guesser was that accurate. The accuracy appeared only when independent errors cancelled out. The word *independent* is doing all the work. A 2011 experiment showed that even mild social influence, simply letting people see what others guessed, narrows the spread of opinions and undermines the crowd's accuracy without improving it.
 
-This is the central tension of every collective mind, and the bees have solved it with care. Their agents must communicate enough for a decision to emerge, but not so much that they simply copy one another. Recruits inspect the site themselves. Dances fade. Rival opinions are actively inhibited, not ignored. Too little coupling and there is no collective; too much and there is only an echo. Chapter 3 shows the same tension inside the brain, where too much coupling has a medical name.
+This is the central tension of every collective mind, and the bees have solved it with care. Their agents must communicate enough for a decision to emerge, but not so much that they simply copy one another. Recruits inspect the site themselves. Dances fade. Rival opinions are actively inhibited, not ignored. Too little coupling and there is no collective; too much and there is only an echo.
+
+Notice what the bees share and what they do not. They share a code: every bee reads a dance the same way. They do not share conclusions: every scout forms her own opinion of a site. A common language with independent judgement is the recipe, and human groups that get it backwards, agreeing on what is true before agreeing on what words mean, should expect to be stupid. Chapter 3 shows the same tension inside the brain, where too much coupling has a medical name.
 
 ## In short
 
