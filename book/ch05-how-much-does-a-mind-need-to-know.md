@@ -26,16 +26,16 @@ The definition makes an awkward prediction about our own technology, and the pre
 
 A child becomes a fluent speaker after hearing some tens to hundreds of millions of words. A large language model reaches fluency after hundreds of billions to trillions (3). The gap is four or five orders of magnitude between such models and children, and at least three between the models and even the most literate adults (4). On the measure proposed here, at this one task, the child is something like ten thousand to a hundred thousand times more intelligent than the machine. The machine is, of course, vastly more capable in other respects. The point of the definition is that capability and intelligence are different things.
 
-What does the child keep from all that listening? Two researchers set out to count it, adding up what a speaker must know about sounds, words, meanings and grammar. Their best estimate was about 12.5 million bits, roughly 1.5 megabytes, the size of one photograph (5). It works out at upwards of a thousand bits learned every day for eighteen years (5). Most of it is the meanings of words. The rules of grammar, which linguists have argued about for a century, came to about 700 bits (6).
+What does the child keep from all that listening? Two researchers set out to count it, adding up what a speaker must know about sounds, words, meanings and grammar. Their best estimate was about 12.5 million bits, roughly 1.5 megabytes, the size of one photograph (5). It works out at upwards of a thousand bits learned every day for eighteen years (5). Most of it is the meanings of words. The rules of grammar, which linguists have argued about for a century, came to about 700 bits (5).
 
 Set that against the input. A hundred million words is several hundred million bits, even at Shannon's rate. So only a few percent of what a child hears ends up as knowledge of the language (our estimate). The child is not a recorder. It is a twenty-questions player, extracting the few bits that matter from a stream that is mostly things it could already have guessed.
 
 The same pattern shows wherever people and learning machines have been compared directly.
 
-- **One example is often enough.** Show a person a single example of a new kind of object, such as an unfamiliar handwritten character or a strange two-wheeled vehicle, and they grasp the category. Standard learning algorithms have needed tens or hundreds of examples to do the same (7).
-- **Mastery by brute repetition.** The program AlphaGo Zero became the strongest Go player in history by playing itself. In its first three days it played 4.9 million games (8). A human professional plays some tens of thousands in a lifetime (our estimate). The program is stronger. It was also given a hundred lifetimes of practice.
+- **One example is often enough.** Show a person a single example of a new kind of object, such as an unfamiliar handwritten character or a strange two-wheeled vehicle, and they grasp the category. Standard learning algorithms have needed tens or hundreds of examples to do the same (6).
+- **Mastery by brute repetition.** The program AlphaGo Zero became the strongest Go player in history by playing itself. In its first three days it played 4.9 million games (7). A human professional plays some tens of thousands in a lifetime (our estimate). The program is stronger. It was also given a hundred lifetimes of practice.
 
-And the pattern is not about brain size. A honeybee, with under a million neurons, can learn the abstract ideas of *same* and *different*. Trained to pick the pattern that matches a sample, bees went on to apply the rule to stimuli they had never seen, and even to a different sense (9). An insect extracted a concept from a handful of trials. Whatever η measures, it is not the amount of hardware.
+And the pattern is not about brain size. A honeybee, with under a million neurons, can learn the abstract ideas of *same* and *different*. Trained to pick the pattern that matches a sample, bees went on to apply the rule to stimuli they had never seen, and even to a different sense (8). An insect extracted a concept from a handful of trials. Whatever η measures, it is not the amount of hardware.
 
 ## Three kinds of bits
 
@@ -43,11 +43,11 @@ Before admiring the child too much, we have to do the accounts honestly. Informa
 
 **Experience**: the bits that come in through the senses during a lifetime. This is the hundred million words.
 
-**Priors**: the bits a mind starts with. The child did not arrive empty. It came with a genome of about three billion letters (10), the outcome of an immense search conducted by its ancestors, and that genome builds a brain already prepared to find words, faces and causes. The machine began with almost nothing of the kind. Some of the child's advantage is real efficiency. Some of it is an inheritance.
+**Priors**: the bits a mind starts with. The child did not arrive empty. It came with a genome of about three billion letters (9), the outcome of an immense search conducted by its ancestors, and that genome builds a brain already prepared to find words, faces and causes. The machine began with almost nothing of the kind. Some of the child's advantage is real efficiency. Some of it is an inheritance.
 
 **Communication**: for a mind made of many agents, the bits the agents must exchange to get the job done. This is the term that matters for the swarms, teams and societies of this book, and no theory of individual intelligence includes it.
 
-Leave out any of the three and the measure can be cheated. A table that lists the answer to every question on an exam will score perfectly while learning nothing; all its intelligence is in the priors, put there by whoever wrote the table. The computer scientist François Chollet made this point forcefully in 2019. Measuring skill alone, he argued, falls short of measuring intelligence, because unlimited prior knowledge or unlimited training data lets an experimenter simply buy any level of skill. He proposed that intelligence be defined as the efficiency with which a system acquires new skills, taking its priors and its experience into account (11). This chapter takes his proposal, gives it units, and adds the third kind of bit.
+Leave out any of the three and the measure can be cheated. A table that lists the answer to every question on an exam will score perfectly while learning nothing; all its intelligence is in the priors, put there by whoever wrote the table. The computer scientist François Chollet made this point forcefully in 2019. Measuring skill alone, he argued, falls short of measuring intelligence, because unlimited prior knowledge or unlimited training data lets an experimenter simply buy any level of skill. He proposed that intelligence be defined as the efficiency with which a system acquires new skills, taking its priors and its experience into account (10). This chapter takes his proposal, gives it units, and adds the third kind of bit.
 
 ## What goes on top
 
@@ -55,9 +55,9 @@ Now the top of the fraction. There are three reasonable choices, and each gives 
 
 **Count what was accomplished.** Tasks solved, weighted by how hard and how new they were. Then η is measured in achievements per bit. This is the most intuitive version and the hardest to make precise, because someone has to do the weighting.
 
-**Count the work extracted.** Chapter 2 described Szilárd's engine, which turns one bit of knowledge into a fixed amount of energy. A mind could be scored by the useful work it gets from the world per bit it learns. There is a beautiful version of this for money. In 1956 John Kelly, a colleague of Shannon's, considered a gambler who receives tips over a noisy telephone line. He proved that the fastest rate at which the gambler's capital can grow is exactly the rate at which information arrives over the line (12). Bits become wealth at a fixed exchange rate, and no betting strategy can beat it.
+**Count the work extracted.** Chapter 2 described Szilárd's engine, which turns one bit of knowledge into a fixed amount of energy. A mind could be scored by the useful work it gets from the world per bit it learns. There is a beautiful version of this for money. In 1956 John Kelly, a colleague of Shannon's, considered a gambler who receives tips over a noisy telephone line. He proved that the fastest rate at which the gambler's capital can grow is exactly the rate at which information arrives over the line (11). Bits become wealth at a fixed exchange rate, and no betting strategy can beat it.
 
-**Count the uncertainty removed.** Measure the top in bits as well: how far the mind narrowed down the state of the world, or steered it toward a goal. Then η is bits per bit, a pure number. And for this version there is a theorem. Touchette and Lloyd proved that for each bit a controller gathers about a system, it can reduce that system's disorder by at most one bit more than it could have done blind (13).
+**Count the uncertainty removed.** Measure the top in bits as well: how far the mind narrowed down the state of the world, or steered it toward a goal. Then η is bits per bit, a pure number. And for this version there is a theorem. Touchette and Lloyd proved that for each bit a controller gathers about a system, it can reduce that system's disorder by at most one bit more than it could have done blind (12).
 
 The third choice is the one this book adopts, because of that theorem. It means that **intelligence, properly measured, has a maximum, and the maximum is one.** The perfect twenty-questions player sits exactly at the limit: one bit of the world settled for every bit received. Nothing can do better.
 
@@ -77,7 +77,7 @@ This is a stronger statement than it looks, and what follows from it is the theo
 
 ## Why collectives look wasteful
 
-Apply the measure to the swarm of Chapter 1, and something odd appears. The swarm's decision is a choice among about a dozen sites, which is under four bits. To make it, hundreds of scouts flew out, and hundreds of dances were performed, each carrying a location and repeated for many circuits (14). Thousands of bits were spent to settle four. By the fraction, the swarm looks stupid.
+Apply the measure to the swarm of Chapter 1, and something odd appears. The swarm's decision is a choice among about a dozen sites, which is under four bits. To make it, hundreds of scouts flew out, and hundreds of dances were performed, each carrying a location and repeated for many circuits (13). Thousands of bits were spent to settle four. By the fraction, the swarm looks stupid.
 
 It is not, and the reason is instructive. A single bee's judgement of a cavity is noisy. The repetition, the independent inspections and the slow build-up to a quorum are what make the final four bits *reliable*. Shannon showed that sending information accurately over a noisy channel always costs redundancy; the three quarters of English that readers can guess is what lets us understand each other in a crowded room. A collective is a noisy channel made of minds, and it pays the same tax.
 
@@ -99,19 +99,18 @@ The measure fails if it cannot be made operational: if no defensible way is foun
 
 ## References
 
-1. C. E. Shannon (1951), "Prediction and entropy of printed English", *Bell System Technical Journal*. https://sites.socsci.uci.edu/~rfutrell/teaching/itl-davis/readings/shannon1951prediction.pdf
-2. Review of Shannon's bounds of 0.6 to 1.3 bits per letter, in "A new look at the classical entropy of written English". https://arxiv.org/pdf/0911.2284
-3. S. Y. Feng, N. D. Goodman and M. C. Frank (2024), "Is child-directed speech effective training data for language models?". https://arxiv.org/pdf/2408.03617
-4. M. C. Frank (2023), "Bridging the data gap between children and large language models", *Trends in Cognitive Sciences*. https://sites.socsci.uci.edu/~lpearl/colareadinggroup/readings/Frank2023_ChildrenLLMs.pdf
-5. F. Mollica and S. T. Piantadosi (2019), "Humans store about 1.5 megabytes of information during language acquisition", *Royal Society Open Science*; figures as reported by the University of California, Berkeley. https://www.sciencedaily.com/releases/2019/03/190327134547.htm
-6. Report on the same study, giving the estimate for syntax. https://medicalxpress.com/news/2019-03-approximately-megabytes-language-brain.pdf
-7. B. M. Lake, R. Salakhutdinov and J. B. Tenenbaum (2015), "Human-level concept learning through probabilistic program induction", *Science*. https://www.cnbc.cmu.edu/~tai/microns_papers/LakeEtAl2015Science.pdf
-8. "AlphaGo Zero", Wikipedia, citing D. Silver et al. (2017), *Nature*. https://en.wikipedia.org/wiki/AlphaGo_Zero
-9. M. Giurfa, S. Zhang, A. Jenett, R. Menzel and M. V. Srinivasan (2001), "The concepts of 'sameness' and 'difference' in an insect", *Nature*. https://ideas.repec.org/a/nat/nature/v410y2001i6831d10.1038_35073582.html
-10. National Human Genome Research Institute, "Human genomic variation". https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation
-11. F. Chollet (2019), "On the measure of intelligence". https://arxiv.org/pdf/1911.01547
-12. J. L. Kelly Jr. (1956), "A new interpretation of information rate", *Bell System Technical Journal*. https://homepage.sns.it/marmi/esameIUE/kelly.pdf
-13. H. Touchette and S. Lloyd (2000), "Information-theoretic limits of control", *Physical Review Letters*. https://arxiv.org/abs/chao-dyn/9905039
-14. T. D. Seeley, P. K. Visscher and K. M. Passino (2006), "Group decision making in honey bee swarms", *American Scientist*. https://bees.ucr.edu/media/156/download
+1. C. E. Shannon (1951), "Prediction and entropy of printed English", *Bell System Technical Journal* 30:50–64. https://sites.socsci.uci.edu/~rfutrell/teaching/itl-davis/readings/shannon1951prediction.pdf
+2. F. G. Guerrero (2009), "A new look at the classical entropy of written English", arXiv:0911.2284, reviewing Shannon's bounds of 0.6 to 1.3 bits per letter. https://arxiv.org/pdf/0911.2284
+3. S. Y. Feng, N. D. Goodman and M. C. Frank (2024), "Is child-directed speech effective training data for language models?", arXiv:2408.03617. https://arxiv.org/pdf/2408.03617
+4. M. C. Frank (2023), "Bridging the data gap between children and large language models", *Trends in Cognitive Sciences* 27:990–992. https://sites.socsci.uci.edu/~lpearl/colareadinggroup/readings/Frank2023_ChildrenLLMs.pdf
+5. F. Mollica and S. T. Piantadosi (2019), "Humans store about 1.5 megabytes of information during language acquisition", *Royal Society Open Science* 6:181393. https://doi.org/10.1098/rsos.181393
+6. B. M. Lake, R. Salakhutdinov and J. B. Tenenbaum (2015), "Human-level concept learning through probabilistic program induction", *Science* 350:1332–1338. https://www.cnbc.cmu.edu/~tai/microns_papers/LakeEtAl2015Science.pdf
+7. D. Silver et al. (2017), "Mastering the game of Go without human knowledge", *Nature* 550:354–359. https://doi.org/10.1038/nature24270
+8. M. Giurfa, S. Zhang, A. Jenett, R. Menzel and M. V. Srinivasan (2001), "The concepts of 'sameness' and 'difference' in an insect", *Nature* 410:930–933. https://ideas.repec.org/a/nat/nature/v410y2001i6831d10.1038_35073582.html
+9. National Human Genome Research Institute, "Human genomic variation". https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation
+10. F. Chollet (2019), "On the measure of intelligence", arXiv:1911.01547. https://arxiv.org/pdf/1911.01547
+11. J. L. Kelly Jr. (1956), "A new interpretation of information rate", *Bell System Technical Journal* 35:917–926. https://homepage.sns.it/marmi/esameIUE/kelly.pdf
+12. H. Touchette and S. Lloyd (2000), "Information-theoretic limits of control", *Physical Review Letters* 84:1156–1159. https://arxiv.org/abs/chao-dyn/9905039
+13. T. D. Seeley, P. K. Visscher and K. M. Passino (2006), "Group decision making in honey bee swarms", *American Scientist* 94:220–229. https://bees.ucr.edu/media/156/download
 
 Figures given without a reference number are our own rough estimates: the share of a child's language input that is retained, the number of games a human professional plays, the bit counts for the swarm's decision, and the size of Newton's laws in bits.

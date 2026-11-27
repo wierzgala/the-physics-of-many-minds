@@ -4,7 +4,7 @@
 
 - **Voice.** Descriptive and story-led. Each concept is introduced through something the reader can picture: a swarm, a slime mould, a crowd guessing the weight of an ox.
 - **Three kinds of statement, never blurred:**
-  - *Established findings*: results from experiments and observations, with a source in the chapter's Notes.
+  - *Established findings*: results from experiments and observations, with a numbered source in the chapter's References.
   - *The theory's claims*: hypotheses that follow from the framework and still need testing.
   - *Speculation*: ideas at the edge, marked as such.
 - **Chapter endings.** Every chapter ends with two sections: *In short* (what the chapter claims) and *How we could be wrong* (the observation that would undermine it).
@@ -17,7 +17,7 @@
 
 - One chapter per file: `book/chNN-short-title.md`, numbered with two digits.
 - The chapter title is the only `#` heading in the file; sections use `##`.
-- References go at the end of each chapter file under `## References` (numbered). Chapters 1, 2, 3, 6, 10 and 13 still use the older unnumbered `## Notes` and are to be converted.
+- References go at the end of each chapter file under `## References` (numbered). Every drafted chapter uses this format. Each entry gives authors, year, title, journal with volume and pages where known, and a link. Prefer the primary paper; a press release or summary is listed as a separate entry when it supplies a detail the paper does not. A closing paragraph after the list names the figures that are our own estimates and the claims that belong to the theory.
 
 ## Versioning
 

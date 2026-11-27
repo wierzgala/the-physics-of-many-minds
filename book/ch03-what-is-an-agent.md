@@ -17,9 +17,9 @@ Is the thermostat intelligent? In one narrow sense it is very efficient: it achi
 
 ## The neuron
 
-A neuron is a far richer agent. A human brain contains about 86 billion of them. Each one listens to thousands of others through synapses, combines what it hears in its branching dendrites, and decides, many times a second, whether to fire a pulse down its axon.
+A neuron is a far richer agent. A human brain contains about 86 billion of them (1). Each one listens to thousands of others through synapses, combines what it hears in its branching dendrites, and decides, many times a second, whether to fire a pulse down its axon.
 
-Its memory lives mostly in its synapses: how strongly each input is allowed to influence it. These strengths are not arbitrary. In 2015, a team at the Salk Institute reconstructed a small cube of rat brain tissue at nanometre resolution. They found pairs of synapses from the same axon onto the same dendrite and compared their sizes, which reflect their strengths. From the precision of the match they estimated at least 26 distinguishable synaptic strengths, about 4.7 bits of information per synapse.
+Its memory lives mostly in its synapses: how strongly each input is allowed to influence it. These strengths are not arbitrary. In 2015, a team at the Salk Institute reconstructed a small cube of rat brain tissue at nanometre resolution. They found pairs of synapses from the same axon onto the same dendrite and compared their sizes, which reflect their strengths. From the precision of the match they estimated at least 26 distinguishable synaptic strengths, about 4.7 bits of information per synapse (2).
 
 With somewhere between a hundred trillion and a thousand trillion synapses, a human brain may store on the order of 10¹⁵ bits. That is a rough figure, but it gives the agent called a neuron a measurable memory, just as the thermostat has its setting.
 
@@ -27,7 +27,7 @@ With somewhere between a hundred trillion and a thousand trillion synapses, a hu
 
 If the neuron seems too obviously mind-like, consider the slime mould *Physarum polycephalum*. It is a single cell, a yellow blob that can spread across a surface, with no neurons at all. It moves by extending a network of tubes, thickening the ones that carry the most flow and letting the others wither.
 
-In 2010, Atsushi Tero and colleagues at Hokkaido University placed oat flakes on a wet dish in the positions of the cities around Tokyo, put the mould at the spot marked "Tokyo", and used bright light, which the mould avoids, to stand in for mountains and lakes. The mould first spread out in all directions. Then it pruned itself back to a network of tubes linking the oat flakes. The result had cost, efficiency and fault tolerance comparable to Tokyo's real rail network, which took engineers decades to plan.
+In 2010, Atsushi Tero and colleagues at Hokkaido University placed oat flakes on a wet dish in the positions of the cities around Tokyo, put the mould at the spot marked "Tokyo", and used bright light, which the mould avoids, to stand in for mountains and lakes. The mould first spread out in all directions. Then it pruned itself back to a network of tubes linking the oat flakes. The result had cost, efficiency and fault tolerance comparable to Tokyo's real rail network, which took engineers decades to plan (3, 4).
 
 The slime mould has no planner and no map. It lays down tubes everywhere, strengthens whatever works and cuts back whatever does not. It is, in a sense, a collective too: a vast network of tube segments, each responding to local flow, whose combined behaviour solves a problem none of them can see.
 
@@ -47,7 +47,7 @@ Now consider the opposite extreme: a crystal. Its atoms are locked into a perfec
 
 Intelligence seems to live between these extremes: between the chaos of the gas and the rigidity of the crystal. Physicists call the boundary between order and disorder a **critical point**, and systems poised there have a special signature. Activity spreads in cascades of all sizes, with no typical scale.
 
-The brain shows exactly this signature. In 2003, John Beggs and Dietmar Plenz recorded spontaneous activity in slices of rat cortex. Bursts of firing spread across the tissue like avalanches. Their sizes followed a power law with an exponent of −3/2, the value predicted for a system balanced at the critical point, where each active neuron triggers, on average, exactly one other.
+The brain shows exactly this signature. In 2003, John Beggs and Dietmar Plenz recorded spontaneous activity in slices of rat cortex. Bursts of firing spread across the tissue like avalanches. Their sizes followed a power law with an exponent of −3/2, the value predicted for a system balanced at the critical point, where each active neuron triggers, on average, exactly one other (5).
 
 ## When brains leave the balance
 
@@ -57,7 +57,7 @@ The brain's own failures show what happens when it slides away from that balance
 
 **Too little integration.** Under general anaesthesia, and in dreamless deep sleep, the opposite happens. Neurons keep firing, but activity stays local. Regions stop sharing information with each other.
 
-This contrast can now be measured. A team led by Marcello Massimini developed a test in which a brief magnetic pulse is applied to the scalp and the brain's electrical "echo" is recorded. In an awake person, the echo spreads widely and takes a complex, varied shape: integrated *and* differentiated. In deep sleep, under anaesthesia or in coma, the echo is either local or uniform. A single number computed from the echo, the perturbational complexity index, separates these states remarkably well, and has flagged a possible hidden capacity for consciousness in some unresponsive patients.
+This contrast can now be measured. A team led by Marcello Massimini developed a test in which a brief magnetic pulse is applied to the scalp and the brain's electrical "echo" is recorded. In an awake person, the echo spreads widely and takes a complex, varied shape: integrated *and* differentiated. In deep sleep, under anaesthesia or in coma, the echo is either local or uniform (6, 7). A single number computed from the echo, the perturbational complexity index, separates these states remarkably well, and has flagged a possible hidden capacity for consciousness in some unresponsive patients (7, 8).
 
 ## What an agent needs, and what a mind needs
 
@@ -80,10 +80,15 @@ The swarm from Chapter 1 sits in this window: scouts share information through d
 
 The claim that minds need criticality would be weakened if well-functioning brains were found to operate far from the critical point, or if power-law avalanches turned out to arise just as easily in systems with no special balance; some researchers argue the latter. The claim that a gas is not a mind is safe. The harder question is where exactly the line falls, and that requires the measures of Part II.
 
-## Notes
+## References
 
-- 86 billion neurons in the human brain: [Azevedo et al. 2009](https://pubmed.ncbi.nlm.nih.gov/19226510/).
-- About 4.7 bits per synapse: [Bartol et al. 2015, eLife](https://elifesciences.org/articles/10778v1).
-- Slime mould and the Tokyo rail network: [Tero et al. 2010, Science](https://pubmed.ncbi.nlm.nih.gov/20093467/); description of the experiment: [Ed Yong, National Geographic](https://www.nationalgeographic.com/science/article/slime-mould-attacks-simulates-tokyo-rail-network).
-- Neuronal avalanches: [Beggs & Plenz 2003](https://pmc.ncbi.nlm.nih.gov/articles/PMC6741045).
-- Perturbational complexity index: [Casali et al. 2013](https://orbi.uliege.be/handle/2268/171542); use in unresponsive patients: [Sinitsyn et al. 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7760168/).
+1. F. A. C. Azevedo et al. (2009), "Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain", *Journal of Comparative Neurology* 513:532–541. https://pubmed.ncbi.nlm.nih.gov/19226510/
+2. T. M. Bartol et al. (2015), "Nanoconnectomic upper bound on the variability of synaptic plasticity", *eLife* 4:e10778. https://elifesciences.org/articles/10778v1
+3. A. Tero, S. Takagi, T. Saigusa, K. Ito, D. P. Bebber, M. D. Fricker, K. Yumiki, R. Kobayashi and T. Nakagaki (2010), "Rules for biologically inspired adaptive network design", *Science* 327:439–442. https://pubmed.ncbi.nlm.nih.gov/20093467/
+4. E. Yong, description of the experiment of reference 3, *National Geographic*. https://www.nationalgeographic.com/science/article/slime-mould-attacks-simulates-tokyo-rail-network
+5. J. M. Beggs and D. Plenz (2003), "Neuronal avalanches in neocortical circuits", *Journal of Neuroscience* 23:11167–11177. https://pmc.ncbi.nlm.nih.gov/articles/PMC6741045
+6. M. Massimini, F. Ferrarelli, R. Huber, S. K. Esser, H. Singh and G. Tononi (2005), "Breakdown of cortical effective connectivity during sleep", *Science* 309:2228–2232.
+7. A. G. Casali et al. (2013), "A theoretically based index of consciousness independent of sensory processing and behavior", *Science Translational Medicine* 5:198ra105. https://orbi.uliege.be/handle/2268/171542
+8. D. O. Sinitsyn et al. (2020), "Detecting the potential for consciousness in unresponsive patients using the perturbational complexity index", *Brain Sciences* 10:917. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7760168/
+
+Figures given without a reference number are our own rough estimates or standard values: the number of synapses, the brain's total storage, and the number of molecules in a litre of air.

@@ -101,20 +101,20 @@ Dimensional analysis only finds the numbers that follow from the variables you l
 
 ## References
 
-1. "That's Maths: How big was the bomb?", *The Irish Times*. https://www.irishtimes.com/news/science/that-s-maths-how-big-was-the-bomb-1.1922968
+1. P. Lynch (2014), "That's Maths: How big was the bomb?", *The Irish Times*, 18 September 2014. https://www.irishtimes.com/news/science/that-s-maths-how-big-was-the-bomb-1.1922968
 2. J. S. Díaz (2021), "Explosion analysis from images: Trinity and Beirut". https://arxiv.org/pdf/2009.05674
-3. "Revisiting Taylor and the Trinity Test" (2024), including Buckingham's Pi theorem of 1914. https://arxiv.org/html/2403.19657v1
+3. E. Mone and P. Seshadri (2024), "Revisiting Taylor and the Trinity test", arXiv:2403.19657, including an account of Buckingham's Pi theorem of 1914. https://arxiv.org/html/2403.19657v1
 4. F. A. C. Azevedo et al. (2009), "Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain", *Journal of Comparative Neurology*. https://pubmed.ncbi.nlm.nih.gov/19226510/
 5. T. M. Bartol et al. (2015), "Nanoconnectomic upper bound on the variability of synaptic plasticity", *eLife*. https://elifesciences.org/articles/10778v1
 6. R. K. Thomas, "Hermann von Helmholtz 1821–1894" (encyclopedia entry manuscript), on Müller's belief. https://www.psychology.uga.edu/sites/default/files/inline-files/Final%20Manuscript.pdf
-7. H. Schmidgen, article on Helmholtz's measurements of nerve conduction in frogs and humans. https://epub.uni-regensburg.de/27126/1/schmidgen.pdf
+7. H. Schmidgen (2002), "Of frogs and men: the origins of psychophysiological time experiments, 1850–1865", *Endeavour* 26:142–148. https://epub.uni-regensburg.de/27126/1/schmidgen.pdf
 8. "Hermann von Helmholtz", Wikipedia, section on nerve physiology. https://www.wikipedia.org/wiki/Helmholtz
 9. H. Schmidgen (2003), "Helmholtz's 'psychological' time experiments", The Virtual Laboratory. https://vlp.mpiwg-berlin.mpg.de/essays/data/art10?p=4
 10. H. L. More and J. M. Donelan (2018), "Scaling of sensorimotor delays in terrestrial mammals", *Proceedings of the Royal Society B*. https://sfu.ca/locomotionlab/assets/More-PRSB-2018.pdf
 11. Simon Fraser University (2018), "Not so fast: from shrews to elephants, animal reflexes surprisingly slow". https://sciencedaily.com/releases/2018/08/180829143756.htm
-12. Article on the neuroscience of hitting a fastball, *Frontiers for Young Minds* (2014). https://kids.frontiersin.org/articles/10.3389/frym.2014.00020
+12. D. Brooks (2014), "Hitting a baseball needs the brain", *Frontiers for Young Minds* 2:20. https://kids.frontiersin.org/articles/10.3389/frym.2014.00020
 13. M. T. Wallace and R. A. Stevenson (2014), "The construct of the multisensory temporal binding window and its dysregulation in developmental disabilities", *Neuropsychologia*. https://pmc.ncbi.nlm.nih.gov/articles/PMC4326640
-14. "Single-shot T1 mapping of the corpus callosum: a rapid characterization of fiber bundle anatomy" (2015), *Frontiers in Neuroanatomy*, citing earlier fibre counts. https://pmc.ncbi.nlm.nih.gov/articles/PMC4426710
+14. S. Hofer, X. Wang, V. Roeloffs and J. Frahm (2015), "Single-shot T1 mapping of the corpus callosum: a rapid characterization of fiber bundle anatomy", *Frontiers in Neuroanatomy* 9:57; the fibre count is taken from earlier anatomical studies cited there. https://pmc.ncbi.nlm.nih.gov/articles/PMC4426710
 15. K. Zhang and T. J. Sejnowski (2000), "A universal scaling law between gray matter and white matter of cerebral cortex", *PNAS*. https://pmc.ncbi.nlm.nih.gov/articles/PMC25878
 16. D. S. Bassett et al. (2010), "Efficient physical embedding of topologically complex information processing networks in brains and computer circuits", *PLOS Computational Biology*. https://pmc.ncbi.nlm.nih.gov/articles/PMC2858671
 17. S. Olkowicz et al. (2016), "Birds have primate-like numbers of neurons in the forebrain", *PNAS*. https://pmc.ncbi.nlm.nih.gov/articles/PMC4932926

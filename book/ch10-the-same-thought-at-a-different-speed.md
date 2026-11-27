@@ -26,12 +26,12 @@ The thought is the pattern. The wall-clock duration is an accident of the hardwa
 
 ## The monkey and the swarm
 
-There is already one place to test this. Chapter 1 described two decisions that use the same algorithm: a monkey deciding which way a cloud of dots is drifting, and a swarm deciding where to live. In both, rival populations build up evidence, suppress each other, and stop when one crosses a threshold.
+There is already one place to test this. Chapter 1 described two decisions that use the same algorithm: a monkey deciding which way a cloud of dots is drifting, and a swarm deciding where to live. In both, rival populations build up evidence, suppress each other, and stop when one crosses a threshold (1, 2, 3).
 
 Count the ticks.
 
-- The monkey takes roughly half a second. Signals hop between neurons in something like five to ten milliseconds, so the decision takes on the order of **50 to 100 steps**.
-- The swarm in Seeley's 1997 observations took about 16 hours of dancing. A scout's round trip, out to the site, in to inspect it, back to dance, takes tens of minutes, so the decision took on the order of **20 to 50 steps**.
+- The monkey takes roughly half a second (1). Signals hop between neurons in something like five to ten milliseconds, so the decision takes on the order of **50 to 100 steps**.
+- The swarm in Seeley's 1997 observations took about 16 hours of dancing (4). A scout's round trip, out to the site, in to inspect it, back to dance, takes tens of minutes, so the decision took on the order of **20 to 50 steps**.
 
 These are rough estimates and should be treated as such. But look at what they say. The two decisions differ in duration by a factor of about a hundred thousand. Measured in each system's own ticks, they are within a small factor of each other. Both minds decide in tens of steps.
 
@@ -51,7 +51,7 @@ So the honest statement is that exact copies are rare and family resemblances ar
 
 ## How a slow mind thinks about fast things
 
-There is an obvious objection to the first of those limits. We think about things far faster than ourselves all the time. A physicist reasons about electrons, whose states change in a few tenths of an attosecond, and an attosecond is to one second roughly what one second is to the age of the universe. If a mind were limited to subjects slower than its own tick, physics would be impossible.
+There is an obvious objection to the first of those limits. We think about things far faster than ourselves all the time. A physicist reasons about electrons, whose motions inside atoms play out over attoseconds, and an attosecond is to one second roughly what one second is to the age of the universe (5). If a mind were limited to subjects slower than its own tick, physics would be impossible.
 
 The answer is that there are two different relations a mind can have with a part of the world, and the speed limit applies to only one of them.
 
@@ -59,7 +59,7 @@ The answer is that there are two different relations a mind can have with a part
 
 **Modelling** is holding a description of something. A description does not have to change as fast as the thing it describes. Usually it does not change at all. That is how slow minds reach fast things, and they do it in four ways.
 
-1. **Turn time into space.** For years people argued about whether a galloping horse ever has all four hooves off the ground. The gallop is too fast for the eye. In June 1878 Eadweard Muybridge set a row of cameras along a racetrack in Palo Alto, each triggered as the horse passed, with shutters as fast as a thousandth of a second. The photographs showed the horse airborne. Nobody's perception got faster. The event was converted into a row of pictures that sit still on a table and can be studied for an hour. Every oscilloscope trace, every graph with time along one axis, is the same trick: a record is a fast thing made slow. The attosecond pulses that won the 2023 Nobel Prize in physics are Muybridge's cameras, a million billion times quicker.
+1. **Turn time into space.** For years people argued about whether a galloping horse ever has all four hooves off the ground. The gallop is too fast for the eye. In June 1878 Eadweard Muybridge set a row of cameras along a racetrack in Palo Alto, each triggered as the horse passed, with shutters as fast as a thousandth of a second. The photographs showed the horse airborne (6, 7). Nobody's perception got faster. The event was converted into a row of pictures that sit still on a table and can be studied for an hour. Every oscilloscope trace, every graph with time along one axis, is the same trick: a record is a fast thing made slow. The attosecond pulses that won the 2023 Nobel Prize in physics are Muybridge's cameras, a million billion times quicker (5).
 2. **Think about what does not change.** The path of one air molecule is hopelessly fast. The law that governs it is not fast at all; it is the same now as it was a billion years ago. A law of nature is the slowest object there is. When a physicist thinks about electrons she is thinking about the rule they follow, and the rule holds still.
 3. **Average.** Temperature is a summary of trillions of collisions per second. The summary changes slowly even though what it summarises does not. Chapter 3 said the air in your kitchen is not a mind, but you can still think about its temperature.
 4. **Delegate downward.** When your hand pulls back from the stove, a faster and smaller part of you has dealt with a problem the whole could not reach in time. We now build such parts on purpose. A camera, a particle detector and a computer are fast agents that couple to the fast world on our behalf and report back at ten bits per second.
@@ -91,7 +91,7 @@ The row for humanity deserves a moment too. If global questions really take deca
 
 Cognitive time gives a strange twist to an ordinary word. For any mind, "now" cannot be thinner than its crossing time, because within that window its parts have not yet heard from each other.
 
-Your now is a few tenths of a second wide. Experiments on perception find just such a window, inside which the brain binds events together as simultaneous. A swarm's now is the better part of an hour. Humanity's now is debatable, but it is certainly not an instant. And for a mind spanning the galaxy, now would be a hundred thousand years wide. The whole of human history, from the first cave paintings to this sentence, would fit inside one of its present moments with room to spare.
+Your now is a few tenths of a second wide. Experiments on perception find just such a window, inside which the brain binds events together as simultaneous (8). A swarm's now is the better part of an hour. Humanity's now is debatable, but it is certainly not an instant. And for a mind spanning the galaxy, now would be a hundred thousand years wide. The whole of human history, from the first cave paintings to this sentence, would fit inside one of its present moments with room to spare.
 
 ## Minds that cannot see each other
 
@@ -125,12 +125,15 @@ This technique is called data collapse. It is how physicists established that ve
 
 The principle fails if the data-collapse test fails: if decisions of the same type take wildly different numbers of crossing times in different systems, with no pattern explained by their other pure numbers. The step counts quoted for the monkey and the swarm are estimates; careful measurement could move them apart. The thought budgets depend on the assumption of roughly fifty ticks per decision and inherit its uncertainty. The idea that subjective time follows cognitive time is not yet testable at all.
 
-## Notes
+## References
 
-- Dynamical similarity and the Reynolds number are standard fluid mechanics; the impossibility of matching the Froude and Reynolds numbers together in ship-model tests is a textbook result.
-- The swarm's 16 hours of dancing and the shared decision algorithm: [Seeley, Visscher & Passino 2006](https://bees.ucr.edu/media/156/download); [Seeley et al. 2012 (Cornell summary)](https://news.cornell.edu/node/271186); [Marshall et al. 2009](https://ora.ox.ac.uk/objects/uuid:e1bddf33-2467-4a42-846c-0ba4a556b138).
-- Step counts for the monkey and the swarm, the fifty-ticks figure, and all thought budgets are our own rough estimates. The size and age of the Milky Way are approximate standard values.
-- Muybridge's photographs of the galloping horse, 19 June 1878: [IEEE Spectrum](https://spectrum.ieee.org/consumer-electronics/audiovideo/june-1878-muybridge-photographs-a-galloping-horse); the debate they settled: [Smithsonian Magazine](https://www.smithsonianmag.com/smithsonian-institution/how-19th-century-photographer-first-gif-galloping-horse-180970990/).
-- Attosecond pulses and the timescale of electrons: [Nobel Prize in Physics 2023, press release](https://nobelprize.org/prizes/physics/2023/press-release/).
-- The distinction between coupling and modelling, and the claim about traffic between levels, are the theory's own.
-- Scale-free behaviour near critical points in living systems: [Cavagna et al. 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2900681); [Beggs & Plenz 2003](https://pmc.ncbi.nlm.nih.gov/articles/PMC6741045).
+1. J. I. Gold and M. N. Shadlen (2007), "The neural basis of decision making", *Annual Review of Neuroscience* 30:535–574. https://doi.org/10.1146/annurev.neuro.29.051605.113038
+2. T. D. Seeley, P. K. Visscher, T. Schlegel, P. M. Hogan, N. R. Franks and J. A. R. Marshall (2012), "Stop signals provide cross inhibition in collective decision-making by honeybee swarms", *Science* 335:108–111; summary by Cornell University. https://news.cornell.edu/node/271186
+3. J. A. R. Marshall, R. Bogacz, A. Dornhaus, R. Planqué, T. Kovacs and N. R. Franks (2009), "On optimal decision-making in brains and social insect colonies", *Journal of the Royal Society Interface* 6:1065–1074. https://ora.ox.ac.uk/objects/uuid:e1bddf33-2467-4a42-846c-0ba4a556b138
+4. T. D. Seeley, P. K. Visscher and K. M. Passino (2006), "Group decision making in honey bee swarms", *American Scientist* 94:220–229. https://bees.ucr.edu/media/156/download
+5. The Royal Swedish Academy of Sciences (2023), "The Nobel Prize in Physics 2023", press release. https://nobelprize.org/prizes/physics/2023/press-release/
+6. *IEEE Spectrum*, "June 1878: Muybridge photographs a galloping horse". https://spectrum.ieee.org/consumer-electronics/audiovideo/june-1878-muybridge-photographs-a-galloping-horse
+7. *Smithsonian Magazine*, on the debate Muybridge's photographs settled. https://www.smithsonianmag.com/smithsonian-institution/how-19th-century-photographer-first-gif-galloping-horse-180970990/
+8. M. T. Wallace and R. A. Stevenson (2014), "The construct of the multisensory temporal binding window and its dysregulation in developmental disabilities", *Neuropsychologia* 64:105–123. https://pmc.ncbi.nlm.nih.gov/articles/PMC4326640
+
+Dynamical similarity, the Reynolds number, the impossibility of matching the Froude and Reynolds numbers together in ship-model tests, and data collapse near critical points are standard results of physics and engineering. The step counts for the monkey and the swarm, the fifty-ticks figure and all thought budgets are our own rough estimates; the size and age of the Milky Way are approximate standard values. The distinction between coupling and modelling, and the claim about traffic between levels, are the theory's own.

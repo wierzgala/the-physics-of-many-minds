@@ -10,9 +10,9 @@ Until now this book has measured communication the way an engineer measures a ca
 
 ## What Shannon left out on purpose
 
-When Claude Shannon founded information theory in 1948, he drew a line. The meaning of a message, he wrote, is irrelevant to the engineering problem. His task was to get symbols from one place to another intact, whatever they stood for.
+When Claude Shannon founded information theory in 1948, he drew a line. The meaning of a message, he wrote, is irrelevant to the engineering problem (1). His task was to get symbols from one place to another intact, whatever they stood for.
 
-His colleague Warren Weaver saw what lay on the other side of the line and described communication as a problem at three levels:
+His colleague Warren Weaver saw what lay on the other side of the line and described communication as a problem at three levels (2):
 
 1. **Technical.** How accurately can the symbols be transmitted?
 2. **Semantic.** How precisely do the symbols convey the intended meaning?
@@ -26,7 +26,7 @@ The key is hidden in an ordinary scene. You walk into the café you visit every 
 
 You did not send less information than the newcomer. You sent the part the barista did not already have. Everything else was sent earlier, on the fifty previous mornings.
 
-Information theory has an exact statement of this. In 1973 David Slepian and Jack Wolf proved that if a receiver already holds information related to a message, the message can be sent using only as many bits as the receiver is still uncertain about, given what it knows. The surprising part of their theorem is that the sender does not even need to know exactly what the receiver holds. It is enough that the shared knowledge exists.
+Information theory has an exact statement of this. In 1973 David Slepian and Jack Wolf proved that if a receiver already holds information related to a message, the message can be sent using only as many bits as the receiver is still uncertain about, given what it knows. The surprising part of their theorem is that the sender does not even need to know exactly what the receiver holds. It is enough that the shared knowledge exists (3).
 
 This gives us a rule and a number.
 
@@ -38,7 +38,7 @@ There is an old joke about this. A newcomer arrives in a prison and hears an inm
 
 ## The dance, again
 
-Now the waggle dance makes sense. Seven bits can direct a bee to a hollow tree three kilometres away because every bee is born with the codebook: angle means direction relative to the sun, duration means distance, vigour means quality. That codebook was written into the genome over millions of years of selection. Each dance is a tiny withdrawal from an enormous account.
+Now the waggle dance makes sense. Seven bits (4) can direct a bee to a hollow tree three kilometres away because every bee is born with the codebook: angle means direction relative to the sun, duration means distance, vigour means quality. That codebook was written into the genome over millions of years of selection. Each dance is a tiny withdrawal from an enormous account.
 
 The same is true of every working collective. Neurons share a code fixed by development and tuned by learning. Scientists share mathematics. The members of a jazz quartet share thousands of hours of listening to the same records. In each case the wire between the agents is thin, and the collective works anyway, because the wire only has to carry the difference.
 
@@ -46,14 +46,14 @@ The same is true of every working collective. Neurons share a code fixed by deve
 
 The bees' codebook is in their genes. So is a large part of ours, and it is easy to overlook because we never had to learn it.
 
-Before two people have exchanged a word, before either has a language or a culture, they already share an enormous store of context. A human genome is a text of about three billion letters, and any two people's copies are about 99.9% identical. At two bits per letter, that is some six billion bits held in common by every pair of humans who have ever met (that last figure is our arithmetic). No friendship, however long, adds shared context on that scale by talking.
+Before two people have exchanged a word, before either has a language or a culture, they already share an enormous store of context. A human genome is a text of about three billion letters, and any two people's copies are about 99.9% identical (5). At two bits per letter, that is some six billion bits held in common by every pair of humans who have ever met (that last figure is our arithmetic). No friendship, however long, adds shared context on that scale by talking.
 
 What is written there is not knowledge of the world. Six billion bits could not specify the 10¹⁵ bits a brain will eventually hold. It is something more useful for communication: the plans for the same sense organs, the same emotions, the same face, and the same expectations about other faces. It is a shared decoder.
 
 The evidence that this decoder is inherited, not learned, is striking.
 
-- **Newborns arrive expecting faces.** In a classic experiment, 24 babies were tested within their first hour of life. They turned their heads and eyes further to follow a simple face-like pattern than to follow the same features scrambled. They had never seen a face.
-- **The blind make the faces they have never seen.** Researchers photographed judo athletes at the 2004 Olympic and Paralympic Games at the moment they won or lost a medal match: 84 sighted athletes and 76 blind ones, some blind from birth. The expressions of the congenitally blind were the same as those of the sighted, down to the individual muscle movements. They could not have copied them from anyone.
+- **Newborns arrive expecting faces.** In a classic experiment, 24 babies were tested within their first hour of life. They turned their heads and eyes further to follow a simple face-like pattern than to follow the same features scrambled. They had never seen a face (6).
+- **The blind make the faces they have never seen.** Researchers photographed judo athletes at the 2004 Olympic and Paralympic Games at the moment they won or lost a medal match: 84 sighted athletes and 76 blind ones, some blind from birth. The expressions of the congenitally blind were the same as those of the sighted, down to the individual muscle movements. They could not have copied them from anyone (7, 8).
 
 So the dinner-party glance works at two depths. The eyebrow means what it means to that couple because of forty years together. But an eyebrow means *anything at all*, to any human, because of a code written long before either of them was born. A smile from a stranger in a country whose language you do not speak is a message with a very high κ, and the context it draws on is the genome.
 
@@ -71,7 +71,7 @@ Each layer is narrower than the one below it and quicker to write. And each rest
 
 Two consequences follow, and both are claims of the theory.
 
-First, the deepest layers are also the safest. A couple's shared context dies with them. A language can die with its last speakers. The genomic layer is copied into eight billion bodies and is, for now, the most redundant store of shared context our species has. It is what makes humanity one collective at all, underneath its seven thousand languages.
+First, the deepest layers are also the safest. A couple's shared context dies with them. A language can die with its last speakers. The genomic layer is copied into eight billion bodies and is, for now, the most redundant store of shared context our species has. It is what makes humanity one collective at all, underneath its seven thousand languages (9).
 
 Second, the hardest communication problem is not a narrow channel. It is a partner with whom the lower layers are missing. A mind that did not share our evolutionary history, whether it grew on another planet or in a data centre, would lack the layer that makes a smile readable. A machine trained on human writing inherits much of the cultural layer, which is why we can talk to it at all. It does not inherit the layer beneath. The theory predicts that misunderstandings between humans and such minds will cluster exactly there: in everything we never say because no human has ever needed to be told.
 
@@ -79,11 +79,11 @@ Second, the hardest communication problem is not a narrow channel. It is a partn
 
 If shared context is a real quantity, groups that have more of it should perform better than their raw abilities predict. They do.
 
-**Couples.** The psychologist Daniel Wegner studied memory in 118 people who were in close relationships. He found that close couples hold an implicit structure for dividing up what each will remember, a system he called transactive memory, and that this joint system is larger than either partner's memory alone. Each partner stores less, because each knows what the other knows.
+**Couples.** The psychologist Daniel Wegner studied memory in 118 people who were in close relationships. He found that close couples hold an implicit structure for dividing up what each will remember, a system he called transactive memory, and that this joint system is larger than either partner's memory alone. Each partner stores less, because each knows what the other knows (10).
 
-**Teams.** A study of 1,015 software projects at a large Indian software firm asked what predicts a team's performance. The experience of individual members, such as their years at the firm, was not consistently related to it. What mattered was how much the members had worked with *each other* before.
+**Teams.** A study of 1,015 software projects at a large Indian software firm asked what predicts a team's performance. The experience of individual members, such as their years at the firm, was not consistently related to it. What mattered was how much the members had worked with *each other* before (11).
 
-**Groups of strangers.** Anita Woolley and colleagues gave 192 small groups a wide range of tasks and found that a group's ability on one task predicted its ability on others: groups have a general collective intelligence. It was not strongly related to the average intelligence of the members, or to that of the cleverest member. It was related to the members' social sensitivity, and to how evenly they took turns speaking. Social sensitivity was measured with a test in which you look at a photograph of a person's eyes and say what they are feeling.
+**Groups of strangers.** Anita Woolley and colleagues gave 192 small groups a wide range of tasks and found that a group's ability on one task predicted its ability on others: groups have a general collective intelligence. It was not strongly related to the average intelligence of the members, or to that of the cleverest member. It was related to the members' social sensitivity, and to how evenly they took turns speaking. Social sensitivity was measured with a test in which you look at a photograph of a person's eyes and say what they are feeling (12, 13).
 
 That last finding is this chapter's opening scene in a laboratory. The groups that thought best were the ones whose members were best at reading a glance.
 
@@ -109,7 +109,7 @@ But shared context cannot make a message arrive sooner. A signal still has to cr
 
 Follow the logic to its end. The better my model of you, the less you need to tell me. If my model were perfect, I could predict everything you were about to say, and you would need to send nothing at all, except on the rare occasions when you surprised me.
 
-So communication between agents who know each other deeply should consist mostly of *exceptions*: corrections to the other's predictions. An influential theory in neuroscience, predictive coding, holds that the cortex works this way, with higher areas sending predictions down and lower areas sending back only the errors. Whether or not the brain does this, the theory here says that any mature collective should drift in that direction, because it is the cheapest way to stay coordinated.
+So communication between agents who know each other deeply should consist mostly of *exceptions*: corrections to the other's predictions. An influential theory in neuroscience, predictive coding, holds that the cortex works this way, with higher areas sending predictions down and lower areas sending back only the errors (14). Whether or not the brain does this, the theory here says that any mature collective should drift in that direction, because it is the cheapest way to stay coordinated.
 
 It follows that silence is a message. Between two agents with a deep shared model, no signal means *I am as you expect*. A collective that has reached this state would look, from outside, almost as if its members were not communicating at all.
 
@@ -126,17 +126,17 @@ It also tells us what to share and what not to. There are two kinds of common gr
 - **Shared code**: agreement about what signals *mean*. A language, a notation, a protocol.
 - **Shared belief**: agreement about what is *true*.
 
-Shared code raises κ without costing independence. Shared belief raises κ by destroying independence, and independence is what made 787 guesses about an ox add up to the right answer. The bees share the dance and keep their opinions. The theory predicts that the most intelligent collectives are those that maximise the first kind of common ground and protect diversity in the second.
+Shared code raises κ without costing independence. Shared belief raises κ by destroying independence, and independence is what made 787 guesses about an ox add up to the right answer (15). The bees share the dance and keep their opinions. The theory predicts that the most intelligent collectives are those that maximise the first kind of common ground and protect diversity in the second.
 
 ## Two people, one system?
 
-One more consequence, to be developed in Chapter 12. This book will propose that a self ends where communication with the outside becomes much thinner than communication within. Counted in raw bits, two people are hopelessly separate: speech carries about 39 bits per second, against perhaps a hundred million between the two halves of one brain.
+One more consequence, to be developed in Chapter 12. This book will propose that a self ends where communication with the outside becomes much thinner than communication within. Counted in raw bits, two people are hopelessly separate: speech carries about 39 bits per second (16), against perhaps a hundred million between the two halves of one brain.
 
 Counted in meaning, the gap narrows. For two people with decades of shared context, each spoken bit does the work of hundreds. They remain two selves, by many orders of magnitude. But they are measurably closer to being one system than two strangers are. That raises two questions: is the pair smarter than its members, and what is it like to be half of one?
 
 ### Are two heads better than one?
 
-Sometimes, and the conditions have been measured. In a well-known experiment, pairs of volunteers looked for a faint target in a visual display, first deciding alone and then, when they disagreed, talking it over. When the two had similar eyesight, the pair did better than its better member. When their abilities were very different, the pair did *worse* than its better member would have done alone. And the benefit appeared only when they could talk freely; being told afterwards who had been right was not enough. The explanation that fitted the data was that partners were telling each other how confident they were, and a pair can combine two opinions well only if each can read the other's confidence accurately.
+Sometimes, and the conditions have been measured. In a well-known experiment, pairs of volunteers looked for a faint target in a visual display, first deciding alone and then, when they disagreed, talking it over. When the two had similar eyesight, the pair did better than its better member. When their abilities were very different, the pair did *worse* than its better member would have done alone. The benefit appeared even though they were never told who had been right, but only when they could talk freely. When they could exchange nothing but their choices, the pair did no better than its better member (17, 18). The explanation that fitted the data was that partners were telling each other how confident they were, and a pair can combine two opinions well only if each can read the other's confidence accurately.
 
 A long-established couple is close to the ideal case for this. Their shared code is deep, so "I'm fairly sure" means the same thing to both. Each knows what the other is reliable about. By the argument of this chapter, their joint η should exceed either's alone.
 
@@ -144,9 +144,9 @@ But the theory attaches the same condition it attaches to every collective. The 
 
 ### What it feels like
 
-Psychologists have measured the merging that couples describe. In one study, married people were shown a list of traits and asked to press a button for "me" or "not me". They were slower, and made more errors, on traits that were true of them but not of their spouse, or the reverse, as if they had to stop and work out which of the two the trait belonged to. The researchers called this including the other in the self. In another part of the same work, people sharing out money treated a close friend almost as they treated themselves.
+Psychologists have measured the merging that couples describe. In one study, married people were shown a list of traits and asked to press a button for "me" or "not me". They were slower, and made more errors, on traits that were true of them but not of their spouse, or the reverse, as if they had to stop and work out which of the two the trait belonged to. The researchers called this including the other in the self. In another part of the same work, people sharing out money treated a close friend almost as they treated themselves (19, 20).
 
-The cost of losing that other half is also on record. Combining studies of more than two million people, one analysis found that the risk of dying is raised by about 41 percent in the first six months after a spouse's death, and by about 14 percent after that. Bereavement harms people in many ways, so this is not proof of the idea. It is what the idea would lead one to expect.
+The cost of losing that other half is also on record. Combining studies of more than two million people, one analysis found that the risk of dying is raised by about 41 percent in the first six months after a spouse's death, and by about 14 percent after that (21). Bereavement harms people in many ways, so this is not proof of the idea. It is what the idea would lead one to expect.
 
 Here is the theory's reading, and it is a claim. The couple is not a self. By the measure above, there is no joint experience; the feeling of "us" occurs separately in each partner. What has changed is each partner's model of themselves. It has stretched to include things that are stored in the other: memories, judgements, the ability to predict what happens next. Your self no longer ends at your skin, because part of the machinery you rely on to be yourself is in someone else's head.
 
@@ -167,21 +167,28 @@ The central claim fails if shared context turns out not to be measurable, even r
 
 The account of couples predicts a rise and fall. If pairs who agree about everything decide as well as pairs who understand each other and still differ, the independence condition is wrong. If long-married partners turn out to be no better than strangers at reading each other's confidence, the shared-code argument fails for them.
 
-## Notes
+## References
 
-- Shannon's exclusion of meaning and Weaver's three levels: [Weaver 1949, *The Mathematics of Communication*](https://Monoskop.org/images/b/b3/Weaver_Warren_1949_1973_The_Mathematics_of_Communication.pdf); Shannon quoted in [this technical report](https://apps.dtic.mil/sti/pdfs/ADA544137.pdf).
-- Coding with side information at the receiver: Slepian & Wolf 1973, summarised in [this overview](https://arxiv.org/pdf/2403.07409).
-- Information content of the waggle dance: [Schürch & Ratnieks 2015](https://www.frontiersin.org/articles/10.3389/fevo.2015.00022).
-- Human genomes of about three billion letters, about 99.9% identical between people: [NHGRI, Human Genomic Variation](https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation). The six-billion-bit figure, the layer table and its timescales are our own estimates.
-- Newborns tracking face-like patterns in the first hour of life: [Johnson, Dziurawiec, Ellis & Morton 1991](https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Newborns-preferential-tracking-of-face-like-stimuli/991005543269907891); review: [this review of infant face perception](https://pmc.ncbi.nlm.nih.gov/articles/PMC3090162). Some studies have failed to replicate the effect, though most of the literature supports it.
-- Facial expressions of congenitally blind athletes: [Matsumoto & Willingham 2009](https://pubmed.ncbi.nlm.nih.gov/19210060/); numbers of athletes: [APA press release](https://www.apa.org/news/press/releases/2008/12/facial-expressions).
-- Transactive memory in close couples: [Wegner, Erber & Raymond 1991](https://scholar.harvard.edu/sites/scholar.harvard.edu/files/dwegner/files/wegnererberraymond1991.pdf).
-- Team familiarity and performance in 1,015 software projects: [Huckman, Staats & Upton 2009](https://econpapers.repec.org/RePEc:inm:ormnsc:v:55:y:2009:i:1:p:85-100); summary: [strategy+business](https://strategy-business.com/article/re00013).
-- Collective intelligence factor in 192 groups: [Woolley et al. 2010](https://pubmed.ncbi.nlm.nih.gov/20929725/); the eyes test: [Harvard summary](https://www.gap.hks.harvard.edu/evidence-collective-intelligence-factor-performance-human-groups).
-- Pairs outperforming or underperforming their better member: [Bahrami et al. 2010, "Optimally interacting minds", Science](https://pmc.ncbi.nlm.nih.gov/articles/3371582); the need for free discussion: [Wellcome Trust summary](https://wellcome.org/press-release/two-heads-are-better-one-right-partner).
-- Including the other in the self, the "me / not me" experiment and the money-allocation experiment: [Aron, Aron, Tudor & Nelson 1991](https://www.proquest.com/docview/614329106); review: [Branand, Mashek & Aron 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6821680).
-- Mortality after the death of a spouse: [Moon, Kondo, Glymour & Subramanian 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3157386).
-- The rise-and-fall prediction for couples and the account of belonging are the theory's claims.
-- Speech at about 39 bits per second: [Coupé et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6984970). The figure for traffic between brain hemispheres is a rough estimate of ours.
-- The ox-weighing crowd: see the notes to Chapter 1.
-- The dinner-table and café scenes are illustrations, not data. The values of κ quoted for them are guesses; measuring κ in real pairs is an open problem.
+1. C. E. Shannon (1948), "A mathematical theory of communication", *Bell System Technical Journal* 27:379–423 and 623–656.
+2. W. Weaver (1949), "Recent contributions to the mathematical theory of communication", in C. E. Shannon and W. Weaver, *The Mathematical Theory of Communication*, University of Illinois Press. https://Monoskop.org/images/b/b3/Weaver_Warren_1949_1973_The_Mathematics_of_Communication.pdf
+3. D. Slepian and J. K. Wolf (1973), "Noiseless coding of correlated information sources", *IEEE Transactions on Information Theory* 19:471–480; summarised in this overview: https://arxiv.org/pdf/2403.07409
+4. R. Schürch and F. L. W. Ratnieks (2015), "The spatial information content of the honey bee waggle dance", *Frontiers in Ecology and Evolution* 3:22. https://www.frontiersin.org/articles/10.3389/fevo.2015.00022
+5. National Human Genome Research Institute, "Human genomic variation". https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation
+6. M. H. Johnson, S. Dziurawiec, H. Ellis and J. Morton (1991), "Newborns' preferential tracking of face-like stimuli and its subsequent decline", *Cognition* 40:1–19. Some later studies have failed to replicate the effect, though most of the literature supports it. https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Newborns-preferential-tracking-of-face-like-stimuli/991005543269907891
+7. D. Matsumoto and B. Willingham (2009), "Spontaneous facial expressions of emotion of congenitally and noncongenitally blind individuals", *Journal of Personality and Social Psychology* 96:1–10. https://pubmed.ncbi.nlm.nih.gov/19210060/
+8. American Psychological Association (2008), press release on the same research, giving the numbers of athletes. https://www.apa.org/news/press/releases/2008/12/facial-expressions
+9. Ethnologue, "How many languages are there in the world?". https://ethnologue.com/insights/how-many-languages
+10. D. M. Wegner, R. Erber and P. Raymond (1991), "Transactive memory in close relationships", *Journal of Personality and Social Psychology* 61:923–929. https://scholar.harvard.edu/sites/scholar.harvard.edu/files/dwegner/files/wegnererberraymond1991.pdf
+11. R. S. Huckman, B. R. Staats and D. M. Upton (2009), "Team familiarity, role experience, and performance: evidence from Indian software services", *Management Science* 55:85–100. https://econpapers.repec.org/RePEc:inm:ormnsc:v:55:y:2009:i:1:p:85-100
+12. A. W. Woolley, C. F. Chabris, A. Pentland, N. Hashmi and T. W. Malone (2010), "Evidence for a collective intelligence factor in the performance of human groups", *Science* 330:686–688. https://pubmed.ncbi.nlm.nih.gov/20929725/
+13. Harvard Kennedy School, Gender Action Portal, summary of reference 12, describing the eyes test. https://www.gap.hks.harvard.edu/evidence-collective-intelligence-factor-performance-human-groups
+14. R. P. N. Rao and D. H. Ballard (1999), "Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects", *Nature Neuroscience* 2:79–87.
+15. F. Galton (1907), "Vox populi", *Nature* 75:450–451. https://galton.org/cgi-bin/searchImages/search/essays/pages/galton-1907-vox-populi_1.htm
+16. C. Coupé, Y. M. Oh, D. Dediu and F. Pellegrino (2019), "Different languages, similar encoding efficiency: comparable information rates across the human communicative niche", *Science Advances* 5:eaaw2594. https://pmc.ncbi.nlm.nih.gov/articles/PMC6984970
+17. B. Bahrami, K. Olsen, P. E. Latham, A. Roepstorff, G. Rees and C. D. Frith (2010), "Optimally interacting minds", *Science* 329:1081–1085. https://pmc.ncbi.nlm.nih.gov/articles/PMC3371582
+18. Wellcome Trust (2010), press release on reference 17. https://wellcome.org/press-release/two-heads-are-better-one-right-partner
+19. A. Aron, E. N. Aron, M. Tudor and G. Nelson (1991), "Close relationships as including other in the self", *Journal of Personality and Social Psychology* 60:241–253. https://www.proquest.com/docview/614329106
+20. B. Branand, D. Mashek and A. Aron (2019), "Pair-bonding as inclusion of other in the self: a literature review", *Frontiers in Psychology* 10:2399. https://pmc.ncbi.nlm.nih.gov/articles/PMC6821680
+21. J. R. Moon, N. Kondo, M. M. Glymour and S. V. Subramanian (2011), "Widowhood and mortality: a meta-analysis", *PLoS ONE* 6:e23465; 15 cohort studies, 2,263,888 people. https://pmc.ncbi.nlm.nih.gov/articles/PMC3157386
+
+Figures given without a reference number are our own rough estimates: the six billion bits of shared genome, the layer table and its timescales, and the traffic between brain hemispheres. The dinner-table, café and prison scenes are illustrations, not data, and the values of κ quoted for them are guesses; measuring κ in real pairs is an open problem. The rise-and-fall prediction for couples and the account of belonging are the theory's claims.

@@ -2,7 +2,7 @@
 
 ## A country with two colours
 
-In 2008 four researchers in Belgium were testing a new method for finding communities in very large networks. For data they used the records of a mobile phone operator: about two million customers, and who called whom. The method knew nothing about the customers. It only looked for groups of people who called each other more than they called outsiders.
+In 2008 four researchers in Belgium were testing a new method for finding communities in very large networks. For data they used the records of a mobile phone operator: about two million customers, and who called whom. The method knew nothing about the customers. It only looked for groups of people who called each other more than they called outsiders (1).
 
 When the groups were drawn as a map and coloured by the main language of their members, the country fell into two halves. One large cluster of communities was French-speaking and the other Dutch-speaking, with a single small mixed community between them. Belgium, one state with one government and one phone network, was two conversations.
 
@@ -12,10 +12,10 @@ Nobody told the algorithm about language. The boundary was simply there in the f
 
 The obvious candidate is all of us. Run the numbers the way Part II taught.
 
-- **Agents:** about 8.2 billion people.
-- **What each takes in:** on the order of a billion bits per second through the senses.
-- **What each passes on:** about ten bits per second of behaviour; about 39 bits per second when speaking.
-- **Shared codes:** 7,164 living languages, of which just 23 cover more than half of humanity.
+- **Agents:** about 8.2 billion people (2).
+- **What each takes in:** on the order of a billion bits per second through the senses (3).
+- **What each passes on:** about ten bits per second of behaviour (3); about 39 bits per second when speaking (4).
+- **Shared codes:** 7,164 living languages, of which just 23 cover more than half of humanity (5).
 
 The ratio between what a person takes in and what a person gives out is about a hundred million. Chapter 8 showed that this ratio decides what kind of mind a collective can be. A brain is made of thin agents joined by thick wires: neurons do little alone, and nearly all the action is in the connections. Humanity is the reverse. It is made of thick agents joined by thin wires. Each of us holds a universe, and passes on a trickle.
 
@@ -29,9 +29,9 @@ A brain is not a uniform mass. It has areas, each densely wired within and spars
 
 Chapter 6 gives the answer in advance. Meaning flows where context is shared, and nothing concentrates shared context like a common language. The Belgian phone map is that prediction, confirmed before it was made.
 
-At the global scale the picture is the same. A study that linked the world's languages through bilingual speakers and translated books found a network with one global hub, English, and a small set of intermediate hubs, including Spanish, German, French, Russian, Portuguese and Chinese. An idea born in a small language reaches the rest of humanity by passing through these hubs, much as a signal from one brain area reaches another through a few major tracts.
+At the global scale the picture is the same. A study that linked the world's languages through bilingual speakers and translated books found a network with one global hub, English, and a small set of intermediate hubs, including Spanish, German, French, Russian, Portuguese and Chinese (6). An idea born in a small language reaches the rest of humanity by passing through these hubs, much as a signal from one brain area reaches another through a few major tracts.
 
-The modular structure continues downward as well. When researchers gathered data on the sizes of human groups, from closest confidants to bands and tribes, they found not a smooth spread but preferred sizes, each about three times the last: roughly 3 to 5, then 9 to 15, then 30 to 45, and onward. Society has levels, the way Chapter 11 found that brains do.
+The modular structure continues downward as well. When researchers gathered data on the sizes of human groups, from closest confidants to bands and tribes, they found not a smooth spread but preferred sizes, each about three times the last: roughly 3 to 5, then 9 to 15, then 30 to 45, and onward (7). Society has levels, the way Chapter 11 found that brains do.
 
 ## Is a nation a mind?
 
@@ -51,7 +51,7 @@ So far this chapter has spoken as if humanity were the only candidate for a mind
 
 Ask a biologist what a species is, and the standard answer is: a group of organisms that can interbreed. Look at that definition with this book's eyes. Breeding is an exchange of information. Each parent contributes a genome, and the offspring is a new combination of the two. A species is the set of organisms among whom that exchange can happen. In other words, a species is defined by a communication channel, and its boundary is where the channel closes. That is exactly how Chapter 3 defined a collective.
 
-It has the other ingredients too. Its agents are organisms. Its memory is the gene pool. And it learns. Natural selection writes information about the environment into that memory, generation after generation. The geneticist Motoo Kimura first tried to measure the rate in 1961 and arrived at a fraction of a bit per generation. Later arguments put the ceiling at around one bit per generation, and recent work has proved a general limit on how much information selection can accumulate each generation.
+It has the other ingredients too. Its agents are organisms. Its memory is the gene pool. And it learns. Natural selection writes information about the environment into that memory, generation after generation. The geneticist Motoo Kimura first tried to measure the rate in 1961 and arrived at a fraction of a bit per generation (8). Later arguments put the ceiling at around one bit per generation (9), and recent work has proved a general limit on how much information selection can accumulate each generation (10).
 
 So a species is a mind of the federated kind, and an almost unimaginably slow one. Its tick is a generation. Its learning rate is of the order of a bit per tick. A person behaves at ten bits per second. A species thinking through its genes takes years or decades to acquire what you acquire in a blink. But it never forgets, it is spread over a continent, and it can run for a million years. Like the swarm, it trades speed for reach, and like the swarm it has no self. This is a claim of the theory. The measurements of evolution's information rate are established science.
 
@@ -59,7 +59,7 @@ So a species is a mind of the federated kind, and an almost unimaginably slow on
 
 Many species also talk in the ordinary sense, and that gives the species-mind a faster line.
 
-The best example is in the Pacific. Male humpback whales sing, and all the males in a population sing the current version of the same song. Researchers recording six neighbouring populations across the South Pacific over eleven years found that new songs appear in the west, off Australia, and sweep eastward from population to population, like cultural ripples, reaching French Polynesia about two years later. It is a conversation the width of an ocean, in which a single message takes two years to cross. Chapter 10 would call two years the crossing time of that mind, and nobody inside it hears more than a local stretch of the wave.
+The best example is in the Pacific. Male humpback whales sing, and all the males in a population sing the current version of the same song. Researchers recording six neighbouring populations across the South Pacific over eleven years found that new songs appear in the west, off Australia, and sweep eastward from population to population, like cultural ripples, reaching French Polynesia about two years later (11, 12). It is a conversation the width of an ocean, in which a single message takes two years to cross. Chapter 10 would call two years the crossing time of that mind, and nobody inside it hears more than a local stretch of the wave.
 
 ### How a mind divides
 
@@ -67,13 +67,13 @@ Darwin showed where species come from. A population is separated from the rest f
 
 Chapter 6 argued that shared context is a store that has to be built by communication. It also has to be *maintained* by communication. Two groups that stop exchanging messages do not keep the same code for ever. Each drifts. When they have drifted far enough, they can no longer decode each other, and then the channel cannot be reopened even if the barrier between them disappears.
 
-There is a place where you can watch this happen along a line on a map. The greenish warbler is a small songbird of the Asian forests. Its populations form a ring around the treeless Tibetan plateau. Walk around the ring and the birds change gradually: each population sings a little differently from its neighbours, and neighbours still recognise each other and interbreed. But the two ends of the ring meet again in central Siberia, and there the two forms live side by side without interbreeding. When researchers played recordings of one form's song to the other, the birds did not respond. They no longer recognised it as the song of their own kind. The biologists who mapped this concluded that gradual divergence in a signal used for choosing mates had produced two species.
+There is a place where you can watch this happen along a line on a map. The greenish warbler is a small songbird of the Asian forests. Its populations form a ring around the treeless Tibetan plateau. Walk around the ring and the birds change gradually: each population sings a little differently from its neighbours, and neighbours still recognise each other and interbreed. But the two ends of the ring meet again in central Siberia, and there the two forms live side by side without interbreeding. When researchers played recordings of one form's song to the other, the birds did not respond. They no longer recognised it as the song of their own kind (13, 14). The biologists who mapped this concluded that gradual divergence in a signal used for choosing mates had produced two species.
 
 Read that as a statement about communication. Nothing killed the channel between the two ends of the ring. The code drifted, one small step per population, until the message could no longer be read. The species boundary *is* a failure of decoding.
 
-Darwin himself noticed that the same thing happens to human languages. In *The Descent of Man* he wrote that the formation of different languages and of distinct species are "curiously parallel". The theory's claim is that this is not a parallel. It is one process seen twice. Latin, separated into regions that seldom spoke to each other, became French, Spanish and Romanian. An ancestral warbler, stretched around a plateau, became two birds. In both cases a collective held together by shared code split when traffic fell too low to keep the code shared.
+Darwin himself noticed that the same thing happens to human languages. In *The Descent of Man* he wrote that the formation of different languages and of distinct species are "curiously parallel" (15, 16). The theory's claim is that this is not a parallel. It is one process seen twice. Latin, separated into regions that seldom spoke to each other, became French, Spanish and Romanian. An ancestral warbler, stretched around a plateau, became two birds. In both cases a collective held together by shared code split when traffic fell too low to keep the code shared.
 
-That suggests a pure number, to add to the list from Chapter 4: the rate at which a collective's parts exchange messages, divided by the rate at which their codes drift. While the ratio is high, the collective stays one. When it falls too low, it divides, and the division is permanent. Population geneticists have a famous rule of thumb of this kind: roughly one migrant per generation between two populations is enough to stop them drifting apart. The theory predicts that an equivalent threshold exists for every kind of collective: for dialects, for scientific fields that stop reading each other, for the divisions of a company.
+That suggests a pure number, to add to the list from Chapter 4: the rate at which a collective's parts exchange messages, divided by the rate at which their codes drift. While the ratio is high, the collective stays one. When it falls too low, it divides, and the division is permanent. Population geneticists have a famous rule of thumb of this kind: roughly one migrant per generation between two populations is enough to stop them drifting apart (17). The theory predicts that an equivalent threshold exists for every kind of collective: for dialects, for scientific fields that stop reading each other, for the divisions of a company.
 
 ### The family tree of minds
 
@@ -103,11 +103,11 @@ Look again at the two languages we know from the inside out: the brain's, spoken
 
 Three of these have been measured in human society, by researchers who were not looking for a language.
 
-**The price.** In 1945 the economist Friedrich Hayek asked how a society makes use of knowledge that no single person possesses. His example was tin. Suppose that somewhere a new use for tin appears, or a mine fails. It does not matter which, he pointed out, and that it does not matter is the important thing. The price of tin rises. All over the world people who know nothing of the cause use a little less tin and look for substitutes. The whole acts as one market, he wrote, not because any of its members survey the whole field, but because their limited fields of vision overlap enough for the relevant information to reach everyone. A price is a single number, a magnitude attached to a pointer. It is set by a population and spoken by nobody. And those who respond to it do not know what it says. It is features 1, 3 and 7 exactly. A price is a word in the language of humanity.
+**The price.** In 1945 the economist Friedrich Hayek asked how a society makes use of knowledge that no single person possesses. His example was tin (18). Suppose that somewhere a new use for tin appears, or a mine fails. It does not matter which, he pointed out, and that it does not matter is the important thing. The price of tin rises. All over the world people who know nothing of the cause use a little less tin and look for substitutes. The whole acts as one market, he argued, not because any of its members survey the whole field, but because their limited fields of vision overlap enough for the relevant information to reach everyone. A price is a single number, a magnitude attached to a pointer. It is set by a population and spoken by nobody. And those who respond to it do not know what it says. It is features 1, 3 and 7 exactly. A price is a word in the language of humanity.
 
-**The fading.** Researchers tracked how attention to cultural products declines over time: citations to papers and patents, and online attention to songs, films and biographies. In every case the decline followed the same curve, a fast decay followed by a slow one. They interpreted the two parts as two kinds of memory: one carried by people talking, which fades quickly, and one carried by records, which fades slowly. That is the bees' fading dance at human scale. Its two channels are the two that Chapter 10 distinguished: live coupling, and memory.
+**The fading.** Researchers tracked how attention to cultural products declines over time: citations to papers and patents, and online attention to songs, films and biographies. In every case the decline followed the same curve, a fast decay followed by a slow one (19). They interpreted the two parts as two kinds of memory: one carried by people talking, which fades quickly, and one carried by records, which fades slowly. That is the bees' fading dance at human scale. Its two channels are the two that Chapter 10 distinguished: live coupling, and memory.
 
-**The shortening.** Another group measured how long topics hold collective attention, across Twitter, books, web searches, films and Wikipedia, over periods of years to decades. Bursts of attention are becoming steeper and shorter, and occurring more often. A model in which topics compete for a limited supply of attention reproduces the data. The theory predicts this from feature 2: humanity's crossing time has collapsed, so its words are getting shorter. And the competition for finite attention is feature 5, cross-inhibition, under another name.
+**The shortening.** Another group measured how long topics hold collective attention, across Twitter, books, web searches, films and Wikipedia, over periods of years to decades. Bursts of attention are becoming steeper and shorter, and occurring more often. A model in which topics compete for a limited supply of attention reproduces the data (20). The theory predicts this from feature 2: humanity's crossing time has collapsed, so its words are getting shorter. And the competition for finite attention is feature 5, cross-inhibition, under another name.
 
 ### An electroencephalogram for humanity
 
@@ -115,10 +115,10 @@ These hints suggest an experiment, and it is one that could be started tomorrow 
 
 A neurologist listens to a brain by placing electrodes over its regions and recording each one's activity. This chapter has argued that humanity's regions are its language communities. So place an electrode on each: record, hour by hour, the activity of each language edition of a large public resource, such as the page views of Wikipedia in each of its languages. Then ask of this recording what Chapter 3 asked of the cortex.
 
-- **Does activity spread in avalanches?** In brain tissue, cascades of activity have a characteristic range of sizes, the signature of a system balanced at a critical point. Do cascades of attention across languages show the same pattern?
+- **Does activity spread in avalanches?** In brain tissue, cascades of activity have a characteristic range of sizes, the signature of a system balanced at a critical point (21). Do cascades of attention across languages show the same pattern?
 - **Does humanity decide the way swarms and brains do?** When rival alternatives compete for attention, does support for each build up toward a threshold while suppressing the other?
 - **Is it the same thought at a different speed?** Rescale time by humanity's crossing time. Do its curves fall on top of those from swarms and brains, as Chapter 10 predicts?
-- **How integrated is it, and how differentiated?** Doctors probe a brain by sending in a magnetic pulse and measuring the complexity of the echo: widespread *and* varied means awake, local or uniform means not. Humanity receives such pulses regularly, in the form of sudden world events. Measure the echo across languages in the same way.
+- **How integrated is it, and how differentiated?** Doctors probe a brain by sending in a magnetic pulse and measuring the complexity of the echo: widespread *and* varied means awake, local or uniform means not (22). Humanity receives such pulses regularly, in the form of sudden world events. Measure the echo across languages in the same way.
 
 The last test would give a number to this chapter's warning. Tracked over the years, a rising score would mean a species becoming more integrated while staying diverse. A falling one, caused by every language community reacting to everything in the same way at the same moment, would be the signature of the civilisational seizure described below.
 
@@ -166,7 +166,7 @@ Now step off the planet. The same ceiling that permits a mind the size of the Ea
 
 The Moon is 384,000 kilometres away, 1.3 light-seconds. A mind thinking at human speed cannot include it. An outpost there would be like a hand with a one-second delay: usable, but no longer quite part of you.
 
-Mars is far worse. A radio signal takes between about 3 and 22 minutes to get there, depending on where the two planets are in their orbits. A question and its answer can take three quarters of an hour. A civilisation on two planets is, by the arithmetic of this book, two minds that write to each other. For any decision faster than an hour, each planet is on its own.
+Mars is far worse. A radio signal takes between about 3 and 22 minutes to get there, depending on where the two planets are in their orbits (23). A question and its answer can take three quarters of an hour. A civilisation on two planets is, by the arithmetic of this book, two minds that write to each other. For any decision faster than an hour, each planet is on its own.
 
 So the first step into space is also a step back down the ladder of integration. Expansion and unity pull in opposite directions, and the speed of light sets the exchange rate between them.
 
@@ -184,7 +184,7 @@ Could humanity, or anything, become an intelligence on the scale of the galaxy? 
 
 **Its messages would look like noise.** A perfectly compressed signal has no pattern that an outsider can find. A message that relies on a million years of shared context is, to anyone without that context, indistinguishable from static.
 
-**It would prefer the cold.** The energy cost of handling a bit is proportional to temperature. Computation in deep space, at under three degrees above absolute zero, is about a hundred times cheaper per bit than at room temperature. Some researchers have gone further and proposed that advanced civilisations would wait for the universe itself to cool, to gain a far larger factor. That argument is disputed on thermodynamic grounds, but the direction of the pressure is not: thinking is cheaper far from stars.
+**It would prefer the cold.** The energy cost of handling a bit is proportional to temperature. Computation in deep space, at under three degrees above absolute zero, is about a hundred times cheaper per bit than at room temperature. Some researchers have gone further and proposed that advanced civilisations would wait for the universe itself to cool, to gain a far larger factor (24). That argument is disputed on thermodynamic grounds (25), but the direction of the pressure is not: thinking is cheaper far from stars.
 
 Put these together and you get a portrait: quiet, cold, slow, sparse, its rare signals disguised as noise. It is worth noticing that this is also a fair description of what the sky looks like. The theory does not claim that the galaxy is inhabited by such a mind. It claims something narrower and testable in principle: that if large, old intelligences exist, the physics of this book makes them very hard to see for creatures who think in seconds. The famous silence of the sky is what the theory would expect in either case, and so, by itself, it is evidence of nothing.
 
@@ -214,26 +214,32 @@ The claim that a species is a mind would be empty if it predicted nothing. It pr
 
 The account of humanity's language is also testable. If activity across language communities shows no avalanche pattern, if collective choices show no build-up and mutual suppression, or if the curves refuse to collapse onto those of swarms and brains when time is rescaled, then humanity does not think in the way this chapter claims, however much it talks.
 
-## Notes
+## References
 
-- The Belgian mobile phone network and its language communities: [Blondel, Guillaume, Lambiotte & Lefebvre 2008](https://arxiv.org/pdf/0803.0476).
-- World population of 8.2 billion in 2024: [UN World Population Prospects 2024](https://www.un.org/development/desa/pd/world-population-prospects-2024).
-- 7,164 living languages; 23 covering more than half of humanity: [Ethnologue](https://ethnologue.com/insights/how-many-languages).
-- Sensory input of about a billion bits per second and behaviour at about ten: [Zheng & Meister 2024](https://arxiv.org/abs/2408.10234). Speech at about 39 bits per second: [Coupé et al. 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6984970).
-- The global language network: [Ronen et al. 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4284551).
-- Discrete hierarchy of human group sizes: [Zhou, Sornette, Hill & Dunbar 2005](https://pmc.ncbi.nlm.nih.gov/articles/PMC1634986/).
-- Information accumulated by natural selection: [Kimura 1961](https://www.cambridge.org/core/journals/genetics-research/article/natural-selection-as-the-process-of-accumulating-genetic-information-in-adaptive-evolution/0E0FA00558C5878B18C16800F58A24E5), with his figure of about 0.29 bits per generation given in [Kimura 1960](https://www.jstage.jst.go.jp/article/ggs1921/35/1/35_1_7/_article/-char/en); the "one bit per generation" speed limit as discussed in [this note](https://arxiv.org/pdf/2212.00430); a proved bound: [Hledík, Barton & Tkačik 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC9457054).
-- Humpback whale song spreading across the South Pacific: [Garland et al. 2011](https://pubmed.ncbi.nlm.nih.gov/21497089/); the two-year crossing from Australia to French Polynesia: [Cell Press summary](https://www.sciencedaily.com/releases/2011/04/110414131444.htm).
-- The greenish warbler ring species and its songs: [Irwin, Bensch & Price 2001, "Speciation in a ring"](https://ideas.repec.org/a/nat/nature/v409y2001i6818d10.1038_35053059.html); [Irwin lab description](https://www.zoology.ubc.ca/~irwin/irwinlab/the-greenish-warbler-ring-species/).
-- Darwin on languages and species: quoted in [Whitfield 2008, PLoS Biology](https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.0060186).
-- The definition of a species by interbreeding and the one-migrant-per-generation rule are standard textbook biology. The age of life, the thousand-year figure for language drift, the radius of a single culture, and the comparison of genetic and cultural channel speeds are our own rough estimates. The reading of species as minds and of speciation as a failure of decoding is the theory's claim.
-- Prices as carriers of dispersed knowledge, and the tin example: [Hayek 1945, "The Use of Knowledge in Society"](https://www.econlib.org/library/Essays/hykKnw.html).
-- Universal two-stage decay of collective attention: [Candia et al. 2019, Nature Human Behaviour](https://research.ceu.edu/en/publications/the-universal-decay-of-collective-memory-and-attention/).
-- Shortening bursts of collective attention and the competition model: [Lorenz-Spreen et al. 2019, Nature Communications](https://pmc.ncbi.nlm.nih.gov/articles/PMC6465266).
-- Neuronal avalanches and the perturbational complexity index: see the notes to Chapter 3.
-- The seven features of higher-level languages, the reading of prices as words, and the proposed experiment are the theory's own.
-- Social influence reducing the accuracy of crowds: [Lorenz et al. 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3107299).
-- Earth–Mars signal delay of about 3 to 22 minutes: [summary of NASA figures](https://spacedaily.com/t-earth-mars-radio-delay-44-minutes-solar-conjunction/).
-- Waiting for a colder universe (the aestivation hypothesis): [Sandberg, Armstrong & Ćirković 2017](https://arxiv.org/abs/1705.03394); the thermodynamic objection: [Bennett, Hanson & Riedel 2019](https://www.arxiv.org/abs/1902.06730).
-- The maximum sizes in the table are the speed of light multiplied by the thought time. The crossing time of the Earth, the months-long crossing time of the pre-telegraph world, the time for humanity to settle global questions, and all figures for a galactic mind are our own estimates. The distance to the Moon and the size of the Milky Way are standard approximate values.
-- The accounts of science as a collective decision process, of nations as modules, and of the planetary and galactic minds are claims and speculations of the theory, not established findings.
+1. V. D. Blondel, J.-L. Guillaume, R. Lambiotte and E. Lefebvre (2008), "Fast unfolding of communities in large networks", *Journal of Statistical Mechanics* P10008. https://arxiv.org/pdf/0803.0476
+2. United Nations, Department of Economic and Social Affairs (2024), *World Population Prospects 2024*. https://www.un.org/development/desa/pd/world-population-prospects-2024
+3. J. Zheng and M. Meister (2025), "The unbearable slowness of being: why do we live at 10 bits/s?", *Neuron* 113:192–204. https://arxiv.org/abs/2408.10234
+4. C. Coupé, Y. M. Oh, D. Dediu and F. Pellegrino (2019), "Different languages, similar encoding efficiency: comparable information rates across the human communicative niche", *Science Advances* 5:eaaw2594. https://pmc.ncbi.nlm.nih.gov/articles/PMC6984970
+5. Ethnologue, "How many languages are there in the world?". https://ethnologue.com/insights/how-many-languages
+6. S. Ronen, B. Gonçalves, K. Z. Hu, A. Vespignani, S. Pinker and C. A. Hidalgo (2014), "Links that speak: the global language network and its association with global fame", *PNAS* 111:E5616–E5622. https://pmc.ncbi.nlm.nih.gov/articles/PMC4284551
+7. W.-X. Zhou, D. Sornette, R. A. Hill and R. I. M. Dunbar (2005), "Discrete hierarchical organization of social group sizes", *Proceedings of the Royal Society B* 272:439–444. https://pmc.ncbi.nlm.nih.gov/articles/PMC1634986/
+8. M. Kimura (1961), "Natural selection as the process of accumulating genetic information in adaptive evolution", *Genetical Research* 2:127–140, giving about 0.29 bits per generation using the load value of M. Kimura (1960), *Japanese Journal of Genetics* 35:7–33. https://www.cambridge.org/core/journals/genetics-research/article/natural-selection-as-the-process-of-accumulating-genetic-information-in-adaptive-evolution/0E0FA00558C5878B18C16800F58A24E5
+9. R. Worden (2022), "A speed limit for evolution: postscript", arXiv:2212.00430, defending R. Worden (1995), "A speed limit for evolution", *Journal of Theoretical Biology*. https://arxiv.org/pdf/2212.00430
+10. M. Hledík, N. Barton and G. Tkačik (2022), "Accumulation and maintenance of information in evolution", *PNAS* 119:e2123152119. https://pmc.ncbi.nlm.nih.gov/articles/PMC9457054
+11. E. C. Garland et al. (2011), "Dynamic horizontal cultural transmission of humpback whale song at the ocean basin scale", *Current Biology* 21:687–691. https://pubmed.ncbi.nlm.nih.gov/21497089/
+12. Cell Press (2011), press release on reference 11, giving the two-year crossing from Australia to French Polynesia. https://www.sciencedaily.com/releases/2011/04/110414131444.htm
+13. D. E. Irwin, S. Bensch and T. D. Price (2001), "Speciation in a ring", *Nature* 409:333–337. https://ideas.repec.org/a/nat/nature/v409y2001i6818d10.1038_35053059.html
+14. Irwin laboratory, University of British Columbia, "The greenish warbler ring species". https://www.zoology.ubc.ca/~irwin/irwinlab/the-greenish-warbler-ring-species/
+15. C. Darwin (1871), *The Descent of Man, and Selection in Relation to Sex*, John Murray.
+16. J. Whitfield (2008), "Across the curious parallel of language and species evolution", *PLoS Biology* 6:e186. https://journals.plos.org/plosbiology/article/info:doi/10.1371/journal.pbio.0060186
+17. S. Wright (1931), "Evolution in Mendelian populations", *Genetics* 16:97–159.
+18. F. A. Hayek (1945), "The use of knowledge in society", *American Economic Review* 35:519–530. https://www.econlib.org/library/Essays/hykKnw.html
+19. C. Candia, C. Jara-Figueroa, C. Rodriguez-Sickert, A.-L. Barabási and C. A. Hidalgo (2019), "The universal decay of collective memory and attention", *Nature Human Behaviour* 3:82–91. https://research.ceu.edu/en/publications/the-universal-decay-of-collective-memory-and-attention/
+20. P. Lorenz-Spreen, B. M. Mønsted, P. Hövel and S. Lehmann (2019), "Accelerating dynamics of collective attention", *Nature Communications* 10:1759. https://pmc.ncbi.nlm.nih.gov/articles/PMC6465266
+21. J. M. Beggs and D. Plenz (2003), "Neuronal avalanches in neocortical circuits", *Journal of Neuroscience* 23:11167–11177. https://pmc.ncbi.nlm.nih.gov/articles/PMC6741045
+22. A. G. Casali et al. (2013), "A theoretically based index of consciousness independent of sensory processing and behavior", *Science Translational Medicine* 5:198ra105. https://orbi.uliege.be/handle/2268/171542
+23. *Space Daily*, summary of NASA figures for the Earth–Mars radio delay. https://spacedaily.com/t-earth-mars-radio-delay-44-minutes-solar-conjunction/
+24. A. Sandberg, S. Armstrong and M. M. Ćirković (2017), "That is not dead which can eternal lie: the aestivation hypothesis for resolving Fermi's paradox", arXiv:1705.03394. https://arxiv.org/abs/1705.03394
+25. C. H. Bennett, R. Hanson and C. J. Riedel (2019), "Comment on 'The aestivation hypothesis for resolving Fermi's paradox'", *Foundations of Physics* 49. https://www.arxiv.org/abs/1902.06730
+
+Figures given without a reference number are our own rough estimates or standard values: the age of life, the thousand-year figure for language drift, the radius of a single culture, the comparison of genetic and cultural channel speeds, the crossing times of the Earth and of the pre-telegraph world, the time for humanity to settle global questions, the maximum sizes in the table (the speed of light multiplied by the thought time), all figures for a galactic mind, and the distances to the Moon and across the Milky Way. The definition of a species by interbreeding is standard biology. The readings of species as minds, of speciation as a failure of decoding, of prices as words, of science as a collective decision process and of nations as modules, the seven features of higher-level languages, the proposed experiment, and the accounts of the planetary and galactic minds are claims and speculations of the theory, not established findings.
