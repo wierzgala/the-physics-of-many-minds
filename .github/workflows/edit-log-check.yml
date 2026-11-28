@@ -1,0 +1,28 @@
+name: Edit log check
+
+on:
+  pull_request:
+    paths:
+      - "book/**"
+
+permissions:
+  contents: read
+
+jobs:
+  edit-log:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Require an edit-log entry for changes to the book
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          changed=$(git diff --name-only "$BASE_SHA" "$HEAD_SHA")
+          if ! echo "$changed" | grep -qx "book/edit-log.md"; then
+            echo "This pull request changes the book but does not add an entry to book/edit-log.md."
+            echo "See CONTRIBUTING.md."
+            exit 1
+          fi
