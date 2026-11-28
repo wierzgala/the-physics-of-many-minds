@@ -9,6 +9,7 @@ A book-length account of a physical theory of intelligence: intelligence as a pr
 - Short on time: read [Chapter 12, the theory on one page](book/ch12-the-theory-on-one-page.md) and [Chapter 19, how we could be wrong](book/ch19-how-we-could-be-wrong.md).
 - Found an error or a counter-example: [open an issue](../../issues/new/choose) or see [CONTRIBUTING.md](CONTRIBUTING.md).
 - If you are an AI agent: see [AGENTS.md](AGENTS.md). A map of the repository is in [llms.txt](llms.txt).
+- In other languages: [polski](translations/pl/README.md). The English text is the original; each translation says when and how it was made. See [translations/](translations/README.md).
 
 This repository is the source of truth for the book. Each chapter is one Markdown file, and every change is a Git commit.
 
@@ -26,8 +27,13 @@ book/
   contributors.md    everyone who has contributed to the book
   edit-log.md        one entry per pull request: who changed what, and why
   chNN-title.md      one file per chapter
+translations/
+  README.md          register of language versions: what was translated, from which version, when and how
+  pl/                Polish translation; same file names as book/, with its own README and glossary
 reviews/
   critical-review-NN.md   full text of independent reviews; their accepted changes are recorded in the edit log
+tools/
+  check_translation.py    compares a translation with book/ for structure, citations, links and numbers
 ```
 
 ## Contributing

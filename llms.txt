@@ -43,3 +43,10 @@ Author: Jakub Wierzgała. Licence: see LICENSE. Electronic sharing and adaptatio
 - [Edit log](book/edit-log.md): one entry per accepted change
 - [reviews/critical-review-01.md](reviews/critical-review-01.md): first independent review
 - [CONVENTIONS.md](CONVENTIONS.md): writing and referencing rules
+
+## Translations
+
+The English text in `book/` is the original and the only authoritative version. Review and cite that text.
+
+- [translations/README.md](translations/README.md): register of language versions, with the source commit, date and method of each
+- [translations/pl/README.md](translations/pl/README.md): Polish translation (machine-translated from commit 037a625 on 2026-11-28, not yet checked by a person), with glossary

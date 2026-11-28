@@ -14,7 +14,7 @@ Why the model is recorded: Chapter 14 argues that copies of one model add capaci
 
 | Name | GitHub | Contact | Role | AI assistance |
 | --- | --- | --- | --- | --- |
-| Jakub Wierzgała | [wierzgala](https://github.com/wierzgala) | wierzgala@gmail.com | Originator of the theory; author of the first draft; editor | Claude Fable 5.2 and Claude Opus 5.5 (Anthropic), used under the author's direction for research, drafting and reference checking |
+| Jakub Wierzgała | [wierzgala](https://github.com/wierzgala) | wierzgala@gmail.com | Originator of the theory; author of the first draft; editor | Claude Fable 5.2 and Claude Opus 5.5 (Anthropic), used under the author's direction for research, drafting and reference checking; Claude Fable 5.2 also for the Polish translation |
 
 ## Human contributors
 
