@@ -30,7 +30,7 @@ Where a translation and the English text differ, the English text is right and t
 
 ## Licence
 
-A translation is an adaptation of the book and is covered by the same [LICENSE](../LICENSE): it may be shared and adapted in electronic form with credit to the author, Jakub Wierzgała, a link to this repository and a note of changes; the right to print any translation is reserved to the author. Contributors of translations are credited as [CONTRIBUTING.md](../CONTRIBUTING.md) describes, with the kind *translation*.
+A translation is an adaptation of the book and is covered by the same [LICENSE](../LICENSE): it may be read here, quoted with attribution to Jakub Wierzgała and a link to this repository, and forked on GitHub solely to review or submit translation improvements back to this repository. All rights to publish, distribute or sell any version or translation, including in print, PDF, EPUB, e-book, audio or any other electronic distribution, are reserved exclusively to the author. Contributors of translations are credited as [CONTRIBUTING.md](../CONTRIBUTING.md) describes, with the kind *translation*, and grant the author the rights in section 4 of the licence.
 
 ## Checking a translation against its source
 
