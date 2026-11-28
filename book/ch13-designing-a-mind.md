@@ -112,9 +112,13 @@ It should be said plainly that this is not a blind prediction. The author knew w
 
 The design misses badly in two rows, and the misses are the most useful part of the exercise.
 
-The theory says that a couple of million agents and a few microwatts are enough. The real visual system uses billions of neurons, close to half of the cerebral cortex in a primate by one textbook's account (6), and a large share of the brain's twenty watts (our estimate).
+The theory says that a couple of million agents and a few microwatts are enough. The real visual system uses billions of neurons, close to half of the cerebral cortex in a primate by one textbook's account (6), and a large share of the brain's twenty watts (our estimate). Indeed, at the very first cortical station, primary visual cortex (V1), the system does not narrow at all: roughly a million optic-nerve fibres fan out into more than a hundred million V1 neurons (our rough figure from standard neuroanatomy), a hundred-fold expansion before compression takes hold.
 
-The reason is that the specification left something out. It described *one* decision: one fixed question, asked of the stream every second. A machine built to answer one fixed question can indeed be that small. A motion detector, a smoke alarm and a frog's bug-detector are all devices of this kind, and they are tiny and cheap.
+Two physical reasons explain the gap, and one of them comes directly from Chapter 7.
+
+First, **sparsity forces expansion.** Chapter 7 showed that the cortex's energy budget allows fewer than one percent of neurons to be strongly active at once. Representing a ten-million-bit-per-second visual stream with fewer than one percent of units active requires vastly more neurons than a dense code would, spreading the same signal across an overcomplete, sparse set of feature detectors (7).
+
+Second, the specification left something out. It described *one* decision: one fixed question, asked of the stream every second. A machine built to answer one fixed question can indeed be tiny and cheap: a motion detector, a smoke alarm and a frog's bug-detector are all devices of this kind.
 
 An animal's visual system is not answering one question. It can be asked, from moment to moment, any of an enormous number: is that a face, is it angry, is the branch within reach, is the fruit ripe, what does this word say. Each of those is a different reduction of the same ten million bits. Chapter 5 showed what answering a question efficiently requires: prior knowledge, stored in advance. A mind that can answer many questions must store the priors for all of them.
 
@@ -138,7 +142,7 @@ The output is a handful of bits, one choice among a dozen, once. No fast stream 
 
 Each inspection demands a capable observer, able to navigate, judge a cavity and remember the way back, so each agent must be rich. Rich agents sending short reports are, by Chapter 8, the makings of a federated mind. And since a wrong choice is fatal, the design should favour accuracy over speed and tolerate the loss of any individual: again federated.
 
-The outline is: **many mobile, capable agents; a few bits per report; no centre; a decision by slow accumulation with mutual suppression.** That is the honeybee swarm of Chapter 1, with its scouts and its seven-bit dances (7, 8).
+The outline is: **many mobile, capable agents; a few bits per report; no centre; a decision by slow accumulation with mutual suppression.** That is the honeybee swarm of Chapter 1, with its scouts and its seven-bit dances (8, 9).
 
 The two designs make the chapter's main point. The same theory, given two different tasks, returns a brain for one and a swarm for the other. Neither is the better mind. Each is the shape of its problem.
 
@@ -181,7 +185,7 @@ None of this is new to a good manager or a good systems engineer. What the theor
 - The framework of Chapter 12 can be run forwards: from a task to the outline of a mind that can perform it.
 - For a task of ten million bits per second in, one decision per second out, the theory gives about a million slow input channels, four to fifteen levels, a size of centimetres to tens of centimetres in nerve tissue, modules below and one stage above.
 - That matches the human visual system in seven of nine respects, including the number of optic nerve fibres, the rate each carries and the number of processing levels. The match is a consistency check, not a blind prediction.
-- It misses on the number of neurons and the power used, by factors of a thousand or more. The lesson: a brain's bulk is set by its repertoire, the number of different questions it must be ready to answer. Most of a brain is library, not pipeline.
+- It misses on the number of neurons and the power used, by factors of a thousand or more. Two lessons follow. Sparse activity forces a hundred-fold expansion at the first cortical stage before any compression begins. And a brain's bulk is set by its repertoire, the number of different questions it must be ready to answer. Most of a brain is library, not pipeline.
 - For a task of slow, wide-area search with a fatal cost of error, the same steps give a swarm.
 - Minds can be mapped by two pure numbers. One region of the map, large, fast and unified, is empty.
 - The rules also say what each kind of mind cannot do, and can be applied to organisations and artificial systems.
@@ -198,7 +202,8 @@ This chapter makes the theory's most checkable claims. Apply the six steps to an
 4. D. J. Felleman and D. C. Van Essen (1991), "Distributed hierarchical processing in the primate cerebral cortex", *Cerebral Cortex* 1:1–47. https://chd.ucsd.edu/_files/fall2008/Felleman.1991.CC_Part1.pdf
 5. H. Pashler (1994), "Dual-task interference in simple tasks: data and theory", *Psychological Bulletin* 116:220–244. https://pubmed.ncbi.nlm.nih.gov/7972591/
 6. M. Meister and M. Tessier-Lavigne, "Low-level visual processing: the retina", in E. R. Kandel et al. (eds), *Principles of Neural Science*, McGraw-Hill. https://www.weizmann.ac.il/brain-sciences/labs/ulanovsky/sites/neurobiology.labs.ulanovsky/files/uploads/chapter_22_low-level_visual_processing_the_retina.pdf
-7. T. D. Seeley, P. K. Visscher and K. M. Passino (2006), "Group decision making in honey bee swarms", *American Scientist* 94:220–229. https://bees.ucr.edu/media/156/download
-8. R. Schürch and F. L. W. Ratnieks (2015), "The spatial information content of the honey bee waggle dance", *Frontiers in Ecology and Evolution* 3:22. https://www.frontiersin.org/articles/10.3389/fevo.2015.00022
+7. B. A. Olshausen and D. J. Field (1996), "Emergence of simple-cell receptive field properties by learning a sparse code for natural images", *Nature* 381:607–609. https://doi.org/10.1038/381607a0
+8. T. D. Seeley, P. K. Visscher and K. M. Passino (2006), "Group decision making in honey bee swarms", *American Scientist* 94:220–229. https://bees.ucr.edu/media/156/download
+9. R. Schürch and F. L. W. Ratnieks (2015), "The spatial information content of the honey bee waggle dance", *Frontiers in Ecology and Evolution* 3:22. https://www.frontiersin.org/articles/10.3389/fevo.2015.00022
 
-All arithmetic in the design steps is our own and is rough: the channel count, the number of levels, the size limits, the power estimates and the agent counts. The figure of ten bits per second for an economical channel is taken from the measurements in reference 3 and is an assumption when applied elsewhere. The six design steps, the rule relating input rate, compression, deadline and repertoire to a mind's width, depth, size and bulk, the map of possible minds, and the list of what each kind cannot do are the theory's claims.
+All arithmetic in the design steps is our own and is rough: the channel count, the number of levels, the size limits, the power estimates, the agent counts and the neuron count of primary visual cortex. The figure of ten bits per second for an economical channel is taken from the measurements in reference 3 and is an assumption when applied elsewhere. The six design steps, the claim that sparsity forces cortical expansion, the rule relating input rate, compression, deadline and repertoire to a mind's width, depth, size and bulk, the map of possible minds, and the list of what each kind cannot do are the theory's claims.

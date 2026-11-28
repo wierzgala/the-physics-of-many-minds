@@ -58,7 +58,7 @@ It also explains a curious fact about experience. Perception does not come in in
 
 ## The first ruler
 
-Now space. Imagine slicing a mind in two with a flat cut and asking how much information can flow across the cut per second. Engineers who design supercomputers ask exactly this question and call the answer the bisection bandwidth. It is a quantity measured through a surface: bits per second per square metre of cut.
+Now space. Imagine slicing a mind in two with a flat cut and asking how much information can flow across the cut per second. Engineers who design supercomputers ask exactly this question and call the answer the bisection bandwidth. It is a total flow measured across a surface: bits per second crossing the cut (and, divided by the area of the cut, a bandwidth density in bits per second per square metre).
 
 It matters because of a simple piece of geometry. If agents talk only to their near neighbours, the links crossing a cut are those of the agents lying along it. The number of agents grows with the *volume* of the mind. The number along a cut grows only with its *area*. Double the width of such a mind and you have eight times the agents but only four times the cross-talk. Each half knows less and less, relatively, about the other. A big mind built only from local links comes apart.
 
@@ -72,7 +72,7 @@ There is a second escape: make the agents smaller. Parrots and songbirds pack ab
 
 The list of quantities gives a few more pure numbers. Each is introduced here and put to work later.
 
-**Talk against thought.** Divide what an agent can process by what it can communicate. In a brain the two are nearly equal, because a neuron's computing is done at its synapses, the very places where it communicates. In a swarm or a society the ratio is immense: each member thinks vastly more than it can say. Chapter 8 shows that this single number separates two kinds of mind.
+**Thought against talk.** Divide what an agent can process by what it can communicate. In a brain the two are nearly equal, because a neuron's computing is done at its synapses, the very places where it communicates. In a swarm or a society the ratio is immense: each member thinks vastly more than it can say. Chapter 8 shows that this single number separates two kinds of mind.
 
 **Memory against input.** Divide what an agent can store by what flows into it. A brain with some 10¹⁵ bits of storage (5) receives about ten million bits per second from the eyes alone (18). At that rate it would fill in a few years. So a brain cannot record. It must compress, keeping the statistics of its experience and throwing away nearly all of the experience itself. Forgetting is forced by arithmetic.
 
@@ -80,7 +80,7 @@ The list of quantities gives a few more pure numbers. Each is introduced here an
 
 ## The method, and its promise
 
-Collect the results. From a list of what a mind is made of, with units, we have extracted a handful of pure numbers: the coherence number, the scaling of cross-talk with size, talk against thought, memory against input, outside against inside. None required a theory of what thinking is.
+Collect the results. From a list of what a mind is made of, with units, we have extracted a handful of pure numbers: the coherence number, the scaling of cross-talk with size, thought against talk, memory against input, outside against inside. None required a theory of what thinking is.
 
 What Buckingham's theorem promises is that any law of collective intelligence, whatever it turns out to be, can be written in terms of numbers like these. That has a consequence worth stating boldly. If two minds have the same pure numbers, then nothing in physics distinguishes what they are doing, whatever they are made of and however large or slow they are. An ant colony, a brain and a civilisation could, in principle, be placed on the same chart. Chapter 10 follows that idea to its conclusion.
 

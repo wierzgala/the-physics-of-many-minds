@@ -15,6 +15,8 @@ book/
   contributors.md    everyone who has contributed to the book
   edit-log.md        one entry per pull request: who changed what, and why
   chNN-title.md      one file per chapter
+reviews/
+  critical-review-NN.md   full text of independent reviews; their accepted changes are recorded in the edit log
 ```
 
 ## Contributing

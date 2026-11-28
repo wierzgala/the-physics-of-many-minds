@@ -31,7 +31,7 @@ Two threads tie the parts together. The first is a tension between integration a
 12. **The theory on one page.** *(drafted)* The framework stated as physics: four base dimensions, a dozen variables, ten pure numbers, five limits, the scaling relations and the seven relations the theory claims. An honest table of which quantities can be measured today, and what is still missing. The only chapter with formulas.
 13. **Designing a mind.** *(drafted)* The theory run forwards. Given a task, ten million bits per second in and one decision per second out, derive the width, depth, size and kind of the mind that can do it, and compare with the human visual system. Why most of a brain is library, not pipeline. When the answer is a swarm. The map of possible minds, and what each kind cannot do.
 
-14. **The artificial mind.** *(drafted)* Modern artificial intelligence on the book's ruler. Why a language model writes one word at a time, how it compares with a brain in capacity, efficiency, energy and context, what it should and should not be able to do, the four limits the theory foresees, and the directions it predicts: sparse, frugal, federated, sharing a code. Why there will be no single superintelligence.
+14. **The artificial mind.** *(drafted)* Modern artificial intelligence on the book's ruler. Why a language model commits to one continuation at a time, how it compares with a brain in capacity, efficiency, energy and context, what it should and should not be able to do, the four limits the theory foresees, and the directions it predicts: sparse, frugal, federated, sharing a code. Why there will be no single superintelligence.
 
 ## Part V. The edges
 

@@ -46,7 +46,7 @@ The same is true of every working collective. Neurons share a code fixed by deve
 
 The bees' codebook is in their genes. So is a large part of ours, and it is easy to overlook because we never had to learn it.
 
-Before two people have exchanged a word, before either has a language or a culture, they already share an enormous store of context. A human genome is a text of about three billion letters, and any two people's copies are about 99.9% identical (5). At two bits per letter, that is some six billion bits held in common by every pair of humans who have ever met (that last figure is our arithmetic). No friendship, however long, adds shared context on that scale by talking.
+Before two people have exchanged a word, before either has a language or a culture, they already share an enormous store of context. A human genome is a text of about three billion letters, and any two people's copies are about 99.9% identical (5). At two bits per letter, that is a raw text of some six billion bits held in common by every pair of humans who have ever met (that arithmetic is ours). Raw letters are not all independent information: much of the genome is repetitive or non-coding, so the compressed functional specification that shapes the body and wires the brain is orders of magnitude smaller, perhaps tens to hundreds of millions of bits (a rough estimate). Even compressed, no friendship, however long, adds shared context on that scale by talking.
 
 What is written there is not knowledge of the world. Six billion bits could not specify the 10¹⁵ bits a brain will eventually hold. It is something more useful for communication: the plans for the same sense organs, the same emotions, the same face, and the same expectations about other faces. It is a shared decoder.
 
@@ -126,7 +126,7 @@ It also tells us what to share and what not to. There are two kinds of common gr
 - **Shared code**: agreement about what signals *mean*. A language, a notation, a protocol.
 - **Shared belief**: agreement about what is *true*.
 
-Shared code raises κ without costing independence. Shared belief raises κ by destroying independence, and independence is what made 787 guesses about an ox add up to the right answer (15). The bees share the dance and keep their opinions. The theory predicts that the most intelligent collectives are those that maximise the first kind of common ground and protect diversity in the second.
+Shared code aligns how agents encode and decode signals without correlating their errors about the world. Shared belief correlates those errors, destroying the statistical independence that made 787 guesses about an ox add up to the right answer (15). The bees share the dance and keep their opinions. The theory predicts that the most intelligent collectives are those that maximise the first kind of common ground and protect diversity in the second.
 
 ## Two people, one system?
 
@@ -191,4 +191,4 @@ The account of couples predicts a rise and fall. If pairs who agree about everyt
 20. B. Branand, D. Mashek and A. Aron (2019), "Pair-bonding as inclusion of other in the self: a literature review", *Frontiers in Psychology* 10:2399. https://pmc.ncbi.nlm.nih.gov/articles/PMC6821680
 21. J. R. Moon, N. Kondo, M. M. Glymour and S. V. Subramanian (2011), "Widowhood and mortality: a meta-analysis", *PLoS ONE* 6:e23465; 15 cohort studies, 2,263,888 people. https://pmc.ncbi.nlm.nih.gov/articles/PMC3157386
 
-Figures given without a reference number are our own rough estimates: the six billion bits of shared genome, the layer table and its timescales, and the traffic between brain hemispheres. The dinner-table, café and prison scenes are illustrations, not data, and the values of κ quoted for them are guesses; measuring κ in real pairs is an open problem. The rise-and-fall prediction for couples and the account of belonging are the theory's claims.
+Figures given without a reference number are our own rough estimates: the six billion raw bits of shared genome and the smaller compressed functional figure, the layer table and its timescales, and the traffic between brain hemispheres. The dinner-table, café and prison scenes are illustrations, not data, and the values of κ quoted for them are guesses; measuring κ in real pairs is an open problem. The rise-and-fall prediction for couples and the account of belonging are the theory's claims.
