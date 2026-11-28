@@ -37,7 +37,7 @@ A human being is a rich agent. Inside each of us is an integrated mind of 86 bil
 
 Chapter 7 added two reasons why the funnel is not a defect to be engineered away. Energy favours many thin, slow channels over a few fat ones, because the cost of each bit rises with the rate. And as a collective grows, cross-talk grows more slowly than the number of agents, so a large mind cannot keep every part in close conversation anyway.
 
-Put together, these give a rule, and it is a claim of the theory: **integrated minds are built from simple agents, and federated minds are built from rich ones.** It follows that the two kinds alternate as one climbs the hierarchy. Simple neurons make an integrated brain. Brains, being rich, make federated colonies, swarms and societies. Every federated mind we know is made of integrated minds.
+Put together, these give a rule, and it is a claim of the theory: **in biology, integrated minds are built from simple agents, and federated minds are built from rich ones.** Because every living animal's brain is sealed inside a body behind a narrow sensory and motor funnel, the two kinds have had to alternate up the hierarchy: simple neurons make an integrated brain, and rich brains make federated colonies, swarms and societies. Chapters 14 and 17 will ask what happens when artificial agents learn to pass internal states directly without squeezing them through words, breaking that alternation for the first time.
 
 ## The integrated mind: one thing at a time
 
@@ -73,6 +73,18 @@ The structure shows up in what such minds make. In 1968 the programmer Melvin Co
 
 The theory reads this as a general law, and it is a claim: **the thoughts of a mind carry the shape of its communication.** Integrated minds produce integrated thoughts: new wholes, in which every part depends on every other. Federated minds produce modular thoughts: assemblies of parts that can be improved one at a time. A civilisation, being federated, is superb at improving things piece by piece and poor at changing its whole picture at once. When it does change its picture, the change usually starts in a small, nearly integrated group, and then spreads.
 
+## Why one kind sleeps and the other does not
+
+There is one more difference between the two kinds, so familiar in our own lives that its strangeness is easy to miss. Every night your brain disconnects from its senses, paralyses your body and goes offline for hours. Why should a mind ever shut down when predators are still awake?
+
+Compare that with a fire-ant colony. Individual worker ants do sleep, taking more than two hundred brief naps a day of about a minute each, but they do so out of step with one another, so that most of the colony is awake at every moment and the nest never closes (16). Human cities and global markets do the same across time zones and shifts. Federated minds do not sleep as a whole. Integrated biological minds almost universally do.
+
+Even more revealing are the animals whose worlds forbid shutting down. A bottlenose dolphin must keep swimming to surface and breathe, and a great frigatebird can fly non-stop across the ocean for ten days without landing on water. Neither gives up sleep. Instead, both sleep **one cerebral hemisphere at a time**: slow-wave sleep appears in half the cortex while the other half stays awake, keeping one eye open to steer and watch for danger (17, 18).
+
+The earlier chapters supply a physical reason for all three facts, and it is a claim of the theory. Chapter 4 showed that a finite memory receiving a flood of input cannot record everything; it must continually compress its experience into statistics. Chapter 5 showed that compressing experience into better priors is how a mind raises its efficiency. In nerve tissue, a day of learning strengthens synapses across the cortex, raising energy costs, crowding memory and threatening to saturate the network unless connections are replayed, pruned and renormalised while sensory input is shut out (19).
+
+Because an integrated mind has **one stage**, it faces a scheduling conflict. It cannot use that broadcast to couple tightly to a fast, dangerous world and at the same time run global offline replay across the network without mixing hallucination and perception. So it must take turns in time: awake to couple and spend capacity, asleep to compress the library and restore efficiency. A federated mind has no single stage, so its agents can maintain their libraries in staggered shifts while the collective stays open for business. And when an animal's niche makes going wholly offline fatal, evolution loosens the coupling across the midline during rest, turning one integrated brain temporarily into a two-node federation.
+
 ## Two kinds, side by side
 
 Gathering the argument, the theory predicts these contrasts. Each row is a hypothesis that can be checked across brains, colonies, teams and societies.
@@ -88,6 +100,7 @@ Gathering the argument, the theory predicts these contrasts. Each row is a hypot
 | Signals between agents | dense, continuous | sparse summaries: dances, prices, votes, papers |
 | Overload | yes, at the single stage | rarely; no part sees the whole |
 | Robustness to losing agents | lower; damage spreads | high; agents are replaceable |
+| Rest and maintenance | global offline sleep | staggered shifts; the whole never sleeps |
 | Characteristic failure | seizure: everyone in lockstep | stampede or fragmentation |
 | A self? | possible | absent |
 | Best suited to | a fast, local world | a slow, wide world |
@@ -109,11 +122,12 @@ And the scale can be travelled. A federated mind becomes more integrated if its 
 - People can only do one thing at a time at the level of choice, a stubborn bottleneck. The theory's claim: a mind acts as one by broadcasting, and a broadcast carries one programme, so a single stream of thought is the price of integration.
 - Ant colonies avoid the overload that single ants suffer, because each ant sees only part of the problem. Colonies beat individuals on fine discriminations and lose on easy ones.
 - In 65 million papers, patents and software products, small teams disrupted and large teams developed. Loosely coupled organisations build more modular software, by up to a factor of six. The theory's claim: a mind's thoughts carry the shape of its communication.
+- Integrated biological minds go offline to sleep; federated collectives rest in shifts, and dolphins and frigatebirds sleep one hemisphere at a time. The theory's claim: a mind with one stage must alternate online coupling with offline library compression, unless it temporarily federates its halves.
 - No mind can be large, fast and unified at once. Real minds, from the octopus to the human brain, sit along the scale between the two kinds and can move along it as their channels change.
 
 ## How we could be wrong
 
-The chapter's central claim is that one ratio predicts a cluster of properties. It would fail if collectives with similar ratios of thought to talk turned out to differ widely in speed, capacity for many simultaneous tasks, robustness and type of output, or if collectives with very different ratios behaved alike. The claim that a single stream of thought is the price of integration predicts that any integrated mind, natural or artificial, will show a serial bottleneck at the level where it acts as a whole, and that federated minds will not. An integrated system that made several unified choices at once, or a federated one with a true single stage, would count against it. The reading of team size as a move along the scale predicts that what matters is the density of communication relative to individual work, not headcount as such. A small team whose members rarely talk should behave like a federated mind, and a large team in constant, dense contact should behave like an integrated one. If disruption tracks headcount alone, regardless of how the team communicates, the theory's explanation is wrong.
+The chapter's central claim is that one ratio predicts a cluster of properties. It would fail if collectives with similar ratios of thought to talk turned out to differ widely in speed, capacity for many simultaneous tasks, robustness and type of output, or if collectives with very different ratios behaved alike. The claim that a single stream of thought is the price of integration predicts that any integrated mind, natural or artificial, will show a serial bottleneck at the level where it acts as a whole, and that federated minds will not. An integrated system that made several unified choices at once, or a federated one with a true single stage, would count against it. The sleep argument would fail if continually learning, finite-memory integrated minds, biological or artificial, proved able to compress and maintain their priors indefinitely at full waking capacity without offline periods, or if unihemispheric sleepers showed undiminished cross-hemisphere integration while half asleep. The reading of team size as a move along the scale predicts that what matters is the density of communication relative to individual work, not headcount as such. A small team whose members rarely talk should behave like a federated mind, and a large team in constant, dense contact should behave like an integrated one. If disruption tracks headcount alone, regardless of how the team communicates, the theory's explanation is wrong.
 
 ## References
 
@@ -132,5 +146,9 @@ The chapter's central claim is that one ratio predicts a cluster of properties. 
 13. L. Wu, D. Wang and J. A. Evans (2019), "Large teams develop and small teams disrupt science and technology", *Nature* 566:378–382. https://www.nature.com/articles/s41586-019-0941-9
 14. M. E. Conway (1968), "How do committees invent?", *Datamation* 14:28–31.
 15. A. MacCormack, C. Baldwin and J. Rusnak (2012), "Exploring the duality between product and organizational architectures: a test of the 'mirroring' hypothesis", *Research Policy* 41:1309–1324. https://dash.harvard.edu/handle/1/34403525
+16. D. L. Cassill, S. Brown, D. Swick and G. Yanev (2009), "Polyphasic wake/sleep episodes in the fire ant, *Solenopsis invicta*", *Journal of Insect Behavior* 22:313–323. https://doi.org/10.1007/s10905-009-9173-4
+17. N. C. Rattenborg, C. J. Amlaner and S. L. Lima (2000), "Behavioral, neurophysiological and evolutionary perspectives on unihemispheric sleep", *Neuroscience & Biobehavioral Reviews* 24:817–842. https://doi.org/10.1016/S0149-7634(00)00039-7
+18. N. C. Rattenborg, B. Voirin, S. M. Cruz, R. Tisdale, G. Dell'Omo, H.-P. Lipp, M. Wikelski and A. L. Vyssotski (2016), "Evidence that birds sleep in mid-flight", *Nature Communications* 7:12468. https://doi.org/10.1038/ncomms12468
+19. G. Tononi and C. Cirelli (2014), "Sleep and the price of plasticity: from synaptic and cellular homeostasis to memory consolidation and integration", *Neuron* 81:12–34. https://doi.org/10.1016/j.neuron.2013.12.025
 
-The values in the table of thought against talk are our own rough estimates. The rule that integrated minds are built from simple agents and federated minds from rich ones, the reading of the single stream of thought as the price of integration, the readings of team size and of Conway's law as moves along the scale, the table of contrasts, and the impossibility of a mind that is large, fast and unified at once are the theory's claims.
+The values in the table of thought against talk are our own rough estimates. The rule that integrated minds are built from simple agents and federated minds from rich ones in biology, the reading of the single stream of thought as the price of integration, the readings of team size and of Conway's law as moves along the scale, the account of global sleep versus staggered rest and unihemispheric federation, the table of contrasts, and the impossibility of a mind that is large, fast and unified at once are the theory's claims.

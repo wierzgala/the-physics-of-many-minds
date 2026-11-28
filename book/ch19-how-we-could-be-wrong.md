@@ -23,19 +23,21 @@ Three kinds of statement have been kept apart throughout. It is worth seeing how
 - Shared context reduces the bits needed to communicate, and groups with more of it perform better than their members' abilities predict.
 - The energy cost of a bit in the fly's eye rises with the rate at which it is sent.
 - Small teams tend to disrupt and large teams to develop; loosely coupled organisations build more modular products.
+- Protein structures can be predicted from known sequences by computation alone; compatible language models can pass internal activations directly at lower cost than text.
+- Fire-ant colonies sleep in staggered shifts while dolphins and frigatebirds sleep one hemisphere at a time; aircraft factories lose tacit skill when turnover outruns onboarding; rove beetles mimic ant colony codes, and costly handicaps stabilise honesty between rivals.
 
 **The theory's claims**, which could be false while all of the above stayed true:
 
-- Intelligent output is capacity times an efficiency that cannot exceed one.
-- Unity is a ratio of rates, in three forms: acting as one, being a self, staying one kind.
+- Intelligent output is capacity times an efficiency (gathering times extraction) that cannot exceed one.
+- Unity is a ratio of rates, in three forms: acting as one, being a self, staying one kind (including institutional amnesia when staff churn outruns onboarding).
 - Minds are built from many slow agents because that is the cheapest way to move information.
-- The ratio of thought to talk sorts minds into integrated and federated kinds, with different speeds, products and failures.
+- The ratio of thought to talk sorts minds into integrated and federated kinds, with different speeds, products, failures and patterns of rest: integrated minds must go offline to sleep, while federated minds consolidate in shifts.
 - The same thought can occur at different speeds in minds with matching pure numbers.
 - Levels of mind are marked by breaks in scaling laws, and an agent is a scale at which a summary is enough.
-- A collective should share code and keep beliefs diverse.
+- A collective should maximise both code alignment (κ) and error independence (N_eff / N); when interests diverge, honest signals must be costly, and high κ without border checks lowers the cost of code hijacking.
 - Every species is a mind; nations are not; humanity is one, and is no one.
-- Artificial neural networks are integrated minds with a finite stage, and artificial intelligence will develop as federations of them, not as one giant mind.
-- A task fixes the outline of the mind that can perform it: input rate sets width, compression sets depth, deadline sets size, repertoire sets bulk.
+- Artificial neural networks are integrated minds with a finite stage, and artificial intelligence will develop as federations of them (with compatible units sometimes fused directly in latent space), not as one giant mind.
+- A task fixes the outline of the mind that can perform it: input rate sets width, compression sets depth, deadline sets size, sparsity and repertoire set bulk, and correlated cues with deadlines fix a finite best group size N*.
 
 **Speculation**, flagged as such where it appeared:
 
@@ -53,10 +55,14 @@ Chapter 12 states the theory's quantities and relations in one place, and Chapte
 | Prediction | Where | What would refute it | Could be tested |
 | --- | --- | --- | --- |
 | Decision curves from brains, swarms, colonies and committees fall on one curve when time is counted in each system's own crossing times | Ch. 10 | The curves stay apart, or collapse only with a separate adjustment for each system | Now, from published data |
-| Groups whose members consult the same AI model make more correlated errors and worse collective judgements than unaided groups of equal individual accuracy | Ch. 17 | No loss of diversity or collective accuracy | Now, by experiment |
-| Collectives split when the ratio of exchange to drift falls below a threshold, and do not rejoin on renewed contact | Ch. 9 | Dialects, fields or firms that stay unified without traffic, or reunite easily after their codes part | Now, from language and citation data |
-| Across species, the number of optic nerve fibres follows the eye's information rate at a roughly constant rate per fibre, the number of processing stages follows the compression performed, and the amount of visual brain follows the animal's repertoire | Ch. 13 | Fibre counts unrelated to input rate; depth unrelated to compression; similar eyes and different repertoires with similar visual brains | Now, from comparative anatomy |
-| On wide problems, federations of artificial agents exchanging summaries outperform a single model with a larger context; identical copies of a model do not correct each other as different models do; discovery about nature stays paced by experiment | Ch. 14 | A single ever-larger model wins on wide problems at lower cost; copies correct each other as well as different models; reliable discoveries far faster than experiment allows | Now, and over the next few years |
+| Groups whose members consult the same AI model make more correlated errors (saturating near 1 / ρ effective scouts) and worse collective judgements than unaided groups of equal individual accuracy | Ch. 12, 17 | No loss of diversity or collective accuracy; effective scout count keeps growing with N despite shared advisers | Now, by experiment |
+| Collectives split when the ratio of exchange to drift falls below a threshold, and firms suffer a sharp cliff of institutional amnesia when staff turnover outruns onboarding even with intact manuals | Ch. 9 | Dialects, fields or firms that stay unified without traffic, absorb arbitrary turnover without loss so long as written docs remain, or reunite easily after mutual decoding fails | Now, from language, citation and firm-turnover data |
+| Separating code alignment from error independence (synergy vs. redundancy) predicts group accuracy better than either measure alone | Ch. 6, 12 | High-κ echo chambers match high-κ diverse groups on novel problems | Now, in team and forecasting data |
+| In cue-correlated or deadline-bound tasks, collective accuracy peaks at a finite group size N* and declines beyond it | Ch. 13 | Accuracy grows monotonically with headcount at fixed deadline | Now, in crowds and multi-agent systems |
+| Rising κ without authentication lowers the bits needed to hijack a collective (social parasites, prompt injection, synthetic mimicry); rival agents maintain honest signals only when bluffing is costly | Ch. 6, 14, 16, 17 | Text-only scaling cures specification gaming and prompt injection without boundaries; unbacked polls match real-money markets among rivals | Now, in AI security and market tests |
+| Across species, the number of optic nerve fibres follows the eye's information rate at a roughly constant rate per fibre, the number of processing stages follows the compression performed, and the amount of visual brain follows sparsity and the animal's repertoire | Ch. 13 | Fibre counts unrelated to input rate; depth unrelated to compression; similar eyes and different repertoires with similar visual brains | Now, from comparative anatomy |
+| On wide problems, federations of artificial agents exchanging summaries outperform a single model with a larger context; identical copies of a model do not correct each other as different models do; once existing data are mined out, discovery about nature stays paced by experiment | Ch. 5, 14 | A single ever-larger model wins on wide problems at lower cost; copies correct each other as well as different models; reliable discoveries far faster than experiment after archives are exhausted | Now, and over the next few years |
+| Continually learning, finite-memory integrated minds (natural or artificial) require periodic offline consolidation ("sleep") phases, and unihemispheric sleepers show reduced cross-midline integration during rest | Ch. 8, 14, 15 | Integrated continual learners match offline-consolidating ones indefinitely at full waking load; undiminished interhemispheric unity during unihemispheric sleep | Soon, in continual-learning AI and animal electrophysiology |
 | Boundaries between levels show up as breaks in scaling laws | Ch. 11 | Known boundaries with no break in any scaling relation, or sharp breaks with no new kind of agent | Now, from existing data |
 | Activity across humanity's language communities shows avalanches, build-up to threshold with mutual suppression, and an echo to shocks that is both widespread and varied | Ch. 16 | No avalanche statistics; no competition dynamics; echoes that are purely local or purely uniform | Now, from public records |
 | Shared context can be measured in pairs, grows with time together, and predicts performance beyond individual ability | Ch. 6 | No measurable gain from shared history once individual skill is accounted for | Now, by experiment |
@@ -83,7 +89,7 @@ It would be dishonest to present only the tests the theory proposes for itself. 
 
 **Some of the evidence is thin.** The claim that thin channels are cheaper per bit rests mainly on insect photoreceptors. The refinement about split brains rests on two patients. The account of conjoined twins rests on journalism. Several of the scaling laws are disputed on statistical grounds. Each of these was flagged where it appeared, and each could give way.
 
-**The theory explains failure too easily.** Too much coupling is bad, and too little is bad. A sceptic will notice that this lets the theory account for any collective failure after the fact, by declaring it to have been on one side or the other. The defence is to state the balance point in advance, as a number, for a given system. That has been done for almost none of them.
+**The theory explains failure too easily.** Too much coupling is bad, and too little is bad. A sceptic will notice that this lets the theory account for any collective failure after the fact, by declaring it to have been on one side or the other. Separating code alignment (κ) from error independence (N_eff / N) in Chapters 6 and 12 turns that qualitative curve into two distinct coordinates, which helps, yet stating the exact balance point in advance, as a number for a given system, has still been done for almost none of them.
 
 **It was built by one kind of mind.** Chapter 8 predicts that an integrated mind produces a coherent whole and overlooks exceptions. The reader should assume that this has happened here, and that people who know each field better will find where.
 

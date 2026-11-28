@@ -61,6 +61,8 @@ Now the top of the fraction. There are three reasonable choices, and each gives 
 
 The third choice is the one this book adopts, because of that theorem. It means that **intelligence, properly measured, has a maximum, and the maximum is one.** The perfect twenty-questions player sits exactly at the limit: one bit of the world settled for every bit received. Nothing can do better.
 
+One snag remains: which uncertainties count as achievement? Settling which way a leaf falls is a bit, and a useless one. In 2018 Artemy Kolchinsky and David Wolpert showed how physics can draw the line without a human judge (13). Chapter 3 noted that every living agent must spend energy to stay far from equilibrium. Scramble a portion of the information flowing between an agent and its surroundings, and watch whether the agent's ability to maintain itself drops. The bits whose scrambling harms it are the bits that matter to it; the rest are trivia. Achievement, on that footing, is uncertainty removed about the states on which the agent's survival or goal actually depends.
+
 ## The consequences of a ceiling
 
 This is a stronger statement than it looks, and what follows from it is the theory's own claim.
@@ -75,9 +77,26 @@ This is a stronger statement than it looks, and what follows from it is the theo
 
 **Most of your intelligence was learned by someone else.** That last clause matters more than it seems. Newton's laws fit in a few hundred bits. Finding them cost humanity centuries. A student receives them in an afternoon. Every person alive is handed priors, in genes and in culture, that they could never have earned alone, and the accounts of η say plainly where a person's apparent brilliance comes from: overwhelmingly, from the bottom of the fraction having been paid by others. Chapter 6 calls this shared context, and Chapter 9 will argue that it is the reason one species came to run the planet.
 
+## Two ways to waste a bit
+
+If no mind can beat one bit of control per bit gathered, how did a computer program solve a fifty-year mystery of biology without doing a single new experiment on its target?
+
+A protein begins as a chain of amino acids, written out by a gene like letters on a tape, and folds within milliseconds into a tangled three-dimensional machine. For half a century biologists knew thousands of sequences and could not calculate the shapes they folded into; finding a single structure could take years of X-ray work in a laboratory. In 2020 the program AlphaFold predicted protein structures from their amino-acid sequences alone with accuracy rivalling experiment (14). No new atom of the target protein had been measured before the prediction was made.
+
+Nothing in Touchette and Lloyd's theorem was broken. Because the laws of physics guide the folding, the information specifying the three-dimensional shape was *already sitting inside* the one-dimensional sequence. Human scientists had held the bits in their hands for decades and lacked the computation to read them out.
+
+Classic information theory misses this because Shannon imagined an observer with unlimited power to calculate. Real minds have budgets. In 2020 Yilun Xu and colleagues reworked information theory for observers with limited computation, calling the result usable information (15). Unlike Shannon's measure, usable information *can* be increased by thinking: reorganising numbers into a graph, proving a theorem from old axioms or running a deep network over a sequence turns locked-up correlations into answers a simple decision rule can use (15).
+
+The theory therefore splits efficiency into two factors, both pure numbers between zero and one.
+
+- **Gathering efficiency** measures how well a mind chooses its observations: how much information about the goal the gathered data actually contain, per bit collected. Curiosity, experiment and the twenty-questions strategy live here.
+- **Extraction efficiency** measures how much of that already-present information the mind's computation unlocks for action. Deduction, mathematics and AlphaFold live here.
+
+Overall efficiency η is the product of the two. A mind wastes bits either by asking dull questions or by failing to think through the answers it already has. And separating the two clarifies what a superhuman mind can do. It cannot push the product above one. It can push extraction far closer to one than humans manage on hard problems, wringing discoveries out of archives we have barely digested, until the existing data truly run dry and Chapter 14's experimental clock takes over.
+
 ## Why collectives look wasteful
 
-Apply the measure to the swarm of Chapter 1, and something odd appears. The swarm's decision is a choice among about a dozen sites, which is under four bits. To make it, hundreds of scouts flew out, and hundreds of dances were performed, each carrying a location and repeated for many circuits (13). Thousands of bits were spent to settle four. By the fraction, the swarm looks stupid.
+Apply the measure to the swarm of Chapter 1, and something odd appears. The swarm's decision is a choice among about a dozen sites, which is under four bits. To make it, hundreds of scouts flew out, and hundreds of dances were performed, each carrying a location and repeated for many circuits (16). Thousands of bits were spent to settle four. By the fraction, the swarm looks stupid.
 
 It is not, and the reason is instructive. A single bee's judgement of a cavity is noisy. The repetition, the independent inspections and the slow build-up to a quorum are what make the final four bits *reliable*. Shannon showed that sending information accurately over a noisy channel always costs redundancy; the three quarters of English that readers can guess is what lets us understand each other in a crowded room. A collective is a noisy channel made of minds, and it pays the same tax.
 
@@ -89,13 +108,14 @@ So η has to be quoted together with reliability, the way a car's fuel economy h
 - People predict English at about one bit per letter because they already model the language. A good model makes the world cheap to follow.
 - Children learn language from four or five orders of magnitude less data than large language models, storing only about 1.5 megabytes of knowledge. People learn concepts from one example; a bee can learn *same* and *different*.
 - Three kinds of bits must be counted: experience, priors and communication. Ignoring priors lets a lookup table pass as a genius.
-- If achievement is measured in bits of uncertainty removed, a theorem caps η at one. Perfect intelligence exists and consists of wasting nothing.
-- The theory's claims: a superintelligence can exceed us in capacity and priors but not in efficiency beyond one; curiosity is how efficiency is raised; understanding is compression; most of any person's intelligence is inherited priors.
+- If achievement is measured in bits of goal-relevant uncertainty removed, a theorem caps η at one. Perfect intelligence exists and consists of wasting nothing. Physics can identify which bits are goal-relevant by asking which ones harm the agent when scrambled.
+- Efficiency splits into two parts: gathering the right bits, and extracting the answers already locked inside them, as AlphaFold extracted protein shapes from known sequences.
+- The theory's claims: overall η is gathering efficiency times extraction efficiency, and neither can exceed one; a superintelligence can exceed us in capacity, priors, choice of questions and computational extraction, never in total return per bit beyond one; curiosity raises gathering efficiency; understanding is compression; most of any person's intelligence is inherited priors.
 - Collectives spend many bits per bit decided because reliability costs redundancy. Their efficiency should be judged against the minimum communication the task requires.
 
 ## How we could be wrong
 
-The measure fails if it cannot be made operational: if no defensible way is found to weight achievements, to amortise reusable priors alongside per-task experience and communication, or to distinguish raw channel bits from mutual information, then η is a metaphor and not a quantity. The comparison between children and language models may be unfair if the two are not doing the same task, or if children's far richer sensory experience is counted as language input; some researchers attribute the gap to exactly that (4). The ceiling of one applies to a specific, formal notion of closed-loop control (mutual information gathered beyond what open-loop control achieves), and extending it to all of intelligence is our hypothesis, not the theorem's. Moreover, under computational limits, much of the Shannon information already present in existing data remains locked away until a stronger predictor extracts it (14); the claim about superintelligence therefore forbids extracting more control than the data contain in principle, not discovering more by thinking harder about data already in hand.
+The measure fails if it cannot be made operational: if no defensible way is found to weight achievements (even by counterfactual harm to the agent), to amortise reusable priors alongside per-task experience and communication, or to distinguish raw channel bits from mutual information, then η is a metaphor and not a quantity. The comparison between children and language models may be unfair if the two are not doing the same task, or if children's far richer sensory experience is counted as language input; some researchers attribute the gap to exactly that (4). The ceiling of one applies to a specific, formal notion of closed-loop control (mutual information gathered beyond what open-loop control achieves), and extending it to all of intelligence is our hypothesis, not the theorem's. Splitting η into gathering and extraction relies on usable information under a stated computational budget (15); if no natural way exists to compare those budgets across brains and machines, the split remains qualitative. The claim about superintelligence would be refuted by any system shown to gain more control over an environment than the mutual information present in its priors and observations combined.
 
 ## References
 
@@ -111,7 +131,9 @@ The measure fails if it cannot be made operational: if no defensible way is foun
 10. F. Chollet (2019), "On the measure of intelligence", arXiv:1911.01547. https://arxiv.org/pdf/1911.01547
 11. J. L. Kelly Jr. (1956), "A new interpretation of information rate", *Bell System Technical Journal* 35:917–926. https://homepage.sns.it/marmi/esameIUE/kelly.pdf
 12. H. Touchette and S. Lloyd (2000), "Information-theoretic limits of control", *Physical Review Letters* 84:1156–1159. https://arxiv.org/abs/chao-dyn/9905039
-13. T. D. Seeley, P. K. Visscher and K. M. Passino (2006), "Group decision making in honey bee swarms", *American Scientist* 94:220–229. https://bees.ucr.edu/media/156/download
-14. Y. Xu, S. Zhao, J. Song, R. Stewart and S. Ermon (2020), "A theory of usable information under computational constraints", *ICLR 2020* / arXiv:2002.10689. https://arxiv.org/abs/2002.10689
+13. A. Kolchinsky and D. H. Wolpert (2018), "Semantic information, autonomous agency and non-equilibrium statistical physics", *Interface Focus* 8:20180041. https://doi.org/10.1098/rsfs.2018.0041
+14. J. Jumper et al. (2021), "Highly accurate protein structure prediction with AlphaFold", *Nature* 596:583–589. https://doi.org/10.1038/s41586-021-03819-2
+15. Y. Xu, S. Zhao, J. Song, R. Stewart and S. Ermon (2020), "A theory of usable information under computational constraints", *ICLR 2020* / arXiv:2002.10689. https://arxiv.org/abs/2002.10689
+16. T. D. Seeley, P. K. Visscher and K. M. Passino (2006), "Group decision making in honey bee swarms", *American Scientist* 94:220–229. https://bees.ucr.edu/media/156/download
 
-Figures given without a reference number are our own rough estimates: the share of a child's language input that is retained, the number of games a human professional plays, the bit counts for the swarm's decision, and the size of Newton's laws in bits.
+Figures given without a reference number are our own rough estimates: the share of a child's language input that is retained, the number of games a human professional plays, the bit counts for the swarm's decision, and the size of Newton's laws in bits. The split of efficiency into gathering and extraction and its consequences for superhuman minds are the theory's claims.
