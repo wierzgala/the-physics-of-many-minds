@@ -19,6 +19,14 @@
 - The chapter title is the only `#` heading in the file; sections use `##`.
 - References go at the end of each chapter file under `## References` (numbered). Every drafted chapter uses this format. Each entry gives authors, year, title, journal with volume and pages where known, and a link. Prefer the primary paper; a press release or summary is listed as a separate entry when it supplies a detail the paper does not. A closing paragraph after the list names the figures that are our own estimates and the claims that belong to the theory.
 
+## Translations
+
+- The English text in `book/` is the original. Translations live in `translations/<language code>/`, with the same file names as in `book/`.
+- Every translation states when and how it was made: a row in `translations/README.md`, a `README.md` in its own folder and language (date, source commit, translator or model and version, how it was checked, what was left untranslated, glossary), and a first-line comment in each file naming the source file, source commit and date.
+- Reference entries stay in their original language. The contributors page and the edit log are kept once, in English.
+- When a chapter changes, its translations are out of date until updated; the comment in each translated file says which version it reflects.
+- The full rules are in `translations/README.md`.
+
 ## Versioning
 
 - Branch `main` holds the current text.
