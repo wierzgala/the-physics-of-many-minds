@@ -40,3 +40,8 @@ Two threads tie the parts together. The first is a tension between integration a
 17. **The new agents.** *(drafted)* Machines joining the collective: what happens to humanity's mind when agents that bypass the ten-bit funnel become a large part of humanity's conversation.
 18. **An intelligent Schrödinger's cat.** *(drafted)* Facts that are actual for one agent and not yet for another, and an experiment that could tell.
 19. **How we could be wrong.** *(drafted)* The predictions gathered in one place, with the observations that would refute them, and the design rule the theory leaves us with.
+
+## Back matter
+
+- **Contributors.** Every person who has contributed to the book, with the chapters they worked on and the kind of contribution.
+- **Edit log.** One entry for each pull request: who made the change, what it covered, why, and its effect on the theory.

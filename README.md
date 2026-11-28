@@ -12,12 +12,16 @@ CONVENTIONS.md       writing and versioning conventions
 book/
   00-preface.md      includes the book's thirteen provocations
   01-plan.md         plan of the book: 5 parts, 19 chapters
+  contributors.md    everyone who has contributed to the book
+  edit-log.md        one entry per pull request: who changed what, and why
   chNN-title.md      one file per chapter
 ```
 
 ## Contributing
 
 The theory was drafted by a small, tightly coupled collaboration (one author working with an AI system). By its own argument (Chapter 8), it now needs the other kind of mind: many independent readers who test it against what they know. Corrections, counter-examples, edge cases and better evidence are welcome as issues or pull requests. The most useful contributions take one of the "How we could be wrong" sections and show that it has, or has not, come true.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). Every pull request adds an entry to the [edit log](book/edit-log.md) saying who made the change and what it covered, and every human contributor is listed on the [contributors page](book/contributors.md).
 
 ## Companion document
 

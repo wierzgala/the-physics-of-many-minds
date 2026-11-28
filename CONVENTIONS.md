@@ -25,3 +25,9 @@
 - One commit per meaningful change (a new chapter, a revised section, a batch of corrections), with a message that says what changed and why.
 - Larger rewrites go on a branch (for example `rewrite/ch03`) and are merged when finished.
 - Draft numbers are tracked in the README status table.
+
+## Contributions and credit
+
+- Changes from anyone other than the editor come through pull requests. See `CONTRIBUTING.md`.
+- Every pull request that changes the book adds an entry to `book/edit-log.md` (who, which chapters, what kind of change, why, effect on the theory) and adds or updates the contributor's line in `book/contributors.md`.
+- The contributors page lists people only. Help from an AI system is stated in the edit-log entry and does not appear as a contributor.

@@ -40,6 +40,8 @@ The book's own rule applies to how that should be done. *Share code, not beliefs
 
 The book is kept in a public repository, with every change recorded, so that this can happen in the open. Corrections, counter-examples and better evidence are welcome there.
 
+Two pages at the back of the book keep the account. The first lists every person who has contributed. The second is an edit log: for each change that is accepted, it records who made it, which chapters it touched, and what it did to the theory, whether it corrected a fact, supplied evidence, or weakened or withdrew a claim. A federated mind works only if its members can tell who reported what, as the bees can tell which scout is dancing for which site. The log is this book's dance floor. A reader should be able to see not only what the theory says but who has tested each part of it, and what they found.
+
 ## How to read this book
 
 The book is the slow, descriptive companion to the technical foundations document. That document states the theory in compressed form: assumptions, variables, equations and predictions. Here the same ideas are built up from things you can see: a swarm hanging from a branch, a slime mould that redraws a railway map, a crowd guessing the weight of an ox.
