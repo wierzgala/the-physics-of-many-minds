@@ -1,0 +1,9 @@
+# Compiled book outputs and intermediate build files
+dist/
+build/
+*.epub
+*.pdf
+
+# Python cache
+__pycache__/
+*.py[cod]
