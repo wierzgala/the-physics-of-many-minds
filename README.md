@@ -79,9 +79,9 @@ https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
 
 © 2026 Jakub Wierzgała. The terms are in [LICENSE](LICENSE). In brief:
 
-- **Print rights are reserved.** Only the author may print, publish or sell the book, any version of it, or any adaptation or translation of it, in physical form. Anyone else needs his written permission.
-- **In electronic form the book is open.** You may read, share, quote, adapt and translate it, and have AI systems process it, provided you credit the author, link here, say what you changed, and pass on these same terms.
-- **Contributions** are welcome and credited. Contributors allow the author to include their contribution in the book in any form, including print.
+- **All publishing and distribution rights are reserved.** Only the author may publish, distribute or sell the book, any part of it, or any adaptation or translation of it, whether in print (including print-on-demand), in electronic editions or distributions (including PDFs, EPUBs, Kindle/e-books, mirror sites and digital platforms), or in audio. Anyone else needs his prior written permission.
+- **Open for reading, citation and review.** You may read the book here, keep private copies for personal review, quote excerpts with attribution, process it with AI systems for review or discussion, and fork this repository on GitHub to test claims and submit issues or pull requests.
+- **Contributions** are welcome and credited. Contributors keep their copyright and grant the author a broad licence to publish and distribute their contribution as part of the book in all formats (print, PDF, EPUB, e-book, audio and translations).
 
 To credit the work:
 

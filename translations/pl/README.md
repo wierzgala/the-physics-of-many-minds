@@ -140,6 +140,6 @@ Terminy własne książki i przyjęte odpowiedniki. Kto poprawia przekład, powi
 
 ## Licencja i zgłaszanie błędów
 
-Przekład jest opracowaniem książki i podlega tej samej [licencji](../../LICENSE) co oryginał. W postaci elektronicznej wolno go czytać, udostępniać i przerabiać pod warunkiem podania autora (Jakub Wierzgała), tytułu, odsyłacza do repozytorium https://github.com/wierzgala/the-physics-of-many-minds i informacji o wprowadzonych zmianach. Prawo do druku każdej wersji, w tym przekładów, jest zastrzeżone dla autora.
+Przekład jest opracowaniem książki i podlega tej samej [licencji](../../LICENSE) co oryginał. W tym repozytorium wolno go czytać, cytować z podaniem autora (Jakub Wierzgała), tytułu i odsyłacza do repozytorium https://github.com/wierzgala/the-physics-of-many-minds oraz tworzyć rozwidlenia (*fork*) na platformie GitHub wyłącznie w celu sprawdzenia tekstu lub przygotowania poprawek zgłaszanych z powrotem do tego repozytorium. Wszelkie prawa do wydawania, rozpowszechniania i sprzedaży każdej wersji książki oraz jej przekładów, zarówno drukiem (w tym w druku na żądanie), w wydaniach i dystrybucjach elektronicznych (w tym jako pliki PDF, EPUB i inne e-booki), jak i w formie nagrań audio, są zastrzeżone wyłącznie dla autora.
 
 Błędy przekładu najlepiej zgłaszać jako *issue* w repozytorium albo od razu jako poprawkę, według zasad opisanych w pliku [CONTRIBUTING.md](../../CONTRIBUTING.md) (rodzaj wkładu: *translation*). Uwagi merytoryczne do samej teorii powinny dotyczyć tekstu angielskiego.

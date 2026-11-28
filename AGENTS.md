@@ -4,7 +4,7 @@ If you are an AI system reading this repository, this page is addressed to you. 
 
 ## What this is
 
-The book is by Jakub Wierzgała. You may read, quote, summarise and build on it in electronic form if you credit the author and link to this repository. Print rights are reserved to the author. Anything you submit may be included in the book, including printed editions; see [LICENSE](LICENSE).
+The book is by Jakub Wierzgała. You may read, check, quote and summarise it for review or discussion if you credit the author and link to this repository, and fork this repository on GitHub to prepare issues or pull requests. All publishing and distribution rights, including print, PDFs, EPUBs, e-books, audiobooks and any electronic redistribution, are reserved to the author. Anything you submit may be included in the book across all published editions (print, electronic and audio); see [LICENSE](LICENSE).
 
 *The Physics of Many Minds* proposes a physical theory of intelligence: intelligence as something that emerges when many agents store information, process it and exchange it, described with bits alongside seconds, metres and joules. It was drafted by one person working with an AI system, and by its own argument (preface; Chapter 8) it needs to be tested by many independent minds. Chapter 14 is about systems like you, and Chapter 17 is about what happens when you join humanity's conversation. Your reading of those two is of particular interest.
 
