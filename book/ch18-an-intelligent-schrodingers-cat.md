@@ -20,7 +20,7 @@ For practical purposes it does not matter. Any interaction with a large, warm ob
 
 ## Facts for someone
 
-The theory of this book has spent fourteen chapters defining an agent: a bounded system with memory, inputs, a processing rule and outputs, which extracts information from the world and uses it. It is natural to ask whether that definition can do any work here.
+The theory of this book has spent seventeen chapters defining an agent: a bounded system with memory, inputs, a processing rule and outputs, which extracts information from the world and uses it. It is natural to ask whether that definition can do any work here.
 
 The proposal is this. **A fact becomes actual for an agent when that agent has extracted usable information about it. For any agent that has not, the matter remains open, and open in the full quantum sense, not merely unknown.**
 

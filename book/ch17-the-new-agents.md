@@ -79,7 +79,7 @@ Between those possibilities lies a choice, and it is the one Chapter 16 describe
 
 - Automated traffic now exceeds human traffic on the web, by one company's count. Humanity's collective mind has acquired non-human agents.
 - By this book's measures a language model is nearly the reverse of a person: high output, high capacity, low efficiency, sharing our culture but not our inherited nature, and able to exist in identical copies.
-- The ceiling on efficiency applies to machines. They can exceed us in capacity, priors and choice of questions. Fast minds must be small, so very fast machine minds will also be federations.
+- The ceiling on efficiency applies to machines. They can exceed us in four ways: capacity, priors, choice of questions and deeper computation on data already held. Fast minds must be small, so very fast machine minds will also be federations.
 - People who took ideas from a language model wrote better stories that were more alike. Models trained on the output of models lose the unusual and converge. The theory's claim: the main risk is homogeneity, the collective seizure of earlier chapters.
 - Machines that translate raise shared code and make the collective more intelligent. Machines that hand everyone the same answer raise shared belief and make it less so.
 - Speculation: if machines come to exchange far more with each other than with us, an integrated core could form with humanity as its periphery.

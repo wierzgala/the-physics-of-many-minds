@@ -31,8 +31,8 @@ To specify a collective mind, give these numbers. The right-hand columns show ro
 
 | Symbol | Quantity | Unit | Human brain | Bee swarm |
 | --- | --- | --- | --- | --- |
-| N | number of agents |, | about 10¹¹ neurons | about 10⁴ bees, a few hundred scouts |
-| d | links per agent |, | about 10⁴ synapses | a few dances watched |
+| N | number of agents | pure count | about 10¹¹ neurons | about 10⁴ bees, a few hundred scouts |
+| d | links per agent | pure count | about 10⁴ synapses | a few dances watched |
 | m | memory per agent | bit | about 10⁵ | large: a brain's worth |
 | r | processing rate per agent | bit/s | a few | very large: a million neurons |
 | c | capacity of one link | bit/s | a few | about 7 bits per dance |
