@@ -27,6 +27,9 @@ book/
   contributors.md    everyone who has contributed to the book
   edit-log.md        one entry per pull request: who changed what, and why
   chNN-title.md      one file per chapter
+foundations/
+  README.md          what the foundations document is, and where the book has moved on from it
+  foundations.md     the first compact statement of the theory (version 0.6), kept as a reference
 translations/
   README.md          register of language versions: what was translated, from which version, when and how
   pl/                Polish translation; same file names as book/, with its own README and glossary
@@ -44,8 +47,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Every pull request adds an entry to the 
 
 ## Companion document
 
-The compressed, technical statement of the theory (assumptions, variables, dimensionless groups, predictions) lives in the foundations document:
-https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
+The first, compressed and technical statement of the theory (assumptions, variables, dimensionless groups, predictions) is the foundations document, kept in this repository as a reference: [foundations/foundations.md](foundations/foundations.md).
+
+It is a snapshot of version 0.6, written before the book, and a frame of mind for thinking about the theory. The book is the current text; [foundations/README.md](foundations/README.md) lists where the two differ.
 
 ## Status
 

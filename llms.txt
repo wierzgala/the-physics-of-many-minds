@@ -44,6 +44,11 @@ Author: Jakub Wierzgała. Licence: see LICENSE. Open here for reading, citation,
 - [reviews/critical-review-01.md](reviews/critical-review-01.md): first independent review
 - [CONVENTIONS.md](CONVENTIONS.md): writing and referencing rules
 
+## Foundations
+
+- [foundations/foundations.md](foundations/foundations.md): the first compact, technical statement of the theory (version 0.6, 27 November 2026): 21 assumptions, variables, dimensionless groups, bounds and predictions. A reference snapshot, not updated. Review and cite the chapters in `book/` instead
+- [foundations/README.md](foundations/README.md): what that document is for, and a table of where the book has since corrected it
+
 ## Translations
 
 The English text in `book/` is the original and the only authoritative version. Review and cite that text.

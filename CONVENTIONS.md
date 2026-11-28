@@ -18,6 +18,7 @@
 - One chapter per file: `book/chNN-short-title.md`, numbered with two digits.
 - The chapter title is the only `#` heading in the file; sections use `##`.
 - References go at the end of each chapter file under `## References` (numbered). Every drafted chapter uses this format. Each entry gives authors, year, title, journal with volume and pages where known, and a link. Prefer the primary paper; a press release or summary is listed as a separate entry when it supplies a detail the paper does not. A closing paragraph after the list names the figures that are our own estimates and the claims that belong to the theory.
+- The foundations document in `foundations/` is the first compact statement of the theory, kept as a reference. It is a snapshot and is not edited to follow the book; where they differ, the book is the current text. A new version is added beside the old one under its own version number.
 
 ## Translations
 
