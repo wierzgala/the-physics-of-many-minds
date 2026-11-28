@@ -32,9 +32,23 @@ A pull request without an entry here is not merged. Purely mechanical changes, s
 
 ## Entries
 
-### PR #3 — Small corrections to the English text
+### PR #5 — Foundations document added as a reference
 
 - **Date merged:** to be filled in on merging
+- **Contributor(s):** Jakub Wierzgała (wierzgala)
+- **Made by:** a person with AI assistance
+- **AI model(s):** Claude Fable 5.2 (Anthropic)
+- **Operator:** not applicable
+- **Chapters:** none; new folder `foundations/`; conventions
+- **Kind:** new material
+- **What changed:** Added the foundations document (version 0.6, 27 November 2026), the first compact technical statement of the theory, as `foundations/foundations.md`, with a README that says what it is for and lists where the book has since moved on from it. The README, `llms.txt` and the conventions now point to it. The chapters are unchanged. The merge date of PR #3 was also filled in.
+- **Why:** The document was written before the book and was only linked from outside the repository. Keeping it here gives readers the whole theory in one view, as a reference and a frame of mind, and keeps a record of where the theory started.
+- **Effect on the theory:** none
+- **Raised by:** Jakub Wierzgała (wierzgala)
+
+### PR #3 — Small corrections to the English text
+
+- **Date merged:** 2026-11-28
 - **Contributor(s):** Jakub Wierzgała (wierzgala)
 - **Made by:** a person with AI assistance
 - **AI model(s):** Claude Fable 5.2 (Anthropic)
