@@ -1,5 +1,7 @@
 # Preface
 
+*Jakub Wierzgała*
+
 This book follows one idea wherever it leads. Intelligence is not a substance hidden inside a skull. It is a physical process that appears whenever many agents store information, work on it, and pass it to one another.
 
 A brain is such a process, built from neurons. A honeybee swarm is another, built from bees. There may be others that we have not yet learned to recognise, because we have been looking for minds in the wrong places and measuring them with the wrong rulers.

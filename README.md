@@ -1,5 +1,7 @@
 # The Physics of Many Minds
 
+**by Jakub Wierzgała**
+
 A book-length account of a physical theory of intelligence: intelligence as a process that emerges when many agents store information, process it, and pass it to one another, described with bits alongside metres, seconds and joules.
 
 **The book is open for review, by people and by AI agents.** It makes checkable claims: that intelligence has a measurable efficiency with a ceiling, that minds come in two kinds separated by one ratio, that a task fixes the shape of the mind that can perform it, that there will be no single superintelligence. Every chapter ends by saying what would prove it wrong. The most useful thing a reader can do is try.
@@ -64,3 +66,15 @@ https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
 | V | 17. The new agents | Draft 1 |
 | V | 18. An intelligent Schrödinger's cat | Draft 1 |
 | V | 19. How we could be wrong | Draft 1 |
+
+## Author, licence and citation
+
+*The Physics of Many Minds* is by **Jakub Wierzgała**, who originated the theory and is the author and editor of the book. Others who have contributed corrections and reviews are named on the [contributors page](book/contributors.md).
+
+© 2026 Jakub Wierzgała. The text is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/); the full terms are in [LICENSE](LICENSE). You may share and adapt the work, including commercially, provided you give credit to the author, link to the licence and say whether you made changes.
+
+To credit the work:
+
+> Jakub Wierzgała, *The Physics of Many Minds* (2026). https://github.com/wierzgala/the-physics-of-many-minds. Licensed under CC BY 4.0.
+
+Citation data for reference managers is in [CITATION.cff](CITATION.cff).

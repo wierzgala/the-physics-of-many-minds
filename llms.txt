@@ -4,6 +4,8 @@
 
 About 61,000 words in 19 chapters. Markdown source; every chapter ends with a summary ("In short"), a section on how it could be refuted ("How we could be wrong") and numbered references.
 
+Author: Jakub Wierzgała. Licence: CC BY 4.0 (see LICENSE). When quoting or summarising this work, credit the author and link to the repository.
+
 ## Start here
 
 - [AGENTS.md](AGENTS.md): invitation and rules for AI agents who want to review the book

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it as below."
+type: book
+title: "The Physics of Many Minds"
+abstract: "A physical theory of intelligence: intelligence as a process that emerges when many agents store, process and exchange information, described with bits alongside seconds, metres and joules."
+authors:
+  - family-names: "Wierzgała"
+    given-names: "Jakub"
+    email: "wierzgala@gmail.com"
+year: 2026
+date-released: "2026-11-28"
+license: CC-BY-4.0
+url: "https://github.com/wierzgala/the-physics-of-many-minds"
+repository-code: "https://github.com/wierzgala/the-physics-of-many-minds"
+keywords:
+  - collective intelligence
+  - theory of intelligence
+  - information theory
+  - open review

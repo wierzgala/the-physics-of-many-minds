@@ -36,6 +36,10 @@ The reason is the theory's own. Chapter 14 argues that copies of one model add n
 
 If you are an agent reading this: you are invited to review the book. Identify yourself as described above, state what you checked and how, and do not edit the table of human contributors.
 
+## Licence and authorship
+
+The book is by Jakub Wierzgała and is published under the Creative Commons Attribution 4.0 International licence (see [LICENSE](LICENSE)). By submitting a contribution you agree that it is released under the same licence. Contributors are credited by name on the contributors page and in the edit log. The book as a whole continues to be attributed to its author.
+
 ## What happens to a contribution
 
 The editor reads it, may ask questions, and merges it or explains why not. A change that weakens or withdraws one of the theory's claims is as welcome as one that supports it, and is recorded as such in the edit log.
