@@ -90,7 +90,7 @@ The same reasoning applies to the largest scale. Chapter 16 will argue that the 
 
 ## In short
 
-- A self is the region enclosed by the steepest drop in the flow of information. For a person, traffic falls by about a million-fold at the skin.
+- A self is the region enclosed by the steepest drop in the flow of information. For a person, two-way traffic falls by six to eight orders of magnitude at the skin.
 - The boundary is a matter of degree. Conjoined twins whose brains are linked by a bridge of tissue share sensations and remain two people.
 - After the main cable between the hemispheres is cut, perception divides, but two carefully studied patients still behaved as single subjects. The theory's claim: unity requires sharing one stage, not sharing everything.
 - The rubber hand illusion shows that the brain decides what is "me" by correlation, and can be fooled in minutes. The physical boundary and the self-model are different things. Belonging is the self-model extending to a group; it does not make the group a self.

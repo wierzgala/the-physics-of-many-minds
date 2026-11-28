@@ -34,7 +34,7 @@ A pull request without an entry here is not merged. Purely mechanical changes, s
 
 ### PR #2 — Polish translation and a catalogue of language versions
 
-- **Date merged:** to be filled in on merging
+- **Date merged:** 2026-11-28
 - **Contributor(s):** Jakub Wierzgała (wierzgala)
 - **Made by:** a person with AI assistance
 - **AI model(s):** Claude Fable 5.2 (Anthropic)
