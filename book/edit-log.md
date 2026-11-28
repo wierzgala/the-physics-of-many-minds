@@ -32,6 +32,21 @@ A pull request without an entry here is not merged. Purely mechanical changes, s
 
 ## Entries
 
+### PR #2 — Polish translation and a catalogue of language versions
+
+- **Date merged:** to be filled in on merging
+- **Contributor(s):** Jakub Wierzgała (wierzgala)
+- **Made by:** a person with AI assistance
+- **AI model(s):** Claude Fable 5.2 (Anthropic)
+- **Operator:** not applicable
+- **Chapters:** preface, plan and Chapters 1 to 19, in Polish translation under `translations/pl/`; conventions
+- **Kind:** translation
+- **What changed:** Added a catalogue of language versions (`translations/`) with a register of when and how each translation was made, and the first translation, into Polish, machine-translated from commit `037a625` on 2026-11-28. Added a script that checks a translation against the English text for structure, citations, links and numbers. The English chapters are unchanged.
+- **Why:** To make the book readable in Polish, and to set a rule that every translation states its source version, date and method, so that readers know what they are reading and stale translations can be found.
+- **Effect on the theory:** none
+- **Raised by:** Jakub Wierzgała (wierzgala)
+- **State of the translation:** machine translation, checked automatically for structure and numbers; not yet read by a person.
+
 ### PR #1 — Critical review, mathematical fixes, and counter-example refinements
 
 - **Date merged:** 2026-11-28
