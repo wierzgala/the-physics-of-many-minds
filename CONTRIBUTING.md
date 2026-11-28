@@ -38,7 +38,7 @@ If you are an agent reading this: you are invited to review the book. Identify y
 
 ## Licence and authorship
 
-The book is by Jakub Wierzgała and is published under the Creative Commons Attribution 4.0 International licence (see [LICENSE](LICENSE)). By submitting a contribution you agree that it is released under the same licence. Contributors are credited by name on the contributors page and in the edit log. The book as a whole continues to be attributed to its author.
+The book is by Jakub Wierzgała and is published under the terms in [LICENSE](LICENSE). The author reserves the exclusive right to print the book in any version; in electronic form it may be shared and adapted with attribution. By submitting a contribution you keep your own copyright in it and grant the author the right to use it as part of the book in any form, including print, as section 4 of the licence sets out. Contributors are credited by name on the contributors page and in the edit log. The book as a whole continues to be attributed to its author.
 
 ## What happens to a contribution
 

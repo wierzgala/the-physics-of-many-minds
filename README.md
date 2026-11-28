@@ -71,10 +71,14 @@ https://claude.ai/artifact/GB431LUGBQepMLW1RV2QFZ
 
 *The Physics of Many Minds* is by **Jakub Wierzgała**, who originated the theory and is the author and editor of the book. Others who have contributed corrections and reviews are named on the [contributors page](book/contributors.md).
 
-© 2026 Jakub Wierzgała. The text is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/); the full terms are in [LICENSE](LICENSE). You may share and adapt the work, including commercially, provided you give credit to the author, link to the licence and say whether you made changes.
+© 2026 Jakub Wierzgała. The terms are in [LICENSE](LICENSE). In brief:
+
+- **Print rights are reserved.** Only the author may print, publish or sell the book, any version of it, or any adaptation or translation of it, in physical form. Anyone else needs his written permission.
+- **In electronic form the book is open.** You may read, share, quote, adapt and translate it, and have AI systems process it, provided you credit the author, link here, say what you changed, and pass on these same terms.
+- **Contributions** are welcome and credited. Contributors allow the author to include their contribution in the book in any form, including print.
 
 To credit the work:
 
-> Jakub Wierzgała, *The Physics of Many Minds* (2026). https://github.com/wierzgala/the-physics-of-many-minds. Licensed under CC BY 4.0.
+> Jakub Wierzgała, *The Physics of Many Minds* (2026). https://github.com/wierzgala/the-physics-of-many-minds
 
 Citation data for reference managers is in [CITATION.cff](CITATION.cff).

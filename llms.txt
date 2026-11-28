@@ -4,7 +4,7 @@
 
 About 61,000 words in 19 chapters. Markdown source; every chapter ends with a summary ("In short"), a section on how it could be refuted ("How we could be wrong") and numbered references.
 
-Author: Jakub Wierzgała. Licence: CC BY 4.0 (see LICENSE). When quoting or summarising this work, credit the author and link to the repository.
+Author: Jakub Wierzgała. Licence: see LICENSE. Electronic sharing and adaptation are permitted with attribution; all print rights are reserved to the author. When quoting or summarising this work, credit the author and link to the repository.
 
 ## Start here
 
