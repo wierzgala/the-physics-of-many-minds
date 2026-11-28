@@ -80,7 +80,7 @@ That gives the theory its definition of a level, promised in Chapter 3. **An age
 - In a starling flock each bird watches about seven neighbours, yet correlations span the whole flock, however large. A collective is one system when its correlations reach as far as it does.
 - Criticality, the cost of wiring and the need to be assembled from stable parts all push minds toward nested, self-similar structure.
 - Levels show up where self-similarity breaks. Metabolic scaling changes at each major transition in the history of life. Cities, unlike animals, speed up and grow more inventive per head as they grow.
-- The theory's claims: a break in a scaling law marks a boundary between levels; an agent is a scale at which a summary is enough; integrated collectives slow with size and federated ones accelerate.
+- The theory's claims: a break in a scaling law marks a boundary between levels; an agent is a scale at which a summary is enough; integrated collectives slow with size, and so do federations limited by transport or attention, such as insect colonies and very large scientific fields; open federations in which members mix freely, such as cities, accelerate.
 
 ## How we could be wrong
 

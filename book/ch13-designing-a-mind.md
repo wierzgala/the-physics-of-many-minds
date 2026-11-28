@@ -185,7 +185,7 @@ None of this is new to a good manager or a good systems engineer. What the theor
 - The framework of Chapter 12 can be run forwards: from a task to the outline of a mind that can perform it.
 - For a task of ten million bits per second in, one decision per second out, the theory gives about a million slow input channels, four to fifteen levels, a size of centimetres to tens of centimetres in nerve tissue, modules below and one stage above.
 - That matches the human visual system in seven of nine respects, including the number of optic nerve fibres, the rate each carries and the number of processing levels. The match is a consistency check, not a blind prediction.
-- It misses on the number of neurons and the power used, by factors of a thousand or more. The lesson: a brain's bulk is set by its repertoire, the number of different questions it must be ready to answer. Most of a brain is library, not pipeline.
+- It misses on the number of neurons and the power used, by factors of a thousand or more. Two lessons follow. Sparse activity forces a hundred-fold expansion at the first cortical stage before any compression begins. And a brain's bulk is set by its repertoire, the number of different questions it must be ready to answer. Most of a brain is library, not pipeline.
 - For a task of slow, wide-area search with a fatal cost of error, the same steps give a swarm.
 - Minds can be mapped by two pure numbers. One region of the map, large, fast and unified, is empty.
 - The rules also say what each kind of mind cannot do, and can be applied to organisations and artificial systems.

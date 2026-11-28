@@ -108,9 +108,11 @@ This identifies precisely which technologies would change what humanity *is*, as
 
 How far could that go? Here physics has something surprising to say.
 
-Chapter 4 showed that a mind can act as one only if signals cross it faster than it ticks, and Chapters 10 and 13 estimated that a full deliberative decision takes some tens of crossings — roughly fifty. That sets two related ceilings for a unified mind: the distance light travels in one tick (its "now"), and a fiftieth of that for a full decision.
+Chapter 4 showed that a mind can act as one only if signals cross it faster than it ticks, and Chapters 10 and 13 estimated that a full deliberative decision takes some tens of crossings, roughly fifty. That sets two related ceilings for a unified mind: the distance light travels in one tick (its "now"), and a fiftieth of that for a full decision.
 
-Across Earth's surface, half the circumference is about 20,000 kilometres. A signal in optical fibre (at roughly two-thirds the speed of light) crosses it in about a tenth of a second, and light in vacuum in about 67 milliseconds (42 milliseconds straight through the planet). That single crossing sits squarely inside the human perceptual binding window of a few tenths of a second. Fifty such crossings take two to five seconds — the pace of a human conversation, if not of a baseball swing.
+Across Earth's surface, half the circumference is about 20,000 kilometres. A signal in optical fibre (at roughly two-thirds the speed of light) crosses it in about a tenth of a second, and light in vacuum in about 67 milliseconds (42 milliseconds straight through the planet). That single crossing sits squarely inside the human perceptual binding window of a few tenths of a second. Fifty such crossings take two to five seconds: the pace of a human conversation, if not of a baseball swing.
+
+This is a correction to an earlier draft, which compared the Earth with the distance light travels during a whole human thought and so overstated the case. A planetary mind could share our sense of the present moment. It could not match a brain's speed of decision. A brain crosses itself in tens of milliseconds and decides in half a second; a mind the size of the Earth would be five to ten times slower at each.
 
 The Earth is therefore small enough for a single mind to share one human-scale present moment and deliberate in seconds. The laws of physics do not forbid a planetary self. What has prevented one, so far, is only the narrowness of its agents' voices.
 
@@ -130,7 +132,7 @@ Now step off the planet. The same ceiling that permits a mind the size of the Ea
 | A year | about 50 years | one light-year | a quarter of the way to the nearest star |
 | 100,000 years | about 5 million years | 100,000 light-years | the Milky Way |
 
-The Moon is 384,000 kilometres away, 1.3 light-seconds — over a minute for a fifty-tick decision. A mind thinking at human speed cannot include it. An outpost there would be like a hand with a one-second delay: usable, but no longer quite part of you.
+The Moon is 384,000 kilometres away, 1.3 light-seconds, which means over a minute for a fifty-tick decision. A mind thinking at human speed cannot include it. An outpost there would be like a hand with a one-second delay: usable, but no longer quite part of you.
 
 Mars is far worse. A radio signal takes between about 3 and 22 minutes to get there, depending on where the two planets are in their orbits (13). A question and its answer can take three quarters of an hour. A civilisation on two planets is, by the arithmetic of this book, two minds that write to each other. For any decision faster than an hour, each planet is on its own.
 
@@ -168,7 +170,7 @@ There are, in the end, two kinds of greatness on offer, and physics does not let
 - Its modules follow shared language more than political borders, as phone-call networks and translation networks show. By the theory's test, nations are modules, not minds.
 - Any higher-level language should consist of population-level signals with a tiny vocabulary that fade, compete and go unheard by those who produce them. Prices, the decay of collective attention and its shortening bursts fit. Recording each language community's activity would allow humanity to be tested like a brain.
 - Humanity's wiring is now fast. Its bottleneck is the human output of about ten bits per second and the thin junctions between languages. Machine translation and artificial agents act on exactly those two limits.
-- The speed of light caps a unified mind's single tick ("now") at the distance light crosses in that interval, and a fifty-tick decision at a fiftieth of that span. For Earth, one crossing takes under a tenth of a second — small enough for a planetary mind deliberating in seconds, whereas the Moon is already too far.
+- The speed of light caps a unified mind's single tick ("now") at the distance light crosses in that interval, and a fifty-tick decision at a fiftieth of that span. For Earth, one crossing takes about a tenth of a second or less: small enough for a planetary mind that shares a human-scale present and deliberates in seconds, several times slower than a brain. The Moon is already too far.
 - Tighter integration risks the collective version of a seizure: uniform belief. The goal is shared code with diverse belief.
 - A galactic intelligence is physically possible only as a slow, cold, nearly silent federation with a budget of a few thousand decisions in the age of the galaxy.
 

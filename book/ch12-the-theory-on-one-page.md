@@ -31,8 +31,8 @@ To specify a collective mind, give these numbers. The right-hand columns show ro
 
 | Symbol | Quantity | Unit | Human brain | Bee swarm |
 | --- | --- | --- | --- | --- |
-| N | number of agents | — | about 10¹¹ neurons | about 10⁴ bees, a few hundred scouts |
-| d | links per agent | — | about 10⁴ synapses | a few dances watched |
+| N | number of agents |, | about 10¹¹ neurons | about 10⁴ bees, a few hundred scouts |
+| d | links per agent |, | about 10⁴ synapses | a few dances watched |
 | m | memory per agent | bit | about 10⁵ | large: a brain's worth |
 | r | processing rate per agent | bit/s | a few | very large: a million neurons |
 | c | capacity of one link | bit/s | a few | about 7 bits per dance |
@@ -89,7 +89,7 @@ Chapter 4 explained why pure numbers matter: a ratio with no units is the same w
 | Name | Definition | What it decides | Chapter |
 | --- | --- | --- | --- |
 | Coherence number | T_w / t_x | whether the collective can act as one on its world; it must be well above 1 | 4 |
-| Thought to talk | r / r_comm (internal processing divided by independent external communication rate; note that broadcast fan-out across d identical outputs does not multiply independent bits sent) | integrated when near 1, federated when far above 1 | 4, 8 |
+| Thought to talk | r / s, where s is the rate of independent information the agent sends out; a signal copied to all d of its links counts once, so s is at most c for a broadcasting agent such as a neuron | integrated when near 1, federated when far above 1 | 4, 8 |
 | Memory horizon | N × m / (R_in × T_w) | how many world-times of experience it can hold | 4 |
 | Boundary number | traffic across the outer edge / B | whether it is a self; it must be far below 1 | 4, 15 |
 | Cost above the floor | energy per bit / Landauer's limit | how far from the thermodynamic minimum it runs | 2, 7 |

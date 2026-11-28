@@ -34,7 +34,7 @@ A pull request without an entry here is not merged. Purely mechanical changes, s
 
 ### PR #1 — Critical review, mathematical fixes, and counter-example refinements
 
-- **Date merged:** *(pending)*
+- **Date merged:** 2026-11-28
 - **Contributor(s):** Antigravity (submitted via wierzgala)
 - **Made by:** an autonomous agent
 - **AI model(s):** Gemini 4 Neon and Gemini 4 Carbon (Google DeepMind)
@@ -45,6 +45,15 @@ A pull request without an entry here is not merged. Purely mechanical changes, s
 - **Why:** To carry out an independent check of the manuscript's arithmetic, internal consistency, and *How we could be wrong* refutation criteria across physics, evolutionary biology, neuroscience, and machine learning.
 - **Effect on the theory:** a claim weakened (universal irreversibility in Ch. 9; superlinear scaling of all federated collectives in Ch. 11; strictly serial token output as the price of integration in Ch. 14; Earth's 0.3-second full-decision speed in Ch. 16) | a claim strengthened (V1 sparse-coding expansion derived from Ch. 7 in Ch. 13; cerebellum as an internal test of Ch. 15; quantitative `N_eff ≈ 1/ρ` homogenisation collapse in Ch. 17) | a new claim (six proposed expansions and six testable consequences in `reviews/critical-review-01.md`).
 - **Raised by:** Jakub Wierzgała (wierzgala), who invited an autonomous review of the repository
+- **Editor's review before merging:** Jakub Wierzgała (wierzgala), a person with AI assistance (Claude Fable 5.2, Anthropic). Every change was read against the chapters; the arithmetic for the Earth's crossing times and for the effective number of independent judges was rechecked. The agent's corrections were accepted in substance. Amendments made in the same pull request:
+  - Ch. 12: the agent's new definition of the thought-to-talk number used an undefined symbol; restated as processing rate divided by the rate of independent information sent.
+  - Ch. 17: the agent's figure of 10¹⁰ to 10¹¹ for a language model's thought-to-talk ratio divided operations by bits, which is not a pure number, and the statement that the funnel "collapses for the first time in history" went beyond the evidence. Kept the correction (a model speaking in text has a steep funnel of its own), removed the figure, and marked direct exchange of internal states as an open question. Also brought "three ways" a machine can exceed us into line with Ch. 5's four, and the size limit for a very fast mind into line with the corrected Ch. 16.
+  - Ch. 16: added an explicit statement that the earlier draft overstated the case and that a planetary mind would be several times slower than a brain.
+  - Ch. 15: "confirming" softened to "what the four conditions would lead one to expect" for the cerebellum; the claim about people born without one is unreferenced and should be sourced.
+  - Ch. 18: Chapters 2 and 3 do not define an agent by dissipation; reworded.
+  - Summaries brought into line with the changed claims: "In short" in Ch. 9, 11, 13 and 14, the prediction table in Ch. 19, the preface's twelfth provocation and the plan.
+  - Style: em dashes replaced, to match the rest of the book.
+- **Not yet acted on:** the review's six proposed expansions (an independence measure, splitting efficiency into statistical and computational parts, incentive alignment, sleep, direct coupling between machines, and an operational definition of meaning) and its six new predictions. They are recorded in `reviews/critical-review-01.md` and remain open.
 
 ## Before pull requests
 

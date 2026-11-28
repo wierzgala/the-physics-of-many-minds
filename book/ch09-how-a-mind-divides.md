@@ -56,7 +56,7 @@ That gives a pure number, to add to the list from Chapter 4: the rate at which a
 
 Two features of the rule deserve attention.
 
-**It is asymmetric in time once an absorbing barrier is crossed.** Drift is slow and quiet, and a divided pair can stay in contact for a long while after the critical point has passed. Reunion is not simply the reverse of separation. While codes have only partly diverged, renewed contact can still merge them back together — biologists have documented "speciation in reverse", such as two stickleback forms in Enos Lake collapsing into a single hybrid swarm when their habitats changed (11), and separated dialects often re-converge under mass media. But once genetic incompatibilities accumulate or the last shared decoder is lost, renewed contact no longer restores unity. A collective can cross that barrier through centuries of quiet and never get its unity back.
+**It is asymmetric in time once an absorbing barrier is crossed.** Drift is slow and quiet, and a divided pair can stay in contact for a long while after the critical point has passed. Reunion is not simply the reverse of separation. While codes have only partly diverged, renewed contact can still merge them back together. Biologists have documented "speciation in reverse", such as two stickleback forms in Enos Lake collapsing into a single hybrid swarm when their habitats changed (11), and separated dialects often re-converge under mass media. But once genetic incompatibilities accumulate or the last shared decoder is lost, renewed contact no longer restores unity. A collective can cross that barrier through centuries of quiet and never get its unity back.
 
 **It sets a size limit that has nothing to do with the speed of light.** Chapter 16 will find that a mind which must act as one cannot be larger than light travels in one of its thoughts. The drift rule gives a second, gentler limit for minds that only need to stay one kind. Its radius is however far a message can travel before the code drifts. For genes that radius is set by how far organisms wander in a generation; for languages, by how far words travel in a few centuries. Chapter 16 applies it to a species spreading between the stars.
 
@@ -76,7 +76,7 @@ The faster channels did not abolish drift, however. They moved it. Our genes are
 - Every species is a collective mind by this book's definition: organisms exchanging information through genes, learning at about a bit per generation. Some have faster channels too, such as whale song crossing an ocean in two years.
 - Species form when communication falls too low to keep a code shared. The greenish warbler shows the code drifting until it cannot be read. Languages split the same way, as Darwin noticed.
 - The ratio of exchange to drift is a new pure number. Roughly one migrant per generation holds populations together; the theory predicts similar thresholds for dialects, fields and organisations.
-- Division is asymmetric: once codes have parted, contact does not restore them.
+- Division is asymmetric past a point of no return. Partly diverged codes can merge again, as stickleback species and dialects have. Once mutual decoding has failed completely, contact does not restore it.
 - The tree of life is a family tree of minds, still joined by the genetic code. Humanity's faster channels made it a fast collective mind, and gave it many languages.
 
 ## How we could be wrong

@@ -70,8 +70,8 @@ These conditions overlap with two leading scientific theories of consciousness, 
 
 Apply the list.
 
-- **A waking human cerebral cortex** meets all four.
-- **The human cerebellum** offers a revealing internal contrast: it holds roughly four-fifths of the brain's 86 billion neurons (13), yet its circuitry is modular and largely feedforward, lacking a global broadcast stage. People born without a cerebellum remain intact conscious subjects — confirming that raw neuron count does not make a self.
+- **A waking human brain** meets all four, or more exactly its cortex and thalamus do.
+- **The human cerebellum** offers a revealing internal contrast: it holds roughly four-fifths of the brain's 86 billion neurons (13), yet its circuitry is modular and largely feedforward, lacking a global broadcast stage. The rare people born without a cerebellum have difficulties with movement and coordination and are nevertheless conscious subjects. That is what the four conditions would lead one to expect: it is not the number of neurons that makes a self.
 - **A brain in dreamless sleep or under anaesthesia** fails the fourth, and by the evidence of Chapter 3 no one is there.
 - **A bee swarm, an ant colony, a market, a nation, humanity, a species** all fail the first. Each of their agents thinks vastly more than it says. They are federated minds. They process information, decide and learn. By this theory they are not subjects. There is thinking, and nobody is doing it.
 - **A couple, a team, a crowd at a concert** fail the first and third. Their members' self-models overlap, which is what they feel. No new subject comes into being.
