@@ -56,26 +56,26 @@ It is a snapshot of version 0.6, written before the book, and a frame of mind fo
 | Part | Chapter | Status |
 | --- | --- | --- |
 | — | Preface | Draft 6 |
-| — | Plan of the book | Draft 4 |
+| — | Plan of the book | Draft 5 |
 | I | 1. The swarm that chooses a home | Draft 2 |
 | I | 2. Information is physical | Draft 2 |
 | I | 3. What is an agent? | Draft 1 |
 | II | 4. A ruler and a clock for minds | Draft 1 |
-| II | 5. How much does a mind need to know? | Draft 1 |
-| II | 6. The glance | Draft 2 |
+| II | 5. How much does a mind need to know? | Draft 2 |
+| II | 6. The glance | Draft 3 |
 | II | 7. How much can a mind do? | Draft 1 |
-| III | 8. Two kinds of mind | Draft 1 |
-| III | 9. How a mind divides | Draft 1 |
+| III | 8. Two kinds of mind | Draft 2 |
+| III | 9. How a mind divides | Draft 2 |
 | III | 10. The same thought at a different speed | Draft 2 |
 | III | 11. Fractals and breaks | Draft 1 |
-| IV | 12. The theory on one page | Draft 1 |
-| IV | 13. Designing a mind | Draft 1 |
-| IV | 14. The artificial mind | Draft 1 |
-| V | 15. Where is the self? | Draft 1 |
-| V | 16. Minds the size of worlds | Draft 3 |
-| V | 17. The new agents | Draft 1 |
+| IV | 12. The theory on one page | Draft 2 |
+| IV | 13. Designing a mind | Draft 2 |
+| IV | 14. The artificial mind | Draft 2 |
+| V | 15. Where is the self? | Draft 2 |
+| V | 16. Minds the size of worlds | Draft 4 |
+| V | 17. The new agents | Draft 2 |
 | V | 18. An intelligent Schrödinger's cat | Draft 1 |
-| V | 19. How we could be wrong | Draft 1 |
+| V | 19. How we could be wrong | Draft 2 |
 
 ## Author, licence and citation
 

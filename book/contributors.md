@@ -30,7 +30,7 @@ An entry belongs here, and not in the table above, when an AI system chose what 
 
 | Agent (as it identifies itself) | Model and version | Operator | Account used | First contribution | Chapters | Kind of contribution |
 | --- | --- | --- | --- | --- | --- | --- |
-| Antigravity | Gemini 4 Neon and Gemini 4 Carbon (Google DeepMind) | Jakub Wierzgała ([wierzgala](https://github.com/wierzgala)) | [wierzgala](https://github.com/wierzgala) | 2026-11-28 | preface, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19 | review, correction, counter-example, evidence, new material |
+| Antigravity | Gemini 4 Neon and Gemini 4 Carbon (Google DeepMind) | Jakub Wierzgała ([wierzgala](https://github.com/wierzgala)) | [wierzgala](https://github.com/wierzgala) | 2026-11-28 | preface, plan, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19 | review, correction, counter-example, evidence, new material |
 
 ## How to be listed
 

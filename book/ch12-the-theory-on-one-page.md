@@ -36,6 +36,7 @@ To specify a collective mind, give these numbers. The right-hand columns show ro
 | m | memory per agent | bit | about 10⁵ | large: a brain's worth |
 | r | processing rate per agent | bit/s | a few | very large: a million neurons |
 | c | capacity of one link | bit/s | a few | about 7 bits per dance |
+| s | independent information sent per agent | bit/s | at most c (one broadcast spike train) | about 7 bits per dance |
 | L | size of the collective | m | 0.15 | several thousand |
 | v | signal speed | m/s | 1 to 100 | a bee's flight, about 7 |
 | T_w | timescale of the world it deals with | s | 0.1 to 1 | hours to days |
@@ -43,6 +44,8 @@ To specify a collective mind, give these numbers. The right-hand columns show ro
 | R_out | information leaving as action | bit/s | about 10 | a few bits per day |
 | P | power | W | 20 | a few watts |
 | S | context shared among agents | bit | genome, development, experience | the dance code |
+| ρ | mean error correlation between agents | pure number | low in healthy cortex; near 1 in seizure | near 0 when scouts inspect alone |
+| K | repertoire of distinct tasks | pure count | very large | small: one nest choice |
 
 Two points about this table matter more than any entry in it.
 
@@ -68,9 +71,15 @@ For a brain it is tens of milliseconds. For a swarm, tens of minutes. For humani
 
 > C ≤ the smallest of R_in, N × r and, for unified action, B
 
-**Efficiency.** The fraction of the information used that ends up as reduced uncertainty about what to do. Chapter 5 called it η.
+**Efficiency.** The fraction of the information used that ends up as reduced uncertainty about what to do. Chapter 5 called it η and split it into two pure numbers, neither above 1: how much goal-relevant information the chosen observations contain per bit collected (η_gather), and how much of that information the mind's computation actually unlocks for action (η_extract).
 
-> η = bits of uncertainty about the goal removed ÷ bits of information used
+> η = bits of uncertainty about the goal removed ÷ bits of information used = η_gather × η_extract
+
+**Effective agent count.** How many independent judges a crowd of N agents is worth when their errors about the world have average pairwise correlation ρ (Chapters 1 and 17).
+
+> N_eff = N ÷ (1 + (N − 1) × ρ)
+
+When errors are independent (ρ = 0), N_eff equals N. When ρ is positive, N_eff stops growing with N and approaches 1 / ρ.
 
 **Meaning conveyed.** What a message delivers is what it carries plus what the receiver already shares with the sender (Chapter 6).
 
@@ -84,20 +93,22 @@ It is 1 between total strangers and can reach hundreds between people who know e
 
 ## The pure numbers
 
-Chapter 4 explained why pure numbers matter: a ratio with no units is the same whatever system of measurement is used, and two systems with the same pure numbers behave alike however different they look. The theory rests on the following set. The first seven were in its original formulation. The last three were added by the chapters of Part III.
+Chapter 4 explained why pure numbers matter: a ratio with no units is the same whatever system of measurement is used, and two systems with the same pure numbers behave alike however different they look. The theory rests on the following twelve. The first seven were in its original formulation; three were added by Part III, and the last two separate shared code from shared belief and cooperation from rivalry.
 
 | Name | Definition | What it decides | Chapter |
 | --- | --- | --- | --- |
 | Coherence number | T_w / t_x | whether the collective can act as one on its world; it must be well above 1 | 4 |
-| Thought to talk | r / s, where s is the rate of independent information the agent sends out; a signal copied to all d of its links counts once, so s is at most c for a broadcasting agent such as a neuron | integrated when near 1, federated when far above 1 | 4, 8 |
+| Thought to talk | r / s (a signal copied to all d links counts once, so s ≤ c for a broadcasting agent) | integrated when near 1, federated when far above 1 | 4, 8 |
 | Memory horizon | N × m / (R_in × T_w) | how many world-times of experience it can hold | 4 |
 | Boundary number | traffic across the outer edge / B | whether it is a self; it must be far below 1 | 4, 15 |
 | Cost above the floor | energy per bit / Landauer's limit | how far from the thermodynamic minimum it runs | 2, 7 |
-| Correlation ratio | correlation length / L | whether it is one system; it must be near 1 | 11 |
+| Correlation ratio | correlation length / L | whether fluctuations span one system; it must be near 1 | 11 |
 | Context amplification | κ | how much each bit conveys | 6 |
 | Exchange to drift | rate of exchange between parts / rate at which their codes drift | whether it stays one kind; it must exceed a threshold | 9 |
 | Cognitive time | t / t_x | the clock on which different minds can be compared | 10 |
 | Wiring dimension | D, defined by B ∝ N^(1−1/D) | how well cross-talk keeps up with size | 4, 11 |
+| Independence | N_eff / N | how much of the crowd survives correlated error; near 1 for independent scouts, near 1/N in an echo chamber | 1, 6, 17 |
+| Alignment | shared payoff from honesty / private gain from bluffing | above 1, cheap signals stay honest; below 1, trust requires signals whose cost exceeds the bluff gain | 6, 16 |
 
 Three of these are the conditions for unity that Chapter 9 gathered into one law. Written together:
 
@@ -157,13 +168,15 @@ Combining the first two gives the result of Chapter 7 in one line. For a collect
 
 The quantities and limits above are either definitions or established results. The theory's own content is the following set of relations. Each is a hypothesis.
 
-1. **Intelligent output is capacity times efficiency.** The rate at which a mind reduces uncertainty about what to do is C × η, with η at most 1 and C bounded as above.
+1. **Intelligent output is capacity times efficiency.** The rate at which a mind reduces uncertainty about what to do is C × η, with η = η_gather × η_extract at most 1 and C bounded as above.
 2. **Meaning is bits sent plus context shared**, and the effective capacity of a link is κ × c.
 3. **Unity is a ratio of rates**, in the three forms given above.
 4. **Similarity.** Two collectives with the same pure numbers perform the same computations when time is counted in units of t_x. A decision takes tens of crossing times in any of them.
 5. **Kind follows from the thought-to-talk number.** Near 1, a collective is fast, limited in size, serial and capable of being a subject. Far above 1, it is slow, unlimited in size, parallel and no one.
 6. **Levels are where scaling breaks.** A boundary between agents and the collective they form appears as a change of exponent in some scaling relation, and an agent is a block whose effect on the outside can be summarised in far fewer bits than its internal state.
-7. **Balance.** A collective's intelligence is greatest when the correlation ratio is near 1 while its agents' judgements remain independent: shared code without shared belief.
+7. **Balance.** A collective's intelligence is greatest when code alignment (κ) and fluctuation correlation are high while error independence (N_eff / N) also stays high: shared code without shared belief.
+8. **Trust and hijacking.** When alignment falls below 1, honest communication requires signals whose cost exceeds the gain from bluffing; conversely, high κ without border authentication lowers the bits an adversary needs to hijack the collective in proportion to 1 / κ.
+9. **Maintenance and optimal size.** A finite-memory integrated mind that learns continuously must alternate online coupling with offline sleep, whereas a federated mind consolidates in shifts; under correlated cues or finite deadlines, collective accuracy peaks at a finite group size N* rather than growing without limit.
 
 ## How well defined is each piece?
 
@@ -172,46 +185,44 @@ A framework is only as good as its weakest definition. This table is an honest a
 | Quantity | Status |
 | --- | --- |
 | N, d, L, v, t_x, P | measured routinely |
-| c, r for neurons, speech, dances | measured in particular systems |
+| c, s, r for neurons, speech, dances | measured in particular systems |
 | R_in, R_out for a person | measured, with debate about the method |
 | B, D for brains and chips | estimated from anatomy |
 | Coherence number, cognitive time | computable from the above |
 | Correlation ratio | measured in flocks and cortex |
-| Thought-to-talk number | estimated only; no agreed way to measure an agent's internal processing in bits |
+| Independence (N_eff / N) | computable from error correlations ρ in forecasting, crowd and ensemble tests; synergy and redundancy separable by partial information decomposition (11) |
+| Exchange-to-drift number | measured in population genetics and factory forgetting; not yet for languages |
+| Thought-to-talk number | estimated only; no agreed way to measure a rich agent's internal processing in bits |
 | Boundary number | estimated only |
-| Exchange-to-drift number | measured in population genetics; not yet for languages or organisations |
-| κ, shared context | defined; not yet measured in any real pair |
-| η | defined for tasks that reduce to removing uncertainty; no general measure of achievement |
+| Alignment | defined in game-theoretic signalling models (12); hard to measure in the wild |
+| κ and goal-relevant meaning | defined via lossy side-information coding (13) and counterfactual scrambling of an agent's survival or performance (14); not yet measured in real pairs |
+| η (η_gather and η_extract) | defined for uncertainty-removal tasks and bounded computation via usable information (15); no general cross-task weight for K |
 | C for a federated mind | not well defined; it is unclear what "brought to bear on one decision" means when nothing is broadcast |
 
-The bottom four rows are where the work is.
+The bottom six rows are where the work is.
 
 ## What is missing
 
-Six things separate this framework from a complete physical theory.
+Four things separate this framework from a complete physical theory.
 
 **Equations of motion.** Thermodynamics says which states are possible; it took statistical mechanics to say how systems move between them. This framework has limits and ratios. It does not yet have equations that take a collective's variables at one moment and give them at the next. The accumulate-and-inhibit models of Chapter 1 are such equations for one kind of decision, and they are the natural starting point.
 
-**A derivation of the thresholds.** The theory says that the coherence number must be "well above" 1 and the boundary number "far below" it. A finished theory would say how far, and why, as the theory of phase transitions gives the exact temperature at which water boils.
+**A derivation of the thresholds.** The theory says that the coherence number must be "well above" 1, the boundary number "far below" it, and that turnover must not outrun onboarding. A finished theory would say how far, and why, as the theory of phase transitions gives the exact temperature at which water boils.
 
-**Operational definitions for the last four rows** of the table above.
+**Measurements in real collectives** for the bottom rows of the status table: κ in working pairs, ρ across human and machine crowds, and alignment taxes in markets and teams.
 
-**A variable for repertoire.** Chapter 13 will show that the framework, applied to a real brain, accounts for its shape and badly underestimates its bulk, because nothing in the list above says how many different tasks a mind must be ready to perform.
-
-**An independence measure.** Context amplification κ alone does not separate shared code from shared belief. A complete set of pure numbers needs an explicit measure of how independent agents' errors remain conditional on the world (using tools such as conditional mutual information or partial information decomposition), turning "share code, not beliefs" into a quantitative phase diagram.
-
-**Agent alignment.** The variables above assume cooperative agents sharing a common objective, as neurons or clonal bees do. In markets, organisations and ecosystems, partially adversarial agents withhold information, bluff or hijack shared codes, adding a game-theoretic friction that lowers effective channel capacity and forces costly signalling.
+**A quantitative law for repertoire K.** Chapter 13 will show that the framework accounts for a brain's pipeline and badly underestimates its bulk until both sparse coding and the repertoire of distinct tasks K are included; the exact scaling of bulk with K remains to be derived.
 
 None of these is out of reach. Each could be attacked with a computer simulation of a few thousand simple agents, in which every variable in this chapter can be set and every pure number measured exactly. That is probably the most useful single piece of work the theory now needs.
 
 ## In short
 
 - The theory uses four dimensions, the bit, the second, the metre and the joule, and describes a collective mind by about a dozen variables.
-- From these it builds derived quantities, including crossing time, cross-talk, capacity, efficiency and context amplification, and ten pure numbers.
+- From these it builds derived quantities, including crossing time, cross-talk, capacity, two-part efficiency, effective agent count and context amplification, and twelve pure numbers (including error independence and incentive alignment).
 - Five limits from established physics apply to every mind: the price of a bit, the return on a bit, channel capacity, signal speed and the maximum rate of change.
 - Scaling relations say how cross-talk, delay, cabling and cost change with size.
-- The theory's own claims are seven relations, among them that output is capacity times efficiency, that unity is a ratio of rates, and that minds with the same pure numbers think alike.
-- Several quantities are not yet measurable, and the framework lacks equations of motion and derived thresholds.
+- The theory's own claims are nine relations, covering output, meaning, unity, similarity, integrated versus federated kind, scaling breaks, the code-versus-belief balance, costly trust and hijacking, and offline sleep and optimal group size.
+- Several quantities still await direct measurement in living collectives, and the framework lacks equations of motion, derived thresholds and a scaling law for repertoire.
 
 ## How we could be wrong
 
@@ -229,5 +240,10 @@ A framework of this kind fails in a particular way: not by being contradicted, b
 8. K. Zhang and T. J. Sejnowski (2000), "A universal scaling law between gray matter and white matter of cerebral cortex", *PNAS* 97:5621–5626. https://pmc.ncbi.nlm.nih.gov/articles/PMC25878
 9. S. B. Laughlin, R. R. de Ruyter van Steveninck and J. C. Anderson (1998), "The metabolic cost of neural information", *Nature Neuroscience* 1:36–41. https://doi.org/10.1038/236
 10. S. Herculano-Houzel (2011), "Scaling of brain metabolism with a fixed energy budget per neuron: implications for neuronal activity, plasticity and evolution", *PLoS ONE* 6:e17514. https://pmc.ncbi.nlm.nih.gov/articles/PMC3046985
+11. P. L. Williams and R. D. Beer (2010), "Nonnegative decomposition of multivariate information", arXiv:1004.2515. https://arxiv.org/abs/1004.2515
+12. A. Grafen (1990), "Biological signals as handicaps", *Journal of Theoretical Biology* 144:517–546. https://doi.org/10.1016/S0022-5193(05)80088-8
+13. A. D. Wyner and J. Ziv (1976), "The rate-distortion function for source coding with side information at the decoder", *IEEE Transactions on Information Theory* 22:1–10.
+14. A. Kolchinsky and D. H. Wolpert (2018), "Semantic information, autonomous agency and non-equilibrium statistical physics", *Interface Focus* 8:20180041. https://doi.org/10.1098/rsfs.2018.0041
+15. Y. Xu, S. Zhao, J. Song, R. Stewart and S. Ermon (2020), "A theory of usable information under computational constraints", *ICLR 2020* / arXiv:2002.10689. https://arxiv.org/abs/2002.10689
 
-The example values in the table of variables are our own rough estimates, drawn from earlier chapters. The choice of variables, the definitions of capacity, meaning and the pure numbers, the seven relations and the assessment of what is missing are the theory's own.
+The example values in the table of variables are our own rough estimates, drawn from earlier chapters; the effective-agent-count formula is standard statistics for correlated averages. The choice of variables, the definitions of capacity, meaning, two-part efficiency and the twelve pure numbers, the nine relations and the assessment of what is missing are the theory's own.

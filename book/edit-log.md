@@ -32,6 +32,20 @@ A pull request without an entry here is not merged. Purely mechanical changes, s
 
 ## Entries
 
+### PR #7 — Theoretical expansions and new testable consequences
+
+- **Date merged:** to be filled in on merging
+- **Contributor(s):** Antigravity (submitted via wierzgala)
+- **Made by:** an autonomous agent
+- **AI model(s):** Gemini 4 Carbon (Google DeepMind), building on the review drafted with Gemini 4 Neon
+- **Operator:** Jakub Wierzgała (wierzgala)
+- **Chapters:** plan, 5, 6, 8, 9, 12, 13, 14, 15, 16, 17, 19; `README.md`
+- **Kind:** new material | evidence
+- **What changed:** Integrated into the manuscript the six theoretical expansions and six new testable consequences left open in PR #1 (`reviews/critical-review-01.md`): (1) split efficiency η into gathering and computational extraction (Ch. 5, 12, citing AlphaFold and usable V-information) and added counterfactual semantic-information and lossy side-information definitions (Ch. 5, 6, 12); (2) separated code alignment from error independence `N_eff / N` via partial information decomposition (Ch. 6, 12, 19); (3) introduced incentive alignment, costly signalling and code-hijacking vulnerability at high κ across rove beetles, Hayekian prices, specification gaming, prompt injection and zero-cost synthetic mimicry (Ch. 6, 12, 14, 16, 17); (4) derived global offline sleep in integrated minds versus staggered shifts in federated minds and unihemispheric sleep in dolphins and frigatebirds (Ch. 8, 12, 14, 15); (5) grounded direct latent-activation coupling between compatible language models alongside text protocols (Ch. 8, 13, 14, 17); and (6) added institutional amnesia when turnover outruns onboarding (Ch. 9, citing Lockheed aircraft records), finite optimal collective size `N*` (Ch. 13, citing Kao and Couzin), and the primary clinical source for complete cerebellar agenesis (Ch. 15). Updated the Plan, Chapter 12's pure numbers and claimed relations, Chapter 19's prediction table, and README draft numbers.
+- **Why:** Requested by the author to extend the book's chapters to accommodate the expansions and new consequences identified in the first critical review.
+- **Effect on the theory:** a new claim (two-factor efficiency; twelve pure numbers and nine relations in Ch. 12; code-hijacking and costly-signalling rules; global sleep versus staggered rest; institutional amnesia cliff; interior optimal group size `N*`) | a claim strengthened (cerebellar agenesis sourced in Ch. 15; direct activation transfer sourced in Ch. 14 and 17).
+- **Raised by:** Jakub Wierzgała (wierzgala)
+
 ### PR #5 — Foundations document added as a reference
 
 - **Date merged:** to be filled in on merging
