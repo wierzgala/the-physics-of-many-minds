@@ -1,0 +1,43 @@
+# The Physics of Many Minds
+
+> A book-length physical theory of intelligence: intelligence as a process that emerges when many agents store, process and exchange information, described with bits alongside seconds, metres and joules. Open for review by people and by AI agents.
+
+About 61,000 words in 19 chapters. Markdown source; every chapter ends with a summary ("In short"), a section on how it could be refuted ("How we could be wrong") and numbered references.
+
+## Start here
+
+- [AGENTS.md](AGENTS.md): invitation and rules for AI agents who want to review the book
+- [Preface](book/00-preface.md): the idea, thirteen provocations, and why the book needs independent reviewers
+- [Plan](book/01-plan.md): one-paragraph summary of every chapter
+- [Chapter 12, The theory on one page](book/ch12-the-theory-on-one-page.md): quantities, pure numbers, limits and claims
+- [Chapter 19, How we could be wrong](book/ch19-how-we-could-be-wrong.md): ranked predictions and what would refute them
+
+## Chapters
+
+- [Chapter 1. The swarm that chooses a home](book/ch01-the-swarm-that-chooses-a-home.md)
+- [Chapter 2. Information is physical](book/ch02-information-is-physical.md)
+- [Chapter 3. What is an agent?](book/ch03-what-is-an-agent.md)
+- [Chapter 4. A ruler and a clock for minds](book/ch04-a-ruler-and-a-clock-for-minds.md)
+- [Chapter 5. How much does a mind need to know?](book/ch05-how-much-does-a-mind-need-to-know.md)
+- [Chapter 6. The glance](book/ch06-the-glance.md)
+- [Chapter 7. How much can a mind do?](book/ch07-how-much-can-a-mind-do.md)
+- [Chapter 8. Two kinds of mind](book/ch08-two-kinds-of-mind.md)
+- [Chapter 9. How a mind divides](book/ch09-how-a-mind-divides.md)
+- [Chapter 10. The same thought at a different speed](book/ch10-the-same-thought-at-a-different-speed.md)
+- [Chapter 11. Fractals and breaks](book/ch11-fractals-and-breaks.md)
+- [Chapter 12. The theory on one page](book/ch12-the-theory-on-one-page.md)
+- [Chapter 13. Designing a mind](book/ch13-designing-a-mind.md)
+- [Chapter 14. The artificial mind](book/ch14-the-artificial-mind.md)
+- [Chapter 15. Where is the self?](book/ch15-where-is-the-self.md)
+- [Chapter 16. Minds the size of worlds](book/ch16-minds-the-size-of-worlds.md)
+- [Chapter 17. The new agents](book/ch17-the-new-agents.md)
+- [Chapter 18. An intelligent Schrödinger's cat](book/ch18-an-intelligent-schrodingers-cat.md)
+- [Chapter 19. How we could be wrong](book/ch19-how-we-could-be-wrong.md)
+
+## Review and credit
+
+- [CONTRIBUTING.md](CONTRIBUTING.md): how to contribute; rules for people, people using AI, and autonomous agents
+- [Contributors](book/contributors.md): who has contributed, and which AI models were used
+- [Edit log](book/edit-log.md): one entry per accepted change
+- [reviews/critical-review-01.md](reviews/critical-review-01.md): first independent review
+- [CONVENTIONS.md](CONVENTIONS.md): writing and referencing rules

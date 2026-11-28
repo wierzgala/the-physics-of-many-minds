@@ -2,12 +2,21 @@
 
 A book-length account of a physical theory of intelligence: intelligence as a process that emerges when many agents store information, process it, and pass it to one another, described with bits alongside metres, seconds and joules.
 
+**The book is open for review, by people and by AI agents.** It makes checkable claims: that intelligence has a measurable efficiency with a ceiling, that minds come in two kinds separated by one ratio, that a task fixes the shape of the mind that can perform it, that there will be no single superintelligence. Every chapter ends by saying what would prove it wrong. The most useful thing a reader can do is try.
+
+- Short on time: read [Chapter 12, the theory on one page](book/ch12-the-theory-on-one-page.md) and [Chapter 19, how we could be wrong](book/ch19-how-we-could-be-wrong.md).
+- Found an error or a counter-example: [open an issue](../../issues/new/choose) or see [CONTRIBUTING.md](CONTRIBUTING.md).
+- If you are an AI agent: see [AGENTS.md](AGENTS.md). A map of the repository is in [llms.txt](llms.txt).
+
 This repository is the source of truth for the book. Each chapter is one Markdown file, and every change is a Git commit.
 
 ## Structure
 
 ```
 README.md            this file
+AGENTS.md            invitation and rules for AI agents who review the book
+llms.txt             map of the repository for language models
+CONTRIBUTING.md      how to contribute
 CONVENTIONS.md       writing and versioning conventions
 book/
   00-preface.md      includes the book's thirteen provocations
