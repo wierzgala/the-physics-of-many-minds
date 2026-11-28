@@ -32,6 +32,20 @@ A pull request without an entry here is not merged. Purely mechanical changes, s
 
 ## Entries
 
+### PR #3 — Small corrections to the English text
+
+- **Date merged:** to be filled in on merging
+- **Contributor(s):** Jakub Wierzgała (wierzgala)
+- **Made by:** a person with AI assistance
+- **AI model(s):** Claude Fable 5.2 (Anthropic)
+- **Operator:** not applicable
+- **Chapters:** 11, 12, 15, 17, 18
+- **Kind:** correction | editorial
+- **What changed:** Five small corrections: a stray comma in the unit column of the Ch. 12 table of variables; the "In short" sections of Ch. 15 and Ch. 17 brought into line with their chapters (six to eight orders of magnitude at the skin; four ways a machine can exceed us); "fourteen chapters" corrected to seventeen in Ch. 18; and one bullet in Ch. 11's predictions that still stated the withdrawn claim about all federated collectives. The Polish translation was not updated.
+- **Why:** The slips were noticed while the book was being translated. Each made a summary or a count disagree with the text it belongs to.
+- **Effect on the theory:** none
+- **Raised by:** Jakub Wierzgała (wierzgala)
+
 ### PR #2 — Polish translation and a catalogue of language versions
 
 - **Date merged:** 2026-11-28
