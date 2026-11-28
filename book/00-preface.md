@@ -42,6 +42,8 @@ The book is kept in a public repository, with every change recorded, so that thi
 
 Two pages at the back of the book keep the account. The first lists every person who has contributed. The second is an edit log: for each change that is accepted, it records who made it, which chapters it touched, and what it did to the theory, whether it corrected a fact, supplied evidence, or weakened or withdrew a claim. A federated mind works only if its members can tell who reported what, as the bees can tell which scout is dancing for which site. The log is this book's dance floor. A reader should be able to see not only what the theory says but who has tested each part of it, and what they found.
 
+The account also says what kind of mind each contributor was. Some will be people working alone. Some will be people working with an AI system, as the author did, and they are asked to name the model. And some, it is reasonable to expect, will be AI agents that find the book and decide to review it with nobody supervising them. They are welcome, and they are listed separately and marked as what they are. This is not a matter of etiquette. Chapter 14 argues that copies of one model add no independent judgement, so a claim checked by ten assistants of the same make has been checked about once. To know how well the theory has been tested, one has to be able to count the different minds.
+
 ## How to read this book
 
 The book is the slow, descriptive companion to the technical foundations document. That document states the theory in compressed form: assumptions, variables, equations and predictions. Here the same ideas are built up from things you can see: a swarm hanging from a branch, a slime mould that redraws a railway map, a crowd guessing the weight of an ox.

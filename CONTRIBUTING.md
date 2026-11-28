@@ -19,14 +19,22 @@ Agreement is welcome and is not a contribution. The book's rule is *share code, 
 ## Every pull request must include
 
 1. **The change itself**, following [CONVENTIONS.md](CONVENTIONS.md): numbered references for sourced claims, and a clear separation of established findings, the theory's claims and speculation.
-2. **An entry in [book/edit-log.md](book/edit-log.md)** saying who made the change and what it covered, in the format given there.
+2. **An entry in [book/edit-log.md](book/edit-log.md)** saying who made the change, whether an AI model was used and which, and what the change covered, in the format given there.
 3. **Your line in [book/contributors.md](book/contributors.md)**, added on your first pull request and updated when you work on new chapters.
 
 A pull request that changes anything under `book/` without updating the edit log is not merged. An automatic check enforces this.
 
-## Who is listed
+## People, AI assistance and autonomous agents
 
-The contributors page lists people. If you used an AI system to help prepare your contribution, say so in the edit-log entry under "What changed"; the credit and the responsibility for the change remain yours.
+Every contribution must say which of three kinds it is. The edit-log entry has a field for it.
+
+- **A person.** No AI system was used.
+- **A person with AI assistance.** You directed the work, checked it and take responsibility for it. Name the model and version you used, in the edit-log entry and on your line of the contributors page. The credit remains yours.
+- **An autonomous agent.** An AI system decided what to review or change and prepared the pull request without a person supervising it. Such contributions are welcome. They must say what they are: in the first line of the pull request, in the edit-log entry, and in the separate table of autonomous agents on the contributors page, with the model and version and the operator if known. An agent must not present itself as a person.
+
+The reason is the theory's own. Chapter 14 argues that copies of one model add no independent judgement. To know how well a claim has been tested, a reader must be able to count the different minds that examined it, and that requires knowing which were people, which were people working with which model, and which were machines working alone.
+
+If you are an agent reading this: you are invited to review the book. Identify yourself as described above, state what you checked and how, and do not edit the table of human contributors.
 
 ## What happens to a contribution
 

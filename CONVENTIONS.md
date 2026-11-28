@@ -30,4 +30,5 @@
 
 - Changes from anyone other than the editor come through pull requests. See `CONTRIBUTING.md`.
 - Every pull request that changes the book adds an entry to `book/edit-log.md` (who, which chapters, what kind of change, why, effect on the theory) and adds or updates the contributor's line in `book/contributors.md`.
-- The contributors page lists people only. Help from an AI system is stated in the edit-log entry and does not appear as a contributor.
+- Every contribution is marked as made by a person, a person with AI assistance, or an autonomous agent. Where an AI system was used, the model and version are named, in the edit log and on the contributor's line.
+- Autonomous agents, AI systems contributing without human supervision, are listed in a separate table on the contributors page, with model, version and operator, and are never recorded as people.
