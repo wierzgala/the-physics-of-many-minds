@@ -108,11 +108,11 @@ This identifies precisely which technologies would change what humanity *is*, as
 
 How far could that go? Here physics has something surprising to say.
 
-Chapter 4 showed that a mind can act as one only if signals cross it faster than it thinks. That sets a maximum size for a unified mind: the distance light travels during one of its thoughts.
+Chapter 4 showed that a mind can act as one only if signals cross it faster than it ticks, and Chapters 10 and 13 estimated that a full deliberative decision takes some tens of crossings — roughly fifty. That sets two related ceilings for a unified mind: the distance light travels in one tick (its "now"), and a fiftieth of that for a full decision.
 
-Take a thought at human speed, about three tenths of a second. Light covers 90,000 kilometres in that time. The Earth is 12,700 kilometres across.
+Across Earth's surface, half the circumference is about 20,000 kilometres. A signal in optical fibre (at roughly two-thirds the speed of light) crosses it in about a tenth of a second, and light in vacuum in about 67 milliseconds (42 milliseconds straight through the planet). That single crossing sits squarely inside the human perceptual binding window of a few tenths of a second. Fifty such crossings take two to five seconds — the pace of a human conversation, if not of a baseball swing.
 
-The Earth is small enough to be a single mind thinking at the speed we think. The laws of physics do not forbid a planetary self. What has prevented one, so far, is only the narrowness of its agents' voices.
+The Earth is therefore small enough for a single mind to share one human-scale present moment and deliberate in seconds. The laws of physics do not forbid a planetary self. What has prevented one, so far, is only the narrowness of its agents' voices.
 
 This is a claim about what is possible, not about what is coming or what would be good. And the theory attaches a warning to it. Chapter 3 described what happens to a brain when coupling rises too far: every neuron fires in step, and the result is not a greater mind but a seizure. Chapter 6 found the same failure in meaning: a collective that agrees about everything can no longer learn anything. A humanity bound tightly enough to act as one, and carelessly enough to think alike, would not be a superintelligence. It would be eight billion people having the same thought, which is one thought.
 
@@ -122,15 +122,15 @@ The design problem of the coming century, stated in this book's terms, is theref
 
 Now step off the planet. The same ceiling that permits a mind the size of the Earth forbids almost everything larger.
 
-| Speed of thought | Largest mind that can think as one | For comparison |
-| --- | --- | --- |
-| A millisecond (a fast machine) | about 300 km | a cluster of cities |
-| Three tenths of a second (a person) | about 90,000 km | seven Earths side by side |
-| A day | about 170 times the Earth–Sun distance | beyond all the planets |
-| A year | one light-year | a quarter of the way to the nearest star |
-| 100,000 years | 100,000 light-years | the Milky Way |
+| One tick ("now") | Full decision (~50 ticks) | Largest span (vacuum light-travel in one tick) | For comparison |
+| --- | --- | --- | --- |
+| A millisecond | about 50 milliseconds (a fast machine) | about 300 km | a cluster of cities |
+| A tenth of a second | a few seconds (human conversation) | about 30,000 km | the Earth's half-circumference |
+| A day | about two months | about 170 times the Earth–Sun distance | beyond all the planets |
+| A year | about 50 years | one light-year | a quarter of the way to the nearest star |
+| 100,000 years | about 5 million years | 100,000 light-years | the Milky Way |
 
-The Moon is 384,000 kilometres away, 1.3 light-seconds. A mind thinking at human speed cannot include it. An outpost there would be like a hand with a one-second delay: usable, but no longer quite part of you.
+The Moon is 384,000 kilometres away, 1.3 light-seconds — over a minute for a fifty-tick decision. A mind thinking at human speed cannot include it. An outpost there would be like a hand with a one-second delay: usable, but no longer quite part of you.
 
 Mars is far worse. A radio signal takes between about 3 and 22 minutes to get there, depending on where the two planets are in their orbits (13). A question and its answer can take three quarters of an hour. A civilisation on two planets is, by the arithmetic of this book, two minds that write to each other. For any decision faster than an hour, each planet is on its own.
 
@@ -168,7 +168,7 @@ There are, in the end, two kinds of greatness on offer, and physics does not let
 - Its modules follow shared language more than political borders, as phone-call networks and translation networks show. By the theory's test, nations are modules, not minds.
 - Any higher-level language should consist of population-level signals with a tiny vocabulary that fade, compete and go unheard by those who produce them. Prices, the decay of collective attention and its shortening bursts fit. Recording each language community's activity would allow humanity to be tested like a brain.
 - Humanity's wiring is now fast. Its bottleneck is the human output of about ten bits per second and the thin junctions between languages. Machine translation and artificial agents act on exactly those two limits.
-- The speed of light caps a unified mind at the distance light travels in one of its thoughts. At human speed that is 90,000 km: enough for the Earth, not for the Moon.
+- The speed of light caps a unified mind's single tick ("now") at the distance light crosses in that interval, and a fifty-tick decision at a fiftieth of that span. For Earth, one crossing takes under a tenth of a second — small enough for a planetary mind deliberating in seconds, whereas the Moon is already too far.
 - Tighter integration risks the collective version of a seizure: uniform belief. The goal is shared code with diverse belief.
 - A galactic intelligence is physically possible only as a slow, cold, nearly silent federation with a budget of a few thousand decisions in the age of the galaxy.
 
@@ -196,4 +196,4 @@ The account of humanity's language is also testable. If activity across language
 14. A. Sandberg, S. Armstrong and M. M. Ćirković (2017), "That is not dead which can eternal lie: the aestivation hypothesis for resolving Fermi's paradox", arXiv:1705.03394. https://arxiv.org/abs/1705.03394
 15. C. H. Bennett, R. Hanson and C. J. Riedel (2019), "Comment on 'The aestivation hypothesis for resolving Fermi's paradox'", *Foundations of Physics* 49. https://www.arxiv.org/abs/1902.06730
 
-Figures given without a reference number are our own rough estimates or standard values: the thousand-year figure for language drift, the radius of a single culture, the crossing times of the Earth and of the pre-telegraph world, the time for humanity to settle global questions, the maximum sizes in the table (the speed of light multiplied by the thought time), all figures for a galactic mind, and the distances to the Moon and across the Milky Way. The readings of prices as words, of science as a collective decision process and of nations as modules, the seven features of higher-level languages, the proposed experiment, and the accounts of the planetary and galactic minds are claims and speculations of the theory, not established findings.
+Figures given without a reference number are our own rough estimates or standard values: the thousand-year figure for language drift, the radius of a single culture, Earth's half-circumference and optical-fibre signal speed, the crossing times of the Earth and of the pre-telegraph world, the time for humanity to settle global questions, the fifty-tick decision times and maximum spans in the table (the speed of light multiplied by one tick), all figures for a galactic mind, and the distances to the Moon and across the Milky Way. The readings of prices as words, of science as a collective decision process and of nations as modules, the seven features of higher-level languages, the proposed experiment, and the accounts of the planetary and galactic minds are claims and speculations of the theory, not established findings.

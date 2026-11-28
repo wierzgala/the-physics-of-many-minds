@@ -12,9 +12,9 @@ That in-between case is the best way into this chapter. The book has so far desc
 
 ## One number
 
-Chapter 4 introduced a pure number and promised that it would separate two kinds of mind. It is the ratio of **talk to thought**: how much information an agent processes inside itself, divided by how much it exchanges with the other agents.
+Chapter 4 introduced a pure number and promised that it would separate two kinds of mind. It is the ratio of **thought to talk**: how much information an agent processes inside itself, divided by how much it exchanges with the other agents.
 
-| Collective | Its agents | Talk against thought, roughly |
+| Collective | Its agents | Thought against talk, roughly |
 | --- | --- | --- |
 | Cortex | neurons | close to one: a neuron computes at the very synapses where it communicates |
 | Octopus | brain and eight arm cords | in between: arms do much locally and report little |
@@ -45,7 +45,7 @@ Here is a puzzle about yourself. Your brain has billions of neurons working in p
 
 The leading account of conscious access gives part of the answer. On the global workspace theory, information becomes conscious when a large network spanning the front and sides of the cortex suddenly "ignites", amplifying one representation and sustaining it so that it can be read by processors all over the brain (9, 10). The workspace is a broadcast. And a broadcast, by its nature, carries one programme at a time.
 
-The theory of this book offers a reason why such a stage should exist at all, and why it should be single. An integrated mind is defined by its parts all taking part in one process. The way a mind of many agents acts as one is to put something in front of all of them at once. That *is* a broadcast, and a broadcast has one channel. **The single stream of thought is the price of being one mind.** The ten bits per second that Zheng and Meister measured would then be the bandwidth of that stage, not of the brain behind it. This is the theory's claim, offered as an answer to their question.
+The theory of this book offers a reason why such a stage should exist at all, and why it should be single. An integrated mind is defined by its parts all taking part in one process, and an animal has only one body to commit to one action at a time. The way a mind of many agents acts as one is to put a single committed state in front of all of them at once. That *is* a broadcast, and a broadcast has one channel. Sensory areas can run massively in parallel behind the curtain, but at the level of choice, **the single stream of thought is the price of being one mind.** The ten bits per second that Zheng and Meister measured would then be the bandwidth of that stage, not of the brain behind it. This is the theory's claim, offered as an answer to their question.
 
 The integrated mind buys a great deal with that price. It is fast: its agents can be coordinated within one crossing time. It can hold a single model of a situation and change the whole of it at once, which is what an insight feels like. And, if Chapter 15 is right, it can be someone: a self, with one point of view.
 
@@ -79,7 +79,7 @@ Gathering the argument, the theory predicts these contrasts. Each row is a hypot
 
 | | Integrated | Federated |
 | --- | --- | --- |
-| Talk against thought | near one | far above one |
+| Thought against talk | near one | far above one |
 | Agents | simple | rich, each a mind in itself |
 | Speed | fast: one crossing time per step | slow: many rounds of summaries |
 | Size | limited, by crossing time and wiring | almost unlimited |
@@ -92,7 +92,7 @@ Gathering the argument, the theory predicts these contrasts. Each row is a hypot
 | A self? | possible | absent |
 | Best suited to | a fast, local world | a slow, wide world |
 
-The last row connects this chapter to the coherence number of Chapter 4. A mind must be integrated to act as one on a fast world, and it can only be integrated if it is small. A mind that must cover a wide world must be federated, and then it is slow. There is no design that is large, fast and unified at once. Chapter 16 found the same choice at the scale of planets: one can be unified and present, or vast and plural, but not both.
+The last row connects this chapter to the coherence number of Chapter 4. A mind must be integrated to act as one on a fast world, and it can only be integrated if it is small. A mind that must cover a wide world must be federated, and then it is slow. There is no design that is large, fast and unified at once. Chapter 16 finds the same choice at the scale of planets: one can be unified and present, or vast and plural, but not both.
 
 ## The octopus answered
 
@@ -104,7 +104,7 @@ And the scale can be travelled. A federated mind becomes more integrated if its 
 
 ## In short
 
-- The ratio of talk to thought, what an agent processes inside divided by what it exchanges, separates two kinds of mind. Near one, a mind is integrated, like a cortex. Far above one, it is federated, like a swarm, a colony or a society.
+- The ratio of thought to talk, what an agent processes inside divided by what it exchanges, separates two kinds of mind. Near one, a mind is integrated, like a cortex. Far above one, it is federated, like a swarm, a colony or a society.
 - Integrated minds are built from simple agents, federated minds from rich ones, so the two kinds alternate up the hierarchy. The human funnel, a billion bits per second in and ten out, makes any society of people federated.
 - People can only do one thing at a time at the level of choice, a stubborn bottleneck. The theory's claim: a mind acts as one by broadcasting, and a broadcast carries one programme, so a single stream of thought is the price of integration.
 - Ant colonies avoid the overload that single ants suffer, because each ant sees only part of the problem. Colonies beat individuals on fine discriminations and lose on easy ones.
@@ -113,7 +113,7 @@ And the scale can be travelled. A federated mind becomes more integrated if its 
 
 ## How we could be wrong
 
-The chapter's central claim is that one ratio predicts a cluster of properties. It would fail if collectives with similar ratios of talk to thought turned out to differ widely in speed, capacity for many simultaneous tasks, robustness and type of output, or if collectives with very different ratios behaved alike. The claim that a single stream of thought is the price of integration predicts that any integrated mind, natural or artificial, will show a serial bottleneck at the level where it acts as a whole, and that federated minds will not. An integrated system that made several unified choices at once, or a federated one with a true single stage, would count against it. The reading of team size as a move along the scale predicts that what matters is the density of communication relative to individual work, not headcount as such. A small team whose members rarely talk should behave like a federated mind, and a large team in constant, dense contact should behave like an integrated one. If disruption tracks headcount alone, regardless of how the team communicates, the theory's explanation is wrong.
+The chapter's central claim is that one ratio predicts a cluster of properties. It would fail if collectives with similar ratios of thought to talk turned out to differ widely in speed, capacity for many simultaneous tasks, robustness and type of output, or if collectives with very different ratios behaved alike. The claim that a single stream of thought is the price of integration predicts that any integrated mind, natural or artificial, will show a serial bottleneck at the level where it acts as a whole, and that federated minds will not. An integrated system that made several unified choices at once, or a federated one with a true single stage, would count against it. The reading of team size as a move along the scale predicts that what matters is the density of communication relative to individual work, not headcount as such. A small team whose members rarely talk should behave like a federated mind, and a large team in constant, dense contact should behave like an integrated one. If disruption tracks headcount alone, regardless of how the team communicates, the theory's explanation is wrong.
 
 ## References
 
@@ -133,4 +133,4 @@ The chapter's central claim is that one ratio predicts a cluster of properties. 
 14. M. E. Conway (1968), "How do committees invent?", *Datamation* 14:28–31.
 15. A. MacCormack, C. Baldwin and J. Rusnak (2012), "Exploring the duality between product and organizational architectures: a test of the 'mirroring' hypothesis", *Research Policy* 41:1309–1324. https://dash.harvard.edu/handle/1/34403525
 
-The values in the table of talk against thought are our own rough estimates. The rule that integrated minds are built from simple agents and federated minds from rich ones, the reading of the single stream of thought as the price of integration, the readings of team size and of Conway's law as moves along the scale, the table of contrasts, and the impossibility of a mind that is large, fast and unified at once are the theory's claims.
+The values in the table of thought against talk are our own rough estimates. The rule that integrated minds are built from simple agents and federated minds from rich ones, the reading of the single stream of thought as the price of integration, the readings of team size and of Conway's law as moves along the scale, the table of contrasts, and the impossibility of a mind that is large, fast and unified at once are the theory's claims.

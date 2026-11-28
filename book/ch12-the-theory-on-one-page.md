@@ -89,7 +89,7 @@ Chapter 4 explained why pure numbers matter: a ratio with no units is the same w
 | Name | Definition | What it decides | Chapter |
 | --- | --- | --- | --- |
 | Coherence number | T_w / t_x | whether the collective can act as one on its world; it must be well above 1 | 4 |
-| Thought to talk | r / (d × c) | integrated when near 1, federated when far above 1 | 4, 8 |
+| Thought to talk | r / r_comm (internal processing divided by independent external communication rate; note that broadcast fan-out across d identical outputs does not multiply independent bits sent) | integrated when near 1, federated when far above 1 | 4, 8 |
 | Memory horizon | N × m / (R_in × T_w) | how many world-times of experience it can hold | 4 |
 | Boundary number | traffic across the outer edge / B | whether it is a self; it must be far below 1 | 4, 15 |
 | Cost above the floor | energy per bit / Landauer's limit | how far from the thermodynamic minimum it runs | 2, 7 |
@@ -131,7 +131,7 @@ where k_B is Boltzmann's constant and Θ the temperature: about 3 × 10⁻²¹ j
 
 and in practice L ≤ v × t for whatever its signals are made of. This is the limit on size from Chapter 16.
 
-**The speed of change.** A system with energy E can pass through at most 2E / πħ distinguishable states per second, where ħ is Planck's constant (5). Applied to a kilogram of matter this gives the ceiling on capacity from Chapter 7 (6).
+**The speed of change.** A system with energy E can pass through at most 2E / πħ distinguishable states per second, where ħ is the reduced Planck constant (5). Applied to a kilogram of matter this gives the ceiling on capacity from Chapter 7 (6).
 
 ## The scaling relations
 
@@ -188,7 +188,7 @@ The bottom four rows are where the work is.
 
 ## What is missing
 
-Four things separate this framework from a complete physical theory.
+Six things separate this framework from a complete physical theory.
 
 **Equations of motion.** Thermodynamics says which states are possible; it took statistical mechanics to say how systems move between them. This framework has limits and ratios. It does not yet have equations that take a collective's variables at one moment and give them at the next. The accumulate-and-inhibit models of Chapter 1 are such equations for one kind of decision, and they are the natural starting point.
 
@@ -197,6 +197,10 @@ Four things separate this framework from a complete physical theory.
 **Operational definitions for the last four rows** of the table above.
 
 **A variable for repertoire.** Chapter 13 will show that the framework, applied to a real brain, accounts for its shape and badly underestimates its bulk, because nothing in the list above says how many different tasks a mind must be ready to perform.
+
+**An independence measure.** Context amplification κ alone does not separate shared code from shared belief. A complete set of pure numbers needs an explicit measure of how independent agents' errors remain conditional on the world (using tools such as conditional mutual information or partial information decomposition), turning "share code, not beliefs" into a quantitative phase diagram.
+
+**Agent alignment.** The variables above assume cooperative agents sharing a common objective, as neurons or clonal bees do. In markets, organisations and ecosystems, partially adversarial agents withhold information, bluff or hijack shared codes, adding a game-theoretic friction that lowers effective channel capacity and forces costly signalling.
 
 None of these is out of reach. Each could be attacked with a computer simulation of a few thousand simple agents, in which every variable in this chapter can be set and every pure number measured exactly. That is probably the most useful single piece of work the theory now needs.
 

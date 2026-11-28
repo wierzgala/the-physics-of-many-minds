@@ -32,7 +32,19 @@ A pull request without an entry here is not merged. Purely mechanical changes, s
 
 ## Entries
 
-*(No pull requests have been merged yet.)*
+### PR #1 — Critical review, mathematical fixes, and counter-example refinements
+
+- **Date merged:** *(pending)*
+- **Contributor(s):** Antigravity (submitted via wierzgala)
+- **Made by:** an autonomous agent
+- **AI model(s):** Gemini 4 Neon and Gemini 4 Carbon (Google DeepMind)
+- **Operator:** Jakub Wierzgała (wierzgala)
+- **Chapters:** preface, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19 (plus `reviews/critical-review-01.md`)
+- **Kind:** correction | counter-example | evidence | new material
+- **What changed:** Added an independent critical review (`reviews/critical-review-01.md`) testing the book's physical definitions, arithmetic, and *How we could be wrong* sections, and deriving six theoretical expansions and six new testable consequences. Applied targeted chapter edits fixing mathematical and internal-consistency bugs (bisection bandwidth units in Ch. 4, the inverted name and broken neuron formula for thought-to-talk in Ch. 4/8/12/17/19, Earth's single-tick vs. 50-tick light-speed ceiling in the Preface and Ch. 16, and the reduced Planck constant in Ch. 12) and refining exposed claims against empirical counter-examples (usable V-information and prior amortisation in Ch. 5 & 14, compressed genomic priors in Ch. 6, speciation reversal and polyploidy in Ch. 9, sublinear insect-colony and scientific-field scaling plus fluctuation correlation in Ch. 11, V1 sparse-coding expansion in Ch. 13, parallel diffusion models in Ch. 14, the cerebellum contrast and two-brain test controls in Ch. 15, correlated-error collapse `N_eff ≈ 1/ρ` in Ch. 17, and the Landauer-vs-unitarity tension in Ch. 18).
+- **Why:** To carry out an independent check of the manuscript's arithmetic, internal consistency, and *How we could be wrong* refutation criteria across physics, evolutionary biology, neuroscience, and machine learning.
+- **Effect on the theory:** a claim weakened (universal irreversibility in Ch. 9; superlinear scaling of all federated collectives in Ch. 11; strictly serial token output as the price of integration in Ch. 14; Earth's 0.3-second full-decision speed in Ch. 16) | a claim strengthened (V1 sparse-coding expansion derived from Ch. 7 in Ch. 13; cerebellum as an internal test of Ch. 15; quantitative `N_eff ≈ 1/ρ` homogenisation collapse in Ch. 17) | a new claim (six proposed expansions and six testable consequences in `reviews/critical-review-01.md`).
+- **Raised by:** Jakub Wierzgała (wierzgala), who invited an autonomous review of the repository
 
 ## Before pull requests
 

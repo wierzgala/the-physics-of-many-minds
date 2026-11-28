@@ -29,7 +29,7 @@ Three kinds of statement have been kept apart throughout. It is worth seeing how
 - Intelligent output is capacity times an efficiency that cannot exceed one.
 - Unity is a ratio of rates, in three forms: acting as one, being a self, staying one kind.
 - Minds are built from many slow agents because that is the cheapest way to move information.
-- The ratio of talk to thought sorts minds into integrated and federated kinds, with different speeds, products and failures.
+- The ratio of thought to talk sorts minds into integrated and federated kinds, with different speeds, products and failures.
 - The same thought can occur at different speeds in minds with matching pure numbers.
 - Levels of mind are marked by breaks in scaling laws, and an agent is a scale at which a summary is enough.
 - A collective should share code and keep beliefs diverse.
@@ -79,7 +79,7 @@ It would be dishonest to present only the tests the theory proposes for itself. 
 
 **The definition of efficiency may be the wrong one.** The ceiling of one, and everything said about superintelligence, depends on measuring achievement in bits of uncertainty removed. Real tasks are not all of that kind. If no general measure of achievement can be defined, the central formula is a slogan.
 
-**Many of the pure numbers were estimated, not measured.** The ratio of talk to thought, the context amplification of a couple, the boundary ratio of a self: the book gives rough values and argues from them. Until someone measures them properly, the arguments have the status of plausible arithmetic.
+**Many of the pure numbers were estimated, not measured.** The ratio of thought to talk, the context amplification of a couple, the boundary ratio of a self: the book gives rough values and argues from them. Until someone measures them properly, the arguments have the status of plausible arithmetic.
 
 **Some of the evidence is thin.** The claim that thin channels are cheaper per bit rests mainly on insect photoreceptors. The refinement about split brains rests on two patients. The account of conjoined twins rests on journalism. Several of the scaling laws are disputed on statistical grounds. Each of these was flagged where it appeared, and each could give way.
 
