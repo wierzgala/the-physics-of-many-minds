@@ -1,0 +1,49 @@
+name: Build books (EPUB & Print PDF)
+
+on:
+  workflow_dispatch:
+    inputs:
+      trim:
+        description: "Print PDF trim preset (6x9, b5, or a5)"
+        required: false
+        default: "6x9"
+        type: choice
+        options:
+          - 6x9
+          - b5
+          - a5
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Typst
+        uses: typst-community/setup-typst@v4
+        with:
+          typst-version: "0.15.1"
+
+      - name: Build EPUB3 and Print PDFs (EN & PL)
+        env:
+          TRIM: ${{ inputs.trim || '6x9' }}
+        run: |
+          python3 tools/build_book.py --lang all --format all --trim "$TRIM" --pod-bundle
+          if [ "$TRIM" != "b5" ]; then
+            python3 tools/build_book.py --lang pl --format pdf --trim b5 --pod-bundle
+          fi
+
+      - name: Upload compiled books
+        uses: actions/upload-artifact@v4
+        with:
+          name: compiled-books
+          path: dist/*
